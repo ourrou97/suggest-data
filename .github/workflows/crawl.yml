@@ -1,0 +1,43 @@
+name: suggestion-crawl
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suggestion-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: pip install DrissionPage
+
+      - name: Crawl
+        env:
+          MAX_REQUESTS: "250"
+          GAP_SECONDS: "8"
+        run: python crawl.py
+
+      - name: Save progress
+        if: always()
+        run: |
+          git config user.name "crawler"
+          git config user.email "crawler@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "crawl data $(date -u +%Y-%m-%dT%H:%M)"
+          git pull --rebase || true
+          git push || true
