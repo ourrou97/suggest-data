@@ -24,7 +24,7 @@ queensland maroons,2,trend,2026-11-17,2026-11-21,5,1,q
 quebec canada,2,trend,2026-11-17,2026-11-21,5,2,q
 queensland reds,2,trend,2026-11-17,2026-11-21,5,3,q
 queens new york,3,trend,2026-11-17,2026-11-21,3,5,q
-quad city river bandits,4,trend,2026-11-17,2026-11-17,1,6,q
+quad city river bandits,4,trend,2026-11-17,2026-11-23,3,6,q
 quaker parrot dad,3,trend,2026-11-17,2026-11-17,1,7,q
 quisp,1,trend,2026-11-17,2026-11-17,1,8,q
 motivation quotes,2,trend,2026-11-17,2026-11-19,6,10,q
@@ -164,7 +164,7 @@ lana del ray,3,pop,2026-11-17,2026-11-19,5,10,l
 iron lung,2,pop,2026-11-17,2026-11-21,5,12,l
 lewd,1,pop,2026-11-17,2026-11-18,3,13,l
 linux,1,pop,2026-11-17,2026-11-18,2,14,l
-david lynch,2,pop,2026-11-17,2026-11-18,3,15,l
+david lynch,2,pop,2026-11-17,2026-11-23,4,15,l
 lightning mcqueen,2,pop,2026-11-17,2026-11-19,2,16,l
 solo leveling,2,pop,2026-11-17,2026-11-20,5,17,l
 kendrick lamar,2,pop,2026-11-17,2026-11-20,5,18,l
@@ -180,7 +180,7 @@ lollipop chainsaw,2,trend,2026-11-17,2026-11-18,2,7,l
 lebron sixers,2,trend,2026-11-17,2026-11-18,2,8,l
 lime scooter,2,trend,2026-11-17,2026-11-21,3,9,l
 lake norman,2,trend,2026-11-17,2026-11-21,3,10,l
-lauren hill,2,trend,2026-11-17,2026-11-18,3,11,l
+lauren hill,2,trend,2026-11-17,2026-11-23,5,11,l
 lost show,2,trend,2026-11-17,2026-11-19,3,12,l
 lost boys,2,trend,2026-11-17,2026-11-18,2,13,l
 los pollos hermanos,3,trend,2026-11-17,2026-11-18,2,14,l
@@ -222,7 +222,7 @@ hydro funny,2,trend,2026-11-17,2026-11-19,4,10,h
 hookups skateboards,2,trend,2026-11-17,2026-11-20,3,11,h
 hello there,2,trend,2026-11-17,2026-11-17,2,12,h
 hot version,2,trend,2026-11-17,2026-11-17,2,13,h
-hotter than a hoochie coochie,5,trend,2026-11-17,2026-11-17,1,14,h
+hotter than a hoochie coochie,5,trend,2026-11-17,2026-11-23,2,14,h
 halley labs,2,trend,2026-11-17,2026-11-17,1,15,h
 him ville valo,3,trend,2026-11-17,2026-11-18,3,16,h
 hunter owl house,3,trend,2026-11-17,2026-11-22,5,17,h
@@ -369,7 +369,7 @@ virginia commonwealth university,3,trend,2026-11-17,2026-11-17,2,15,v
 vera bradley purple paisley,4,trend,2026-11-17,2026-11-20,4,16,v
 victor gideon,2,trend,2026-11-17,2026-11-17,2,17,v
 vocaloid gumi,2,trend,2026-11-17,2026-11-18,3,18,v
-vampire teeth,2,trend,2026-11-17,2026-11-19,3,19,v
+vampire teeth,2,trend,2026-11-17,2026-11-23,4,19,v
 yoshitomo nara,2,pop,2026-11-17,2026-11-18,5,0,y
 y2k,1,pop,2026-11-17,2026-11-19,2,1,y
 new york,2,pop,2026-11-17,2026-11-18,4,2,y
@@ -448,7 +448,7 @@ judy horacek,2,trend,2026-11-17,2026-11-18,2,14,j
 julier pass,2,trend,2026-11-17,2026-11-20,3,15,j
 jackyl,1,trend,2026-11-17,2026-11-18,2,16,j
 jelly fish,2,trend,2026-11-17,2026-11-19,4,17,j
-joongdunk,1,trend,2026-11-17,2026-11-18,2,18,j
+joongdunk,1,trend,2026-11-17,2026-11-23,4,18,j
 jeep wrangler,2,trend,2026-11-17,2026-11-18,4,19,j
 nyc,1,pop,2026-11-17,2026-11-18,3,0,n
 noah kahan,2,pop,2026-11-17,2026-11-18,4,1,n
@@ -643,7 +643,7 @@ website for sale,3,pop,2026-11-17,2026-11-19,6,19,w
 wilderness explorer,2,trend,2026-11-17,2026-11-18,3,0,w
 witchy aesthetic,2,trend,2026-11-17,2026-11-18,8,1,w
 winnipeg,1,trend,2026-11-17,2026-11-22,3,2,w
-west highland way,3,trend,2026-11-17,2026-11-18,3,3,w
+west highland way,3,trend,2026-11-17,2026-11-23,4,3,w
 winchester,1,trend,2026-11-17,2026-11-22,4,4,w
 wild horse,2,trend,2026-11-17,2026-11-19,3,5,w
 wpbl,1,trend,2026-11-17,2026-11-18,3,6,w
@@ -722,7 +722,7 @@ billy loomis,2,trend,2026-11-17,2026-11-17,2,9,b
 brittany broski,2,trend,2026-11-17,2026-11-18,2,10,b
 berkeley,1,trend,2026-11-17,2026-11-17,2,11,b
 boy better know,3,trend,2026-11-17,2026-11-17,4,12,b
-blind skateboards,2,trend,2026-11-17,2026-11-20,4,13,b
+blind skateboards,2,trend,2026-11-17,2026-11-23,6,13,b
 buffy the vampire slayer spike,5,trend,2026-11-17,2026-11-20,8,14,b
 before sunset,2,trend,2026-11-17,2026-11-17,2,15,b
 busch gardens tampa,3,trend,2026-11-17,2026-11-17,2,16,b
@@ -756,11 +756,11 @@ reggaeton,1,trend,2026-11-17,2026-11-17,1,9,r
 richard nixon,2,trend,2026-11-17,2026-11-17,2,10,r
 rowsdower,1,trend,2026-11-17,2026-11-17,2,11,r
 ren music,2,trend,2026-11-17,2026-11-18,2,12,r
-red pegasus,2,trend,2026-11-17,2026-11-19,2,13,r
+red pegasus,2,trend,2026-11-17,2026-11-23,4,13,r
 romantasy for bookish nerds,4,trend,2026-11-17,2026-11-19,7,14,r
 rizz em with the tism,5,trend,2026-11-17,2026-11-17,2,15,r
 rasta,1,trend,2026-11-17,2026-11-17,2,16,r
-rise of the teenage mutant ninja turtles,7,trend,2026-11-17,2026-11-22,7,17,r
+rise of the teenage mutant ninja turtles,7,trend,2026-11-17,2026-11-23,9,17,r
 respiratory therapist,2,trend,2026-11-17,2026-11-17,1,18,r
 riverdale,1,trend,2026-11-17,2026-11-17,2,19,r
 katseye,1,pop,2026-11-17,2026-11-18,3,0,k
@@ -799,7 +799,7 @@ mass effect,2,pop,2026-11-17,2026-11-18,4,6,e
 expedition 33,2,pop,2026-11-17,2026-11-18,3,8,e
 enhypen,1,pop,2026-11-17,2026-11-18,3,9,e
 emo,1,pop,2026-11-17,2026-11-19,2,10,e
-erling haaland,2,pop,2026-11-17,2026-11-19,3,11,e
+erling haaland,2,pop,2026-11-17,2026-11-23,4,11,e
 the expanse,2,pop,2026-11-17,2026-11-19,4,12,e
 philadelphia eagles,2,pop,2026-11-17,2026-11-19,5,13,e
 elliott smith,2,pop,2026-11-17,2026-11-19,4,14,e
@@ -814,17 +814,17 @@ everclear,1,trend,2026-11-17,2026-11-18,2,2,e
 electrical engineer,2,trend,2026-11-17,2026-11-18,3,3,e
 elvira,1,trend,2026-11-17,2026-11-18,3,4,e
 edgar allen poe,3,trend,2026-11-17,2026-11-18,2,5,e
-endicott,1,trend,2026-11-17,2026-11-18,2,6,e
+endicott,1,trend,2026-11-17,2026-11-23,3,6,e
 eucharist,1,trend,2026-11-17,2026-11-17,2,7,e
 emma stone,2,trend,2026-11-17,2026-11-21,3,8,e
-eddie haskell,2,trend,2026-11-17,2026-11-18,2,9,e
+eddie haskell,2,trend,2026-11-17,2026-11-23,4,9,e
 eagle owl,2,trend,2026-11-17,2026-11-22,5,10,e
 eiger,1,trend,2026-11-17,2026-11-17,2,11,e
 eastern rosella,2,trend,2026-11-17,2026-11-18,2,12,e
 evenstar,1,trend,2026-11-17,2026-11-18,2,13,e
 emma chamberlain,2,trend,2026-11-17,2026-11-21,3,14,e
 edgar degas,2,trend,2026-11-17,2026-11-18,2,16,e
-endeavour morse,2,trend,2026-11-17,2026-11-18,2,17,e
+endeavour morse,2,trend,2026-11-17,2026-11-23,3,17,e
 emo band,2,trend,2026-11-17,2026-11-19,4,18,e
 elon musk,2,trend,2026-11-17,2026-11-18,3,19,e
 disney,1,pop,2026-11-17,2026-11-18,3,1,d
@@ -843,7 +843,7 @@ daschund,1,trend,2026-11-17,2026-11-18,2,1,d
 dave matthews band firedancer,4,trend,2026-11-17,2026-11-19,4,2,d
 disney rides,2,trend,2026-11-17,2026-11-18,4,3,d
 dogtrovert,1,trend,2026-11-17,2026-11-18,3,4,d
-devils tower national park,4,trend,2026-11-17,2026-11-18,2,5,d
+devils tower national park,4,trend,2026-11-17,2026-11-23,3,5,d
 detroit pistons logo,3,trend,2026-11-17,2026-11-18,2,6,d
 danny de vito,3,trend,2026-11-17,2026-11-19,4,7,d
 donny osmond,2,trend,2026-11-17,2026-11-19,6,8,d
@@ -1075,19 +1075,19 @@ odyssey,1,pop,2026-11-17,2026-11-17,1,2,od
 odst,1,pop,2026-11-17,2026-11-17,1,3,od
 odin,1,pop,2026-11-17,2026-11-17,1,4,od
 odysseus,1,pop,2026-11-17,2026-11-17,1,5,od
-oddworld,1,pop,2026-11-17,2026-11-17,1,6,od
+oddworld,1,pop,2026-11-17,2026-11-23,2,6,od
 odetari,1,pop,2026-11-17,2026-11-17,1,7,od
-oddly specific,2,pop,2026-11-17,2026-11-19,2,8,od
+oddly specific,2,pop,2026-11-17,2026-11-23,3,8,od
 odesza,1,pop,2026-11-17,2026-11-17,1,9,od
 tom odell,2,pop,2026-11-17,2026-11-17,1,10,od
 assassins creed odyssey,3,pop,2026-11-17,2026-11-17,1,11,od
-oddish,1,pop,2026-11-17,2026-11-17,1,12,od
-fairly odd parents,3,pop,2026-11-17,2026-11-20,2,13,od
+oddish,1,pop,2026-11-17,2026-11-23,2,12,od
+fairly odd parents,3,pop,2026-11-17,2026-11-23,3,13,od
 mario odyssey,2,pop,2026-11-17,2026-11-17,1,14,od
 2001 space odyssey,3,pop,2026-11-17,2026-11-17,1,15,od
-pretty odd,2,pop,2026-11-17,2026-11-17,1,16,od
-fairly oddparents,2,pop,2026-11-17,2026-11-20,3,17,od
-odd,1,pop,2026-11-17,2026-11-17,1,18,od
+pretty odd,2,pop,2026-11-17,2026-11-23,2,16,od
+fairly oddparents,2,pop,2026-11-17,2026-11-23,5,17,od
+odd,1,pop,2026-11-17,2026-11-23,2,18,od
 daniel odonnell,2,pop,2026-11-17,2026-11-17,1,19,od
 odegaard,1,trend,2026-11-17,2026-11-17,1,2,od
 the odyssey film,3,trend,2026-11-17,2026-11-17,1,4,od
@@ -1120,20 +1120,20 @@ nsfwart,1,pop,2026-11-17,2026-11-17,1,1,ns
 nsx,1,pop,2026-11-17,2026-11-17,1,2,ns
 honda nsx,2,pop,2026-11-17,2026-11-17,1,3,ns
 nsa,1,pop,2026-11-17,2026-11-17,1,4,ns
-nsw national park,3,pop,2026-11-17,2026-11-17,1,5,ns
-nsw,1,pop,2026-11-17,2026-11-17,1,6,ns
-nsw rural fire service,4,pop,2026-11-17,2026-11-17,1,7,ns
-nsw blues,2,pop,2026-11-17,2026-11-17,1,8,ns
-newcastle nsw,2,pop,2026-11-17,2026-11-17,1,9,ns
-transport nsw,2,pop,2026-11-17,2026-11-17,1,10,ns
+nsw national park,3,pop,2026-11-17,2026-11-23,2,5,ns
+nsw,1,pop,2026-11-17,2026-11-23,2,6,ns
+nsw rural fire service,4,pop,2026-11-17,2026-11-23,2,7,ns
+nsw blues,2,pop,2026-11-17,2026-11-23,2,8,ns
+newcastle nsw,2,pop,2026-11-17,2026-11-23,2,9,ns
+transport nsw,2,pop,2026-11-17,2026-11-23,2,10,ns
 nso,1,pop,2026-11-17,2026-11-21,2,11,ns
-nsw rfs,2,pop,2026-11-17,2026-11-18,2,12,ns
+nsw rfs,2,pop,2026-11-17,2026-11-23,3,12,ns
 nsp,1,pop,2026-11-17,2026-11-17,1,13,ns
 nsr,1,pop,2026-11-17,2026-11-17,1,14,ns
-nsw police,2,pop,2026-11-17,2026-11-17,1,15,ns
+nsw police,2,pop,2026-11-17,2026-11-23,2,15,ns
 acura nsx,2,pop,2026-11-17,2026-11-17,1,16,ns
 nsf,1,pop,2026-11-17,2026-11-17,1,17,ns
-nsw fire rescue,3,pop,2026-11-17,2026-11-17,1,18,ns
+nsw fire rescue,3,pop,2026-11-17,2026-11-23,2,18,ns
 nsu,1,pop,2026-11-17,2026-11-22,2,19,ns
 bsd,1,pop,2026-11-17,2026-11-19,2,0,bs
 bsa,1,pop,2026-11-17,2026-11-17,1,1,bs
@@ -1478,7 +1478,7 @@ gps,1,pop,2026-11-17,2026-11-17,1,6,gp
 gpk,1,pop,2026-11-17,2026-11-17,1,7,gp
 gps tracker,2,pop,2026-11-17,2026-11-17,1,8,gp
 gpt,1,pop,2026-11-17,2026-11-17,1,9,gp
-apex gp,2,pop,2026-11-17,2026-11-17,1,10,gp
+apex gp,2,pop,2026-11-17,2026-11-23,2,10,gp
 david alonso moto gp,4,pop,2026-11-17,2026-11-17,1,11,gp
 the hoof gp,3,pop,2026-11-17,2026-11-17,1,12,gp
 chat gpt logo,3,pop,2026-11-17,2026-11-17,1,13,gp
@@ -1521,7 +1521,7 @@ obey,1,pop,2026-11-17,2026-11-17,1,7,ob
 oblivion,1,pop,2026-11-17,2026-11-17,1,8,ob
 object show,2,pop,2026-11-17,2026-11-21,2,9,ob
 obi wan,2,pop,2026-11-17,2026-11-17,1,10,ob
-dylan obrien,2,pop,2026-11-17,2026-11-17,2,11,ob
+dylan obrien,2,pop,2026-11-17,2026-11-23,3,11,ob
 obito,1,pop,2026-11-17,2026-11-17,1,12,ob
 obey me,2,pop,2026-11-17,2026-11-17,1,14,ob
 barack obama,2,pop,2026-11-17,2026-11-17,1,15,ob
@@ -1551,7 +1551,7 @@ vyvyan,1,pop,2026-11-17,2026-11-17,1,15,vy
 vyshyvanka ukrainian pattern,3,pop,2026-11-17,2026-11-20,2,16,vy
 vyper,1,pop,2026-11-17,2026-11-17,1,17,vy
 vyn richter,2,pop,2026-11-17,2026-11-17,1,18,vy
-vyxtrt,1,pop,2026-11-17,2026-11-17,1,19,vy
+vyxtrt,1,pop,2026-11-17,2026-11-23,2,19,vy
 red bull,2,pop,2026-11-17,2026-11-19,3,7,re
 redbubble seller login,3,pop,2026-11-17,2026-11-19,3,8,re
 golden retriever,2,pop,2026-11-17,2026-11-22,2,9,re
@@ -1599,7 +1599,7 @@ big ern mccracken,3,trend,2026-11-17,2026-11-17,2,3,mc
 peter mcpoland,2,trend,2026-11-17,2026-11-17,1,4,mc
 mushroom,1,pop,2026-11-17,2026-11-17,1,4,mu
 80s music,2,pop,2026-11-17,2026-11-18,2,6,mu
-teenage mutant ninja turtles,4,pop,2026-11-17,2026-11-22,3,7,mu
+teenage mutant ninja turtles,4,pop,2026-11-17,2026-11-23,4,7,mu
 music band,2,pop,2026-11-17,2026-11-19,3,8,mu
 musical theatre,2,pop,2026-11-17,2026-11-18,2,9,mu
 country music,2,pop,2026-11-17,2026-11-21,3,10,mu
@@ -1687,25 +1687,25 @@ dkb,1,pop,2026-11-17,2026-11-17,1,10,dk
 hoshi dk comeback,3,pop,2026-11-17,2026-11-17,1,11,dk
 lyrics,1,pop,2026-11-17,2026-11-17,1,1,ly
 song lyrics,2,pop,2026-11-17,2026-11-17,1,2,ly
-lynn painter,2,pop,2026-11-17,2026-11-17,1,3,ly
+lynn painter,2,pop,2026-11-17,2026-11-23,2,3,ly
 code lyoko,2,pop,2026-11-17,2026-11-20,2,4,ly
 lycoris recoil,2,pop,2026-11-17,2026-11-17,1,5,ly
 uber lyft,2,pop,2026-11-17,2026-11-18,2,6,ly
-ross lynch,2,pop,2026-11-17,2026-11-17,1,7,ly
+ross lynch,2,pop,2026-11-17,2026-11-23,2,7,ly
 noah kahan lyrics,3,pop,2026-11-17,2026-11-18,2,8,ly
-lynx,1,pop,2026-11-17,2026-11-17,1,9,ly
-barry lyndon,2,pop,2026-11-17,2026-11-17,1,10,ly
-joey lynch,2,pop,2026-11-17,2026-11-17,1,11,ly
-phil lynott,2,pop,2026-11-17,2026-11-17,1,12,ly
+lynx,1,pop,2026-11-17,2026-11-23,3,9,ly
+barry lyndon,2,pop,2026-11-17,2026-11-23,2,10,ly
+joey lynch,2,pop,2026-11-17,2026-11-23,2,11,ly
+phil lynott,2,pop,2026-11-17,2026-11-23,2,12,ly
 lyric,1,pop,2026-11-17,2026-11-17,1,13,ly
 music lyrics,2,pop,2026-11-17,2026-11-17,1,14,ly
 song lyric,2,pop,2026-11-17,2026-11-17,1,15,ly
-lynard skynard,2,pop,2026-11-17,2026-11-17,1,16,ly
-lynch,1,pop,2026-11-17,2026-11-17,1,17,ly
+lynard skynard,2,pop,2026-11-17,2026-11-23,2,16,ly
+lynch,1,pop,2026-11-17,2026-11-23,2,17,ly
 bts lyrics,2,pop,2026-11-17,2026-11-17,1,18,ly
 lyon,1,pop,2026-11-17,2026-11-20,2,19,ly
 make lying wrong again,4,trend,2026-11-17,2026-11-19,4,2,ly
-ginger lynn,2,trend,2026-11-17,2026-11-17,1,4,ly
+ginger lynn,2,trend,2026-11-17,2026-11-23,3,4,ly
 tennis,1,pop,2026-11-17,2026-11-22,2,2,te
 television,1,pop,2026-11-17,2026-11-17,1,3,te
 texas,1,pop,2026-11-17,2026-11-17,1,4,te
@@ -1713,11 +1713,11 @@ tea,1,pop,2026-11-17,2026-11-21,2,6,te
 terraria,1,pop,2026-11-17,2026-11-17,1,7,te
 terrifier,1,pop,2026-11-17,2026-11-17,1,8,te
 tesla,1,pop,2026-11-17,2026-11-17,1,9,te
-teen wolf,2,pop,2026-11-17,2026-11-20,4,10,te
+teen wolf,2,pop,2026-11-17,2026-11-23,5,10,te
 terminator,1,pop,2026-11-17,2026-11-17,1,11,te
 teto,1,pop,2026-11-17,2026-11-22,2,12,te
 kasane teto,2,pop,2026-11-17,2026-11-22,4,13,te
-teen titans,2,pop,2026-11-17,2026-11-17,1,14,te
+teen titans,2,pop,2026-11-17,2026-11-23,2,14,te
 tekken,1,pop,2026-11-17,2026-11-17,1,15,te
 tech,1,pop,2026-11-17,2026-11-17,1,16,te
 team fortress 2,3,pop,2026-11-17,2026-11-21,3,17,te
@@ -1737,7 +1737,7 @@ temple university,2,trend,2026-11-17,2026-11-17,1,11,te
 terraforming,1,trend,2026-11-17,2026-11-17,1,12,te
 tesla bumper,2,trend,2026-11-17,2026-11-18,3,13,te
 tenjin,1,trend,2026-11-17,2026-11-22,2,14,te
-texas aggies,2,trend,2026-11-17,2026-11-17,2,15,te
+texas aggies,2,trend,2026-11-17,2026-11-23,4,15,te
 tennis snoopy,2,trend,2026-11-17,2026-11-22,3,16,te
 teal mustard gray multicolor,4,trend,2026-11-17,2026-11-21,2,17,te
 terry hall,2,trend,2026-11-17,2026-11-17,1,18,te
@@ -1783,20 +1783,20 @@ ifugao pattern,2,pop,2026-11-17,2026-11-20,2,17,if
 well well well if it isnt the consequences of my own actions,12,pop,2026-11-17,2026-11-17,1,18,if
 if youre reading this its to late,7,pop,2026-11-17,2026-11-19,2,19,if
 if youre happy you know it clap your oh t rex,11,trend,2026-11-17,2026-11-20,6,1,if
-if he puts his hands on you cut them off,10,trend,2026-11-17,2026-11-20,3,2,if
-oogie boogie,2,pop,2026-11-17,2026-11-17,1,0,oo
+if he puts his hands on you cut them off,10,trend,2026-11-17,2026-11-23,4,2,if
+oogie boogie,2,pop,2026-11-17,2026-11-23,3,0,oo
 oor wullie,2,pop,2026-11-17,2026-11-17,2,1,oo
 oompa loompa,2,pop,2026-11-17,2026-11-17,1,2,oo
-master oogway,2,pop,2026-11-17,2026-11-17,1,3,oo
+master oogway,2,pop,2026-11-17,2026-11-23,2,3,oo
 oozma kappa,2,pop,2026-11-17,2026-11-17,1,4,oo
-oogway,1,pop,2026-11-17,2026-11-17,1,5,oo
+oogway,1,pop,2026-11-17,2026-11-23,2,5,oo
 oops,1,pop,2026-11-17,2026-11-17,1,6,oo
 oo de lally,3,pop,2026-11-17,2026-11-17,1,7,oo
 oof,1,pop,2026-11-17,2026-11-17,1,8,oo
 ookami mio,2,pop,2026-11-17,2026-11-17,1,9,oo
 ooblets,1,pop,2026-11-17,2026-11-17,1,10,oo
 ivan ooze,2,pop,2026-11-17,2026-11-17,1,11,oo
-oops i bought another book,5,pop,2026-11-17,2026-11-19,2,12,oo
+oops i bought another book,5,pop,2026-11-17,2026-11-23,4,12,oo
 oodle,1,pop,2026-11-17,2026-11-17,1,13,oo
 ainz ooal gown,3,pop,2026-11-17,2026-11-17,1,14,oo
 oozora subaru,2,pop,2026-11-17,2026-11-17,1,15,oo
@@ -1842,14 +1842,14 @@ lisa marie presley,3,trend,2026-11-17,2026-11-17,1,7,li
 linda ronstadt,2,trend,2026-11-17,2026-11-17,1,8,li
 libertarian porcupine,2,trend,2026-11-17,2026-11-17,1,9,li
 lisa the painful,3,trend,2026-11-17,2026-11-17,1,10,li
-live laugh lobotomy,3,trend,2026-11-17,2026-11-17,1,11,li
-liverpool city,2,trend,2026-11-17,2026-11-19,3,13,li
+live laugh lobotomy,3,trend,2026-11-17,2026-11-23,3,11,li
+liverpool city,2,trend,2026-11-17,2026-11-23,4,13,li
 lincoln cathedral,2,trend,2026-11-17,2026-11-17,1,14,li
 livigno,1,trend,2026-11-17,2026-11-17,1,15,li
 living in a van down by the river,8,trend,2026-11-17,2026-11-18,2,16,li
 life is goldendoodle,3,trend,2026-11-17,2026-11-17,1,17,li
 little flowers,2,trend,2026-11-17,2026-11-19,3,18,li
-lily allen west end girl,5,trend,2026-11-17,2026-11-18,2,19,li
+lily allen west end girl,5,trend,2026-11-17,2026-11-23,3,19,li
 shark,1,pop,2026-11-17,2026-11-17,1,1,sh
 shrek,1,pop,2026-11-17,2026-11-17,1,2,sh
 funny t shirts,3,pop,2026-11-17,2026-11-19,2,3,sh
@@ -1929,7 +1929,7 @@ bts army,2,pop,2026-11-17,2026-11-18,2,5,bt
 bts logo,2,pop,2026-11-17,2026-11-18,2,6,bt
 bts jimin,2,pop,2026-11-17,2026-11-18,2,7,bt
 bts suga,2,pop,2026-11-17,2026-11-18,2,8,bt
-bts jin,2,pop,2026-11-17,2026-11-18,2,9,bt
+bts jin,2,pop,2026-11-17,2026-11-23,3,9,bt
 bts world tour,3,pop,2026-11-17,2026-11-18,2,10,bt
 jimin bts,2,pop,2026-11-17,2026-11-18,3,11,bt
 arirang bts,2,pop,2026-11-17,2026-11-18,2,12,bt
@@ -1939,7 +1939,7 @@ bts rm,2,pop,2026-11-17,2026-11-18,3,15,bt
 bts funny,2,pop,2026-11-17,2026-11-18,2,16,bt
 bts memes,2,pop,2026-11-17,2026-11-18,6,17,bt
 bts swim,2,pop,2026-11-17,2026-11-22,3,18,bt
-jin bts,2,pop,2026-11-17,2026-11-18,2,19,bt
+jin bts,2,pop,2026-11-17,2026-11-23,3,19,bt
 bts i purple you,4,trend,2026-11-17,2026-11-20,3,1,bt
 bts tiny tan,3,trend,2026-11-17,2026-11-18,2,2,bt
 golden girls,2,pop,2026-11-17,2026-11-17,1,2,gi
@@ -2010,7 +2010,7 @@ tattoo,1,pop,2026-11-17,2026-11-17,1,3,ta
 talking heads,2,pop,2026-11-17,2026-11-17,2,4,ta
 taskmaster,1,pop,2026-11-17,2026-11-17,1,5,ta
 tangled,1,pop,2026-11-17,2026-11-17,1,6,ta
-taco bell,2,pop,2026-11-17,2026-11-17,2,7,ta
+taco bell,2,pop,2026-11-17,2026-11-23,3,7,ta
 thomas the tank engine,4,pop,2026-11-17,2026-11-18,2,8,ta
 taylor,1,pop,2026-11-17,2026-11-17,1,10,ta
 escape from tarkov,3,pop,2026-11-17,2026-11-22,4,11,ta
@@ -2019,7 +2019,7 @@ tally hall,2,pop,2026-11-17,2026-11-17,1,14,ta
 fairy tail,2,pop,2026-11-17,2026-11-20,2,15,ta
 periodic table,2,pop,2026-11-17,2026-11-17,1,16,ta
 dragon tales,2,pop,2026-11-17,2026-11-19,3,17,ta
-tactical,1,pop,2026-11-17,2026-11-17,1,18,ta
+tactical,1,pop,2026-11-17,2026-11-23,2,18,ta
 tamagotchi,1,pop,2026-11-17,2026-11-17,1,19,ta
 takamura,1,trend,2026-11-17,2026-11-17,1,3,ta
 tank,1,trend,2026-11-17,2026-11-17,1,4,ta
@@ -2033,7 +2033,7 @@ tattoo flash,2,trend,2026-11-17,2026-11-17,1,11,ta
 tais toi,2,trend,2026-11-17,2026-11-17,1,12,ta
 tax the church,3,trend,2026-11-17,2026-11-19,2,13,ta
 takemi,1,trend,2026-11-17,2026-11-17,1,14,ta
-tacobell,1,trend,2026-11-17,2026-11-17,1,16,ta
+tacobell,1,trend,2026-11-17,2026-11-23,3,16,ta
 taylor name,2,trend,2026-11-17,2026-11-17,1,17,ta
 tauntaun,1,trend,2026-11-17,2026-11-17,1,18,ta
 taos,1,trend,2026-11-17,2026-11-17,1,19,ta
@@ -2141,7 +2141,7 @@ cvs health,2,pop,2026-11-17,2026-11-17,1,1,cv
 cvs pharmacy,2,pop,2026-11-17,2026-11-17,1,2,cv
 cvicu nurse,2,pop,2026-11-17,2026-11-19,2,3,cv
 cvnt,1,pop,2026-11-17,2026-11-20,2,4,cv
-cvg,1,pop,2026-11-17,2026-11-17,1,5,cv
+cvg,1,pop,2026-11-17,2026-11-23,2,5,cv
 cvt,1,pop,2026-11-17,2026-11-17,1,6,cv
 cva,1,pop,2026-11-17,2026-11-17,1,7,cv
 cvicu,1,pop,2026-11-17,2026-11-19,2,8,cv
@@ -2464,7 +2464,7 @@ kmart australia,2,pop,2026-11-17,2026-11-17,1,3,km
 big sister kmart,3,pop,2026-11-17,2026-11-17,1,4,km
 kmd,1,pop,2026-11-17,2026-11-17,1,5,km
 kms,1,pop,2026-11-17,2026-11-17,1,6,km
-kmt,1,pop,2026-11-17,2026-11-17,1,7,km
+kmt,1,pop,2026-11-17,2026-11-23,2,7,km
 kmfdm logo,2,pop,2026-11-17,2026-11-17,1,8,km
 mi kmaq,2,pop,2026-11-17,2026-11-17,1,9,km
 kmfdm band,2,pop,2026-11-17,2026-11-17,1,10,km
@@ -2660,12 +2660,12 @@ astronomy,1,pop,2026-11-17,2026-11-17,1,6,as
 aston martin,2,pop,2026-11-17,2026-11-17,1,7,as
 asterix,1,pop,2026-11-17,2026-11-17,1,8,as
 astrology,1,pop,2026-11-17,2026-11-17,1,9,as
-asexual,1,pop,2026-11-17,2026-11-17,1,10,as
+asexual,1,pop,2026-11-17,2026-11-23,2,10,as
 asian,1,pop,2026-11-17,2026-11-17,1,11,as
 astro bot,2,pop,2026-11-17,2026-11-17,1,12,as
 as roma,2,pop,2026-11-17,2026-11-17,1,13,as
 ashnikko,1,pop,2026-11-17,2026-11-17,1,14,as
-that time i got reincarnated as a slime,8,pop,2026-11-17,2026-11-20,3,15,as
+that time i got reincarnated as a slime,8,pop,2026-11-17,2026-11-23,4,15,as
 astolfo,1,pop,2026-11-17,2026-11-17,1,16,as
 asuka,1,pop,2026-11-17,2026-11-17,1,17,as
 assassination classroom,2,pop,2026-11-17,2026-11-17,1,18,as
@@ -2721,7 +2721,7 @@ echo,1,pop,2026-11-17,2026-11-17,1,13,ec
 solar eclipse,2,pop,2026-11-17,2026-11-17,1,14,ec
 eco friendly,2,pop,2026-11-17,2026-11-21,3,15,ec
 ecstasy,1,pop,2026-11-17,2026-11-17,1,16,ec
-ecg,1,pop,2026-11-17,2026-11-17,1,17,ec
+ecg,1,pop,2026-11-17,2026-11-23,2,17,ec
 ecca vandal,2,pop,2026-11-17,2026-11-17,1,18,ec
 echo bike,2,pop,2026-11-17,2026-11-17,1,19,ec
 ecuador flag,2,trend,2026-11-17,2026-11-17,1,0,ec
@@ -2766,7 +2766,7 @@ black,1,pop,2026-11-17,2026-11-17,1,7,bl
 bladee,1,pop,2026-11-17,2026-11-17,1,8,bl
 blackpink,1,pop,2026-11-17,2026-11-17,1,9,bl
 black clover,2,pop,2026-11-17,2026-11-18,2,10,bl
-peaky blinders,2,pop,2026-11-17,2026-11-18,2,11,bl
+peaky blinders,2,pop,2026-11-17,2026-11-23,3,11,bl
 blue lock,2,pop,2026-11-17,2026-11-18,2,12,bl
 legally blonde,2,pop,2026-11-17,2026-11-18,2,13,bl
 toronto blue jays,3,pop,2026-11-17,2026-11-18,3,14,bl
@@ -2860,7 +2860,7 @@ hawaii,1,pop,2026-11-17,2026-11-17,1,11,ha
 hannah montana,2,pop,2026-11-17,2026-11-17,2,12,ha
 keith haring,2,pop,2026-11-17,2026-11-21,3,14,ha
 die hard,2,pop,2026-11-17,2026-11-18,2,16,ha
-the only thing more powerful than hate is love,9,pop,2026-11-17,2026-11-21,8,17,ha
+the only thing more powerful than hate is love,9,pop,2026-11-17,2026-11-23,9,17,ha
 project hail mary rocky,4,pop,2026-11-17,2026-11-20,6,19,ha
 haaland viking,2,trend,2026-11-17,2026-11-18,3,6,ha
 halloween some cases for the galaxy s twenty five,9,trend,2026-11-17,2026-11-19,3,7,ha
@@ -2875,41 +2875,41 @@ haddonfield,1,trend,2026-11-17,2026-11-17,1,15,ha
 hamsters,1,trend,2026-11-17,2026-11-22,2,16,ha
 habitat for humanity,3,trend,2026-11-17,2026-11-17,2,17,ha
 ham,1,trend,2026-11-17,2026-11-22,2,18,ha
-cinema,1,pop,2026-11-17,2026-11-17,1,1,ci
-city,1,pop,2026-11-17,2026-11-17,1,2,ci
-cinnamoroll,1,pop,2026-11-17,2026-11-17,1,3,ci
+cinema,1,pop,2026-11-17,2026-11-23,2,1,ci
+city,1,pop,2026-11-17,2026-11-23,2,2,ci
+cinnamoroll,1,pop,2026-11-17,2026-11-23,2,3,ci
 amazing circus,2,pop,2026-11-17,2026-11-17,2,4,ci
 circus,1,pop,2026-11-17,2026-11-17,1,5,ci
 the amazing digatal circus,4,pop,2026-11-17,2026-11-19,4,6,ci
-new york city,3,pop,2026-11-17,2026-11-18,4,7,ci
-manchester city,2,pop,2026-11-17,2026-11-17,1,8,ci
+new york city,3,pop,2026-11-17,2026-11-23,5,7,ci
+manchester city,2,pop,2026-11-17,2026-11-23,2,8,ci
 camel cigarettes,2,pop,2026-11-17,2026-11-20,2,9,ci
-crescent city,2,pop,2026-11-17,2026-11-17,1,10,ci
-kansas city chiefs,3,pop,2026-11-17,2026-11-18,2,11,ci
+crescent city,2,pop,2026-11-17,2026-11-23,2,10,ci
+kansas city chiefs,3,pop,2026-11-17,2026-11-23,3,11,ci
 cigarettes,1,pop,2026-11-17,2026-11-17,1,12,ci
-keeper of the lost cities,5,pop,2026-11-17,2026-11-18,2,13,ci
-vice city,2,pop,2026-11-17,2026-11-17,1,14,ci
+keeper of the lost cities,5,pop,2026-11-17,2026-11-23,3,13,ci
+vice city,2,pop,2026-11-17,2026-11-23,2,14,ci
 spirit stallion of the cimarron,5,pop,2026-11-17,2026-11-17,1,15,ci
 cillian murphy,2,pop,2026-11-17,2026-11-17,1,16,ci
-cincinnati reds,2,pop,2026-11-17,2026-11-17,1,17,ci
+cincinnati reds,2,pop,2026-11-17,2026-11-23,2,17,ci
 ciao,1,pop,2026-11-17,2026-11-17,1,18,ci
 cirque du soleil,3,pop,2026-11-17,2026-11-20,2,19,ci
 circle game,2,trend,2026-11-17,2026-11-17,1,0,ci
-citizen soldier band,3,trend,2026-11-17,2026-11-20,2,1,ci
+citizen soldier band,3,trend,2026-11-17,2026-11-23,3,1,ci
 circus tent,2,trend,2026-11-17,2026-11-22,2,2,ci
-citrus,1,trend,2026-11-17,2026-11-17,1,3,ci
+citrus,1,trend,2026-11-17,2026-11-23,2,3,ci
 ciri,1,trend,2026-11-17,2026-11-17,1,4,ci
 bella ciao,2,trend,2026-11-17,2026-11-17,2,5,ci
-new york city gold lettering,5,trend,2026-11-17,2026-11-18,2,7,ci
+new york city gold lettering,5,trend,2026-11-17,2026-11-23,3,7,ci
 skyrim cicero,2,trend,2026-11-17,2026-11-17,2,8,ci
-sun city,2,trend,2026-11-17,2026-11-17,1,9,ci
+sun city,2,trend,2026-11-17,2026-11-23,2,9,ci
 ebisu circuit,2,trend,2026-11-17,2026-11-18,3,11,ci
-bossier city,2,trend,2026-11-17,2026-11-17,1,12,ci
-raccoon city,2,trend,2026-11-17,2026-11-18,3,13,ci
+bossier city,2,trend,2026-11-17,2026-11-23,2,12,ci
+raccoon city,2,trend,2026-11-17,2026-11-23,5,13,ci
 netflix the circle,3,trend,2026-11-17,2026-11-17,1,14,ci
-old quebec city,3,trend,2026-11-17,2026-11-21,5,15,ci
-ocean city new jersey,4,trend,2026-11-17,2026-11-19,3,16,ci
-labrador city,2,trend,2026-11-17,2026-11-17,1,17,ci
+old quebec city,3,trend,2026-11-17,2026-11-23,6,15,ci
+ocean city new jersey,4,trend,2026-11-17,2026-11-23,4,16,ci
+labrador city,2,trend,2026-11-17,2026-11-23,2,17,ci
 zro,1,pop,2026-11-17,2026-11-17,1,0,zr
 zr1,1,pop,2026-11-17,2026-11-17,1,1,zr
 ultras zrinjski mostar,3,pop,2026-11-17,2026-11-17,1,2,zr
@@ -3199,7 +3199,7 @@ gta san andreas,3,pop,2026-11-17,2026-11-17,1,3,gt
 nissan gtr,2,pop,2026-11-17,2026-11-19,2,4,gt
 gta 5,2,pop,2026-11-17,2026-11-17,1,5,gt
 gtr,1,pop,2026-11-17,2026-11-19,2,6,gt
-gta vice city,3,pop,2026-11-17,2026-11-17,1,7,gt
+gta vice city,3,pop,2026-11-17,2026-11-23,2,7,gt
 gta vi,2,pop,2026-11-17,2026-11-17,1,8,gt
 porsche gt3 rs,3,pop,2026-11-17,2026-11-19,3,9,gt
 gt3,1,pop,2026-11-17,2026-11-17,1,10,gt
@@ -3357,7 +3357,7 @@ ztt,1,pop,2026-11-17,2026-11-17,1,1,zt
 cmat,1,pop,2026-11-17,2026-11-17,1,0,cm
 cm punk,2,pop,2026-11-17,2026-11-18,3,1,cm
 cmbyn,1,pop,2026-11-17,2026-11-17,1,2,cm
-cmyk,1,pop,2026-11-17,2026-11-17,1,3,cm
+cmyk,1,pop,2026-11-17,2026-11-23,2,3,cm
 cma cgm,2,pop,2026-11-17,2026-11-17,1,4,cm
 cmn,1,pop,2026-11-17,2026-11-17,1,5,cm
 run cmd,2,pop,2026-11-17,2026-11-17,1,6,cm
@@ -3447,7 +3447,7 @@ char aznable,2,pop,2026-11-17,2026-11-17,1,11,az
 azerbaijan,1,pop,2026-11-17,2026-11-17,1,12,az
 babar azam,2,pop,2026-11-17,2026-11-17,1,13,az
 azriel,1,pop,2026-11-17,2026-11-17,1,14,az
-jin jiyan azadi,3,pop,2026-11-17,2026-11-17,1,15,az
+jin jiyan azadi,3,pop,2026-11-17,2026-11-23,2,15,az
 az state,2,pop,2026-11-17,2026-11-17,1,16,az
 kai azer,2,pop,2026-11-17,2026-11-17,1,18,az
 aztec camera,2,pop,2026-11-17,2026-11-20,2,19,az
@@ -3508,12 +3508,12 @@ jiraiya,1,pop,2026-11-17,2026-11-17,1,7,ji
 jimny,1,pop,2026-11-17,2026-11-17,1,8,ji
 suzuki jimny,2,pop,2026-11-17,2026-11-17,1,10,ji
 jigglypuff,1,pop,2026-11-17,2026-11-17,1,11,ji
-xi jinping,2,pop,2026-11-17,2026-11-17,2,12,ji
+xi jinping,2,pop,2026-11-17,2026-11-23,3,12,ji
 jim carrey,2,pop,2026-11-17,2026-11-17,1,13,ji
 jim croce,2,pop,2026-11-17,2026-11-17,1,15,ji
 han jisung,2,pop,2026-11-17,2026-11-17,1,16,ji
 jid,1,pop,2026-11-17,2026-11-19,2,17,ji
-jin,1,pop,2026-11-17,2026-11-17,1,18,ji
+jin,1,pop,2026-11-17,2026-11-23,3,18,ji
 brazilian jiu jitsu,3,pop,2026-11-17,2026-11-17,1,19,ji
 jimmysea,1,trend,2026-11-17,2026-11-17,1,5,ji
 jimothy raccoon meme,3,trend,2026-11-17,2026-11-18,5,6,ji
@@ -3521,14 +3521,14 @@ jimothy for president,3,trend,2026-11-17,2026-11-18,3,7,ji
 jimmy anderson,2,trend,2026-11-17,2026-11-17,1,8,ji
 hot jimothy summer,3,trend,2026-11-17,2026-11-19,5,9,ji
 i brake for jimothy,4,trend,2026-11-17,2026-11-18,3,10,ji
-solo jinwoo,2,trend,2026-11-17,2026-11-20,2,11,ji
+solo jinwoo,2,trend,2026-11-17,2026-11-23,3,11,ji
 vzla,1,pop,2026-11-17,2026-11-17,1,0,vz
 lsu,1,pop,2026-11-17,2026-11-17,1,0,ls
 lsu tigers,2,pop,2026-11-17,2026-11-17,1,1,ls
 lse,1,pop,2026-11-17,2026-11-17,1,2,ls
 lsdream,1,pop,2026-11-17,2026-11-17,1,3,ls
 lsu football,2,pop,2026-11-17,2026-11-17,1,4,ls
-lsx,1,pop,2026-11-17,2026-11-17,1,5,ls
+lsx,1,pop,2026-11-17,2026-11-23,2,5,ls
 ls400,1,pop,2026-11-17,2026-11-17,1,6,ls
 ls dunes,2,pop,2026-11-17,2026-11-19,2,7,ls
 lsat,1,pop,2026-11-17,2026-11-19,2,8,ls
@@ -3585,7 +3585,7 @@ tloz,1,pop,2026-11-17,2026-11-20,2,16,tl
 tlingit art,2,pop,2026-11-17,2026-11-17,1,17,tl
 tldr,1,pop,2026-11-17,2026-11-17,1,18,tl
 tlingit eagle,2,pop,2026-11-17,2026-11-17,1,19,tl
-aqua teen hunger force,4,pop,2026-11-17,2026-11-17,1,0,aq
+aqua teen hunger force,4,pop,2026-11-17,2026-11-23,2,0,aq
 aquarius,1,pop,2026-11-17,2026-11-17,1,1,aq
 aquarium,1,pop,2026-11-17,2026-11-17,1,2,aq
 aqua,1,pop,2026-11-17,2026-11-17,1,3,aq
@@ -3694,7 +3694,7 @@ none of your emails are finding me well,8,trend,2026-11-17,2026-11-22,4,14,em
 wheel of emotions,3,trend,2026-11-17,2026-11-19,3,15,em
 this meeting could have been an email,7,trend,2026-11-17,2026-11-21,6,16,em
 jhope,1,pop,2026-11-17,2026-11-21,2,0,jh
-jhene aiko,2,pop,2026-11-17,2026-11-17,1,1,jh
+jhene aiko,2,pop,2026-11-17,2026-11-23,2,1,jh
 saint jhn,2,pop,2026-11-17,2026-11-17,1,2,jh
 bts jhope,2,pop,2026-11-17,2026-11-21,2,3,jh
 jhonen vasquez,2,pop,2026-11-17,2026-11-21,2,4,jh
@@ -3709,7 +3709,7 @@ jhin league of legends,4,pop,2026-11-17,2026-11-18,2,12,jh
 jhope meme,2,pop,2026-11-17,2026-11-21,2,13,jh
 jhumka,1,pop,2026-11-17,2026-11-22,2,14,jh
 jhonny sins costume,3,pop,2026-11-17,2026-11-21,2,15,jh
-jhene,1,pop,2026-11-17,2026-11-17,1,16,jh
+jhene,1,pop,2026-11-17,2026-11-23,2,16,jh
 jhay cortez,2,pop,2026-11-17,2026-11-17,1,17,jh
 jhope arirang,2,pop,2026-11-17,2026-11-21,2,18,jh
 jhonny sins johnny,3,pop,2026-11-17,2026-11-21,2,19,jh
@@ -3844,7 +3844,7 @@ kc royals,2,pop,2026-11-17,2026-11-17,1,3,kc
 kc and the sunshine band,5,pop,2026-11-17,2026-11-17,1,4,kc
 kc 135,2,pop,2026-11-17,2026-11-17,1,5,kc
 kc current,2,pop,2026-11-17,2026-11-17,1,6,kc
-kcl,1,pop,2026-11-17,2026-11-17,1,7,kc
+kcl,1,pop,2026-11-17,2026-11-23,2,7,kc
 kc undercover,2,pop,2026-11-17,2026-11-17,1,8,kc
 kcd 2,2,pop,2026-11-17,2026-11-17,1,9,kc
 kcrw,1,pop,2026-11-17,2026-11-17,1,10,kc
@@ -3892,7 +3892,7 @@ watch collector,2,trend,2026-11-17,2026-11-17,1,16,wa
 warning symbols,2,trend,2026-11-17,2026-11-17,2,17,wa
 walten files sha,3,trend,2026-11-17,2026-11-20,2,18,wa
 gustav klimt,2,pop,2026-11-17,2026-11-18,2,0,kl
-joost klein,2,pop,2026-11-17,2026-11-18,2,1,kl
+joost klein,2,pop,2026-11-17,2026-11-23,3,1,kl
 klimt,1,pop,2026-11-17,2026-11-17,1,2,kl
 hilma af klint,3,pop,2026-11-17,2026-11-18,2,3,kl
 killer klowns from outer space,5,pop,2026-11-17,2026-11-22,6,4,kl
@@ -4053,7 +4053,7 @@ pitbull,1,pop,2026-11-17,2026-11-17,1,6,pi
 twentyone pilots,2,pop,2026-11-17,2026-11-17,2,7,pi
 pickleball,1,pop,2026-11-17,2026-11-17,1,8,pi
 pikachu,1,pop,2026-11-17,2026-11-17,1,9,pi
-pizza,1,pop,2026-11-17,2026-11-17,1,10,pi
+pizza,1,pop,2026-11-17,2026-11-23,2,10,pi
 pirates of the caribbean,4,pop,2026-11-17,2026-11-18,3,11,pi
 scott pilgrim,2,pop,2026-11-17,2026-11-18,2,12,pi
 pinkpantheress,1,pop,2026-11-17,2026-11-19,2,13,pi
@@ -4071,7 +4071,7 @@ pink syngonium,2,trend,2026-11-17,2026-11-19,4,6,pi
 pibble,1,trend,2026-11-17,2026-11-17,1,7,pi
 pink polka dot,3,trend,2026-11-17,2026-11-19,2,8,pi
 pink deltarune,2,trend,2026-11-17,2026-11-19,4,9,pi
-pizza slice,2,trend,2026-11-17,2026-11-18,2,10,pi
+pizza slice,2,trend,2026-11-17,2026-11-23,4,10,pi
 pillsbury doughboy,2,trend,2026-11-17,2026-11-17,1,11,pi
 pinecone,1,trend,2026-11-17,2026-11-17,1,12,pi
 piano scales,2,trend,2026-11-17,2026-11-17,1,13,pi
@@ -4148,23 +4148,23 @@ metal gear fox hound,4,trend,2026-11-17,2026-11-22,3,11,me
 mexican pinata,2,trend,2026-11-17,2026-11-17,1,14,me
 mermen,1,trend,2026-11-17,2026-11-17,1,15,me
 melvins houdini,2,trend,2026-11-17,2026-11-20,2,16,me
-mecca,1,trend,2026-11-17,2026-11-17,1,17,me
+mecca,1,trend,2026-11-17,2026-11-23,3,17,me
 merritt island,2,trend,2026-11-17,2026-11-17,2,18,me
 metalocalypse toki,2,trend,2026-11-17,2026-11-22,2,19,me
 ww1,1,pop,2026-11-17,2026-11-17,1,0,ww
-wwdits,1,pop,2026-11-17,2026-11-17,1,1,ww
-wwdc,1,pop,2026-11-17,2026-11-17,1,2,ww
+wwdits,1,pop,2026-11-17,2026-11-23,2,1,ww
+wwdc,1,pop,2026-11-17,2026-11-23,2,2,ww
 wwjd,1,pop,2026-11-17,2026-11-17,2,3,ww
 wwg1wga,1,pop,2026-11-17,2026-11-22,2,4,ww
 www,1,pop,2026-11-17,2026-11-17,1,5,ww
 wwi,1,pop,2026-11-17,2026-11-17,1,6,ww
 ww 2,2,pop,2026-11-17,2026-11-17,1,7,ww
 wwwxxxiv more beautiful to know lyrics,6,pop,2026-11-17,2026-11-17,1,8,ww
-apple wwdc,2,pop,2026-11-17,2026-11-17,1,9,ww
+apple wwdc,2,pop,2026-11-17,2026-11-23,2,9,ww
 ww1 aircraft,2,pop,2026-11-17,2026-11-17,1,10,ww
 ww1 propaganda,2,pop,2026-11-17,2026-11-17,1,11,ww
 wwafawdwg,1,pop,2026-11-17,2026-11-17,1,12,ww
-wwdd,1,pop,2026-11-17,2026-11-17,1,13,ww
+wwdd,1,pop,2026-11-17,2026-11-23,2,13,ww
 wwu,1,pop,2026-11-17,2026-11-17,1,14,ww
 wwbd,1,pop,2026-11-17,2026-11-20,2,15,ww
 german ww1,2,pop,2026-11-17,2026-11-17,1,16,ww
@@ -4226,7 +4226,7 @@ project hail mary fist my bump,6,pop,2026-11-17,2026-11-20,3,16,my
 mythbusters,1,pop,2026-11-17,2026-11-17,1,17,my
 my up darling,3,pop,2026-11-17,2026-11-18,2,18,my
 my summer car,3,pop,2026-11-17,2026-11-19,3,19,my
-my brain has too many tabs open,7,trend,2026-11-17,2026-11-17,2,2,my
+my brain has too many tabs open,7,trend,2026-11-17,2026-11-23,4,2,my
 myrtle beach,2,trend,2026-11-17,2026-11-19,3,3,my
 myanmar,1,trend,2026-11-17,2026-11-17,1,4,my
 mysterio,1,trend,2026-11-17,2026-11-17,1,5,my
@@ -4249,8 +4249,8 @@ ppd,1,pop,2026-11-17,2026-11-17,1,9,pp
 funny ppe joke,3,pop,2026-11-17,2026-11-17,1,10,pp
 if i die at work please place my ppe on me,11,pop,2026-11-17,2026-11-17,1,11,pp
 ppop,1,pop,2026-11-17,2026-11-17,1,12,pp
-ppa,1,pop,2026-11-17,2026-11-17,1,13,pp
-ppap,1,pop,2026-11-17,2026-11-17,1,14,pp
+ppa,1,pop,2026-11-17,2026-11-23,2,13,pp
+ppap,1,pop,2026-11-17,2026-11-23,2,14,pp
 ppt,1,pop,2026-11-17,2026-11-17,1,15,pp
 small pp,2,pop,2026-11-17,2026-11-17,1,16,pp
 sb19 ppop kpop,3,pop,2026-11-17,2026-11-17,2,17,pp
@@ -4344,7 +4344,7 @@ cfmeu,1,pop,2026-11-17,2026-11-17,1,4,cf
 cfmoto,1,pop,2026-11-17,2026-11-17,1,5,cf
 cfa,1,pop,2026-11-17,2026-11-17,1,6,cf
 cfo,1,pop,2026-11-17,2026-11-17,1,7,cf
-cfh,1,pop,2026-11-17,2026-11-17,1,8,cf
+cfh,1,pop,2026-11-17,2026-11-23,2,8,cf
 me cfs,2,pop,2026-11-17,2026-11-17,1,9,cf
 cfp national championship,3,pop,2026-11-17,2026-11-21,2,10,cf
 cfc,1,pop,2026-11-17,2026-11-17,1,11,cf
@@ -4599,7 +4599,7 @@ vein fm,2,pop,2026-11-17,2026-11-17,1,15,fm
 capital fm,2,pop,2026-11-17,2026-11-17,1,16,fm
 kiss fm,2,pop,2026-11-17,2026-11-17,1,17,fm
 absolute radio fm,3,pop,2026-11-17,2026-11-17,1,18,fm
-fmx,1,pop,2026-11-17,2026-11-17,1,19,fm
+fmx,1,pop,2026-11-17,2026-11-23,2,19,fm
 ajr,1,pop,2026-11-17,2026-11-17,1,0,aj
 aj lee,2,pop,2026-11-17,2026-11-17,1,1,aj
 aja wilson,2,pop,2026-11-17,2026-11-21,2,2,aj
@@ -4620,26 +4620,26 @@ aj foyt,2,pop,2026-11-17,2026-11-21,2,16,aj
 aj shabeel,2,pop,2026-11-17,2026-11-17,1,17,aj
 ajolote,1,pop,2026-11-17,2026-11-21,2,18,aj
 aj brown,2,pop,2026-11-17,2026-11-17,1,19,aj
-shih tzu,2,pop,2026-11-17,2026-11-17,1,0,tz
+shih tzu,2,pop,2026-11-17,2026-11-23,2,0,tz
 tzeentch,1,pop,2026-11-17,2026-11-17,1,1,tz
-tzuyu,1,pop,2026-11-17,2026-11-17,1,2,tz
-sun tzu,2,pop,2026-11-17,2026-11-17,1,3,tz
-lao tzu,2,pop,2026-11-17,2026-11-17,1,4,tz
+tzuyu,1,pop,2026-11-17,2026-11-23,2,2,tz
+sun tzu,2,pop,2026-11-17,2026-11-23,2,3,tz
+lao tzu,2,pop,2026-11-17,2026-11-23,2,4,tz
 tzatziki,1,pop,2026-11-17,2026-11-17,1,5,tz
-twice tzuyu,2,pop,2026-11-17,2026-11-17,1,6,tz
+twice tzuyu,2,pop,2026-11-17,2026-11-23,2,6,tz
 tzimisce,1,pop,2026-11-17,2026-11-19,2,7,tz
-black shih tzu,3,pop,2026-11-17,2026-11-17,1,8,tz
-maltese shih tzu,3,pop,2026-11-17,2026-11-17,1,9,tz
-shih tzu quotes,3,pop,2026-11-17,2026-11-17,1,10,tz
-shih tzu mom,3,pop,2026-11-17,2026-11-17,1,11,tz
-shih tzu christmas,3,pop,2026-11-17,2026-11-17,1,12,tz
-shih tzu dog,3,pop,2026-11-17,2026-11-17,1,13,tz
+black shih tzu,3,pop,2026-11-17,2026-11-23,2,8,tz
+maltese shih tzu,3,pop,2026-11-17,2026-11-23,2,9,tz
+shih tzu quotes,3,pop,2026-11-17,2026-11-23,2,10,tz
+shih tzu mom,3,pop,2026-11-17,2026-11-23,2,11,tz
+shih tzu christmas,3,pop,2026-11-17,2026-11-23,2,12,tz
+shih tzu dog,3,pop,2026-11-17,2026-11-23,2,13,tz
 tzolkin,1,pop,2026-11-17,2026-11-17,1,14,tz
 tzedek tzedek tirdof,3,pop,2026-11-17,2026-11-17,1,15,tz
 warhammer tzeentch,2,pop,2026-11-17,2026-11-17,1,16,tz
-funny shih tzu,3,pop,2026-11-17,2026-11-17,1,17,tz
+funny shih tzu,3,pop,2026-11-17,2026-11-23,2,17,tz
 tzfat,1,pop,2026-11-17,2026-11-17,1,18,tz
-sun tzu quotes,3,pop,2026-11-17,2026-11-17,1,19,tz
+sun tzu quotes,3,pop,2026-11-17,2026-11-23,2,19,tz
 cccp,1,pop,2026-11-17,2026-11-17,1,0,cc
 ccr,1,pop,2026-11-17,2026-11-22,2,1,cc
 ccm hockey,2,pop,2026-11-17,2026-11-19,2,2,cc
@@ -4694,7 +4694,7 @@ xiao,1,pop,2026-11-17,2026-11-20,2,10,xi
 final fantasy xii,3,pop,2026-11-17,2026-11-20,3,11,xi
 xiao zhan,2,pop,2026-11-17,2026-11-20,3,12,xi
 red xiii,2,pop,2026-11-17,2026-11-20,2,13,xi
-chinese president xi jinping,4,pop,2026-11-17,2026-11-17,1,14,xi
+chinese president xi jinping,4,pop,2026-11-17,2026-11-23,2,14,xi
 yi xi,2,pop,2026-11-17,2026-11-18,2,15,xi
 pope leo xiv,3,pop,2026-11-17,2026-11-19,2,16,xi
 kings xi punjab,3,pop,2026-11-17,2026-11-17,1,17,xi
@@ -4863,7 +4863,7 @@ ophelia,1,pop,2026-11-17,2026-11-17,1,5,op
 the open golf,3,pop,2026-11-17,2026-11-18,2,6,op
 optical illusion,2,pop,2026-11-17,2026-11-18,2,7,op
 openclaw,1,pop,2026-11-17,2026-11-17,1,8,op
-opalite,1,pop,2026-11-17,2026-11-17,1,9,op
+opalite,1,pop,2026-11-17,2026-11-23,2,9,op
 operation ivy,2,pop,2026-11-17,2026-11-18,2,11,op
 oppenheimer,1,pop,2026-11-17,2026-11-17,1,12,op
 optometry,1,pop,2026-11-17,2026-11-17,1,13,op
@@ -4892,7 +4892,7 @@ bbyo,1,pop,2026-11-17,2026-11-17,1,14,bb
 bbc casualty,2,pop,2026-11-17,2026-11-17,1,15,bb
 i love bbc,3,pop,2026-11-17,2026-11-17,1,16,bb
 bbl,1,pop,2026-11-17,2026-11-17,1,17,bb
-bbokari,1,pop,2026-11-17,2026-11-17,1,18,bb
+bbokari,1,pop,2026-11-17,2026-11-23,2,18,bb
 bbc death in paradise,4,pop,2026-11-17,2026-11-17,1,19,bb
 bbq smoker,2,trend,2026-11-17,2026-11-18,2,0,bb
 jones bbq and foot massage,5,trend,2026-11-17,2026-11-22,2,1,bb
@@ -4994,7 +4994,7 @@ mgm,1,pop,2026-11-17,2026-11-17,1,7,mg
 mgk lost americana,3,pop,2026-11-17,2026-11-17,1,8,mg
 mgb gt,2,pop,2026-11-17,2026-11-17,1,9,mg
 mgm casino,2,pop,2026-11-17,2026-11-17,1,10,mg
-mgtow,1,pop,2026-11-17,2026-11-17,1,11,mg
+mgtow,1,pop,2026-11-17,2026-11-23,2,11,mg
 mg car,2,pop,2026-11-17,2026-11-17,1,12,mg
 mga,1,pop,2026-11-17,2026-11-21,2,13,mg
 mgm grand,2,pop,2026-11-17,2026-11-17,1,14,mg
@@ -5108,7 +5108,7 @@ veemon,1,trend,2026-11-17,2026-11-17,1,12,ve
 bible verse encouragement,3,trend,2026-11-17,2026-11-19,5,15,ve
 fear and loathing in las vegas,6,trend,2026-11-17,2026-11-18,2,17,ve
 steel vengeance,2,trend,2026-11-17,2026-11-21,4,18,ve
-devil may cry vergil,4,trend,2026-11-17,2026-11-17,1,19,ve
+devil may cry vergil,4,trend,2026-11-17,2026-11-23,2,19,ve
 epcot,1,pop,2026-11-17,2026-11-17,1,1,ep
 epic,1,pop,2026-11-17,2026-11-17,1,2,ep
 epic universe,2,pop,2026-11-17,2026-11-17,1,3,ep
@@ -5208,7 +5208,7 @@ tomboy,1,trend,2026-11-17,2026-11-17,1,10,to
 tom holland umbrella,3,trend,2026-11-17,2026-11-18,2,11,to
 tokio hotel pack,3,trend,2026-11-17,2026-11-17,1,12,to
 tony hancock,2,trend,2026-11-17,2026-11-17,1,13,to
-to wong foo thanks for everything julie newmar,8,trend,2026-11-17,2026-11-21,5,14,to
+to wong foo thanks for everything julie newmar,8,trend,2026-11-17,2026-11-23,6,14,to
 tow mater cars,3,trend,2026-11-17,2026-11-17,1,15,to
 tok pisin,2,trend,2026-11-17,2026-11-17,1,16,to
 torrey pines state park,4,trend,2026-11-17,2026-11-17,1,17,to
@@ -5423,7 +5423,7 @@ knower of stuff fixer of things,6,trend,2026-11-17,2026-11-21,2,0,kn
 know your worth and add tax,6,trend,2026-11-17,2026-11-21,4,1,kn
 knj,1,trend,2026-11-17,2026-11-17,1,2,kn
 knee replacement,2,trend,2026-11-17,2026-11-17,1,3,kn
-thats my purse i dont know you,7,trend,2026-11-17,2026-11-20,2,11,kn
+thats my purse i dont know you,7,trend,2026-11-17,2026-11-23,3,11,kn
 robinson knicks,2,trend,2026-11-17,2026-11-19,3,12,kn
 skeleton knight,2,trend,2026-11-17,2026-11-17,2,14,kn
 digimon crest of knowledge,4,trend,2026-11-17,2026-11-18,2,15,kn
@@ -5506,8 +5506,8 @@ nancy pelosi,2,trend,2026-11-17,2026-11-17,1,10,na
 naval air station miramar,4,trend,2026-11-17,2026-11-17,2,11,na
 nana manga,2,trend,2026-11-17,2026-11-18,3,12,na
 native american medicine wheel,4,trend,2026-11-17,2026-11-19,3,13,na
-natural history museum,3,trend,2026-11-17,2026-11-17,1,14,na
-nail technician,2,trend,2026-11-17,2026-11-17,1,15,na
+natural history museum,3,trend,2026-11-17,2026-11-23,2,14,na
+nail technician,2,trend,2026-11-17,2026-11-23,3,15,na
 nashville tv show,3,trend,2026-11-17,2026-11-19,4,16,na
 nana and hachi,3,trend,2026-11-17,2026-11-18,3,17,na
 national wrestling alliance,3,trend,2026-11-17,2026-11-17,2,18,na
@@ -5529,9 +5529,9 @@ monster naoki urasawa,3,pop,2026-11-17,2026-11-17,1,4,ur
 uriah heep,2,pop,2026-11-17,2026-11-17,1,5,ur
 ursula,1,pop,2026-11-17,2026-11-17,1,6,ur
 urban planning,2,pop,2026-11-17,2026-11-17,1,7,ur
-urusei yatsura,2,pop,2026-11-17,2026-11-17,1,8,ur
+urusei yatsura,2,pop,2026-11-17,2026-11-23,2,8,ur
 uri,1,pop,2026-11-17,2026-11-17,1,9,ur
-sub urban,2,pop,2026-11-17,2026-11-17,1,10,ur
+sub urban,2,pop,2026-11-17,2026-11-23,2,10,ur
 ura,1,pop,2026-11-17,2026-11-17,1,11,ur
 urology,1,pop,2026-11-17,2026-11-20,2,12,ur
 urdu poetry,2,pop,2026-11-17,2026-11-17,1,13,ur
@@ -5601,7 +5601,7 @@ university of wyoming,3,trend,2026-11-17,2026-11-18,3,13,un
 unicorn banana,2,trend,2026-11-17,2026-11-19,2,14,un
 unhhhh,1,trend,2026-11-17,2026-11-17,1,15,un
 unforgiven,1,trend,2026-11-17,2026-11-21,3,16,un
-unless your ancestors look like this,6,trend,2026-11-17,2026-11-21,2,17,un
+unless your ancestors look like this,6,trend,2026-11-17,2026-11-23,3,17,un
 unabomber,1,trend,2026-11-17,2026-11-17,1,18,un
 undertale papyrus,2,trend,2026-11-17,2026-11-18,3,19,un
 ych,1,pop,2026-11-17,2026-11-17,1,0,yc
@@ -5636,7 +5636,7 @@ rat poison,2,trend,2026-11-17,2026-11-19,2,13,ra
 ratt band,2,trend,2026-11-17,2026-11-19,2,14,ra
 raccoon rock,2,trend,2026-11-17,2026-11-20,3,15,ra
 raft of the medusa,4,trend,2026-11-17,2026-11-17,1,16,ra
-ramen oni,2,trend,2026-11-17,2026-11-17,1,17,ra
+ramen oni,2,trend,2026-11-17,2026-11-23,2,17,ra
 rabbit playing drums,3,trend,2026-11-17,2026-11-18,2,18,ra
 ramattra,1,trend,2026-11-17,2026-11-17,1,19,ra
 aespa,1,pop,2026-11-17,2026-11-17,1,2,ae
@@ -5656,7 +5656,7 @@ green aesthetic,2,pop,2026-11-17,2026-11-18,7,19,ae
 aeon flux,2,trend,2026-11-17,2026-11-17,1,1,ae
 aedes aegypti,2,trend,2026-11-17,2026-11-17,1,3,ae
 iup,1,pop,2026-11-17,2026-11-20,2,0,iu
-audentes fortuna iuvat,3,pop,2026-11-17,2026-11-17,1,1,iu
+audentes fortuna iuvat,3,pop,2026-11-17,2026-11-23,2,1,iu
 iud,1,pop,2026-11-17,2026-11-17,1,2,iu
 iu kpop,2,pop,2026-11-17,2026-11-17,1,3,iu
 iu sucks,2,pop,2026-11-17,2026-11-17,1,4,iu
@@ -5910,7 +5910,7 @@ grace and rocky,3,trend,2026-11-17,2026-11-20,2,18,gr
 tdk,1,pop,2026-11-17,2026-11-17,1,0,td
 bloons td 6,3,pop,2026-11-17,2026-11-17,1,1,td
 tdi,1,pop,2026-11-17,2026-11-17,1,2,td
-tds,1,pop,2026-11-17,2026-11-17,1,3,td
+tds,1,pop,2026-11-17,2026-11-23,2,3,td
 tde,1,pop,2026-11-17,2026-11-17,1,4,td
 bloons td6,2,pop,2026-11-17,2026-11-17,1,5,td
 tdoodles,1,pop,2026-11-17,2026-11-21,2,6,td
@@ -5977,7 +5977,7 @@ kino,1,pop,2026-11-17,2026-11-17,1,18,ki
 king crimson,2,pop,2026-11-17,2026-11-17,1,19,ki
 kintsugi,1,trend,2026-11-17,2026-11-17,1,4,ki
 kitchen witch,2,trend,2026-11-17,2026-11-18,2,5,ki
-king geedorah,2,trend,2026-11-17,2026-11-17,1,6,ki
+king geedorah,2,trend,2026-11-17,2026-11-23,3,6,ki
 killing stalking,2,trend,2026-11-17,2026-11-17,1,7,ki
 kings college,2,trend,2026-11-17,2026-11-17,1,8,ki
 killing joke band,3,trend,2026-11-17,2026-11-19,4,9,ki
@@ -5998,7 +5998,7 @@ pro wrestling,2,pop,2026-11-17,2026-11-17,1,4,wr
 wrc,1,pop,2026-11-17,2026-11-20,2,5,wr
 wrapping paper,2,pop,2026-11-17,2026-11-17,1,6,wr
 wreck it ralph,3,pop,2026-11-17,2026-11-17,1,8,wr
-subaru wrx,2,pop,2026-11-17,2026-11-17,1,9,wr
+subaru wrx,2,pop,2026-11-17,2026-11-23,2,9,wr
 wrx,1,pop,2026-11-17,2026-11-17,1,10,wr
 wrexham,1,pop,2026-11-17,2026-11-17,1,11,wr
 juice wrld 999,3,pop,2026-11-17,2026-11-18,2,12,wr
@@ -6046,7 +6046,7 @@ lxix,1,pop,2026-11-17,2026-11-17,1,5,lx
 lxx,1,pop,2026-11-17,2026-11-17,1,6,lx
 art deco,2,pop,2026-11-17,2026-11-20,4,6,ar
 arirang,1,pop,2026-11-17,2026-11-17,1,7,ar
-arrested development,2,pop,2026-11-17,2026-11-18,2,8,ar
+arrested development,2,pop,2026-11-17,2026-11-23,3,8,ar
 the magnus archives,3,pop,2026-11-17,2026-11-17,2,9,ar
 stormlight archive,2,pop,2026-11-17,2026-11-18,2,10,ar
 arabic,1,pop,2026-11-17,2026-11-17,1,12,ar
@@ -6058,7 +6058,7 @@ argentina,1,pop,2026-11-17,2026-11-17,1,17,ar
 architecture,1,pop,2026-11-17,2026-11-17,1,18,ar
 arnold schwarzenegger,2,pop,2026-11-17,2026-11-18,2,19,ar
 archeopteryx,1,trend,2026-11-17,2026-11-17,1,1,ar
-arknights endfield,2,trend,2026-11-17,2026-11-18,2,2,ar
+arknights endfield,2,trend,2026-11-17,2026-11-23,4,2,ar
 arthur andersen,2,trend,2026-11-17,2026-11-19,2,3,ar
 arizona tea,2,trend,2026-11-17,2026-11-21,2,4,ar
 artful dodger,2,trend,2026-11-17,2026-11-19,2,5,ar
@@ -6126,7 +6126,7 @@ math,1,pop,2026-11-17,2026-11-17,1,9,ma
 manga,1,pop,2026-11-17,2026-11-17,1,10,ma
 matcha,1,pop,2026-11-17,2026-11-17,1,11,ma
 marilyn monroe,2,pop,2026-11-17,2026-11-17,1,13,ma
-devil may cry,3,pop,2026-11-17,2026-11-18,3,14,ma
+devil may cry,3,pop,2026-11-17,2026-11-23,4,14,ma
 mazzy star,2,pop,2026-11-17,2026-11-17,1,15,ma
 mamma mia,2,pop,2026-11-17,2026-11-18,2,17,ma
 marcus the worm,3,pop,2026-11-17,2026-11-18,2,18,ma
@@ -6160,7 +6160,7 @@ oceanside,1,trend,2026-11-17,2026-11-19,2,2,oc
 october rust,2,trend,2026-11-17,2026-11-18,2,3,oc
 octocat,1,trend,2026-11-17,2026-11-17,1,4,oc
 oceanic whitetip shark,3,trend,2026-11-17,2026-11-19,2,5,oc
-oconee station state historic park,5,trend,2026-11-17,2026-11-17,1,6,oc
+oconee station state historic park,5,trend,2026-11-17,2026-11-23,2,6,oc
 ocean breeze soap,3,trend,2026-11-17,2026-11-19,2,8,oc
 protect the ocean,3,trend,2026-11-17,2026-11-19,3,9,oc
 doc ock,2,trend,2026-11-17,2026-11-17,1,10,oc
@@ -6192,7 +6192,7 @@ nutria,1,trend,2026-11-17,2026-11-17,1,3,nu
 nu pogodi,2,trend,2026-11-17,2026-11-17,1,4,nu
 nutley,1,trend,2026-11-17,2026-11-17,1,5,nu
 nyu,1,pop,2026-11-17,2026-11-17,1,1,ny
-nyc subway,2,pop,2026-11-17,2026-11-18,2,2,ny
+nyc subway,2,pop,2026-11-17,2026-11-23,3,2,ny
 nyota,1,pop,2026-11-17,2026-11-21,2,3,ny
 ny knicks,2,pop,2026-11-17,2026-11-19,2,4,ny
 ny giants,2,pop,2026-11-17,2026-11-21,2,5,ny
@@ -6261,7 +6261,7 @@ psychic tv,2,pop,2026-11-17,2026-11-18,3,16,ps
 color psycho,2,pop,2026-11-17,2026-11-17,1,17,ps
 ps1,1,pop,2026-11-17,2026-11-17,1,18,ps
 psg ultras,2,pop,2026-11-17,2026-11-18,2,19,ps
-psl,1,trend,2026-11-17,2026-11-17,1,2,ps
+psl,1,trend,2026-11-17,2026-11-23,3,2,ps
 school psychology,2,trend,2026-11-17,2026-11-18,2,3,ps
 ap psychology,2,trend,2026-11-17,2026-11-17,2,4,ps
 wnba,1,pop,2026-11-17,2026-11-17,1,0,wn
@@ -6275,7 +6275,7 @@ wnba basketball,2,pop,2026-11-17,2026-11-17,1,7,wn
 wnyx,1,pop,2026-11-17,2026-11-19,2,8,wn
 wnba player,2,pop,2026-11-17,2026-11-17,1,9,wn
 everyone watches the wnba,4,pop,2026-11-17,2026-11-17,1,10,wn
-wne,1,pop,2026-11-17,2026-11-17,1,11,wn
+wne,1,pop,2026-11-17,2026-11-23,2,11,wn
 wnc,1,pop,2026-11-17,2026-11-21,2,12,wn
 ny liberty wnba,3,pop,2026-11-17,2026-11-17,1,13,wn
 wnba pride,2,pop,2026-11-17,2026-11-17,1,14,wn
@@ -6427,20 +6427,20 @@ agatha christie,2,pop,2026-11-17,2026-11-17,1,4,ag
 rage against machine,3,pop,2026-11-17,2026-11-17,1,5,ag
 rise against,2,pop,2026-11-17,2026-11-17,1,6,ag
 agatha all along,3,pop,2026-11-17,2026-11-17,1,7,ag
-agggtm,1,pop,2026-11-17,2026-11-17,1,8,ag
+agggtm,1,pop,2026-11-17,2026-11-23,2,8,ag
 agartha,1,pop,2026-11-17,2026-11-17,1,9,ag
 agust d,2,pop,2026-11-17,2026-11-17,1,10,ag
 age of empires 2,4,pop,2026-11-17,2026-11-17,1,11,ag
 agriculture,1,pop,2026-11-17,2026-11-22,2,12,ag
-agnes tachyon,2,pop,2026-11-17,2026-11-17,1,13,ag
+agnes tachyon,2,pop,2026-11-17,2026-11-23,2,13,ag
 canadian space agency,3,pop,2026-11-17,2026-11-17,1,14,ag
-aggretsuko,1,pop,2026-11-17,2026-11-17,1,15,ag
+aggretsuko,1,pop,2026-11-17,2026-11-23,2,15,ag
 christina aguilera,2,pop,2026-11-17,2026-11-17,1,16,ag
 against me,2,pop,2026-11-17,2026-11-17,1,17,ag
 dragon age inquisition,3,pop,2026-11-17,2026-11-17,1,18,ag
 central intelligence agency,3,pop,2026-11-17,2026-11-20,2,19,ag
 agalloch,1,trend,2026-11-17,2026-11-17,1,1,ag
-aggron,1,trend,2026-11-17,2026-11-17,1,2,ag
+aggron,1,trend,2026-11-17,2026-11-23,3,2,ag
 against religious bigotry,3,trend,2026-11-17,2026-11-17,1,3,ag
 the gilded age,3,trend,2026-11-17,2026-11-17,1,6,ag
 the gilded age show,4,trend,2026-11-17,2026-11-19,2,7,ag
@@ -6566,7 +6566,7 @@ one piece robin,3,trend,2026-11-17,2026-11-18,3,2,on
 one piece perona,3,trend,2026-11-17,2026-11-18,2,3,on
 only lovers left alive,4,trend,2026-11-17,2026-11-21,3,4,on
 once musical,2,trend,2026-11-17,2026-11-18,2,5,on
-onimai,1,trend,2026-11-17,2026-11-17,1,6,on
+onimai,1,trend,2026-11-17,2026-11-23,3,6,on
 one piece silhouette,3,trend,2026-11-17,2026-11-18,2,7,on
 one bfdi,2,trend,2026-11-17,2026-11-19,2,8,on
 on the buses,3,trend,2026-11-17,2026-11-17,1,9,on
@@ -6918,11 +6918,11 @@ rb25det,1,pop,2026-11-17,2026-11-17,1,11,rb
 rb tour,2,pop,2026-11-17,2026-11-17,1,12,rb
 rbg quotes,2,pop,2026-11-17,2026-11-17,1,13,rb
 rbc royal bank,3,pop,2026-11-17,2026-11-17,1,14,rb
-rbb,1,pop,2026-11-17,2026-11-17,1,15,rb
+rbb,1,pop,2026-11-17,2026-11-23,2,15,rb
 rbmk,1,pop,2026-11-17,2026-11-17,1,16,rb
 aba therapy rbt,3,pop,2026-11-17,2026-11-17,1,17,rb
 redbubble rb uk,3,pop,2026-11-17,2026-11-18,2,18,rb
-rbl,1,pop,2026-11-17,2026-11-17,1,19,rb
+rbl,1,pop,2026-11-17,2026-11-23,2,19,rb
 sjm,1,pop,2026-11-17,2026-11-17,2,0,sj
 sjsu,1,pop,2026-11-17,2026-11-17,1,1,sj
 sju,1,pop,2026-11-17,2026-11-17,1,2,sj
@@ -7036,7 +7036,7 @@ yankees,1,pop,2026-11-17,2026-11-17,1,3,ya
 yayoi kusama,2,pop,2026-11-17,2026-11-17,2,4,ya
 new york yankees,3,pop,2026-11-17,2026-11-18,4,5,ya
 yamato,1,pop,2026-11-17,2026-11-17,1,6,ya
-yin yang,2,pop,2026-11-17,2026-11-18,2,7,ya
+yin yang,2,pop,2026-11-17,2026-11-23,3,7,ya
 baba yaga,2,pop,2026-11-17,2026-11-21,2,8,ya
 yaelokre,1,pop,2026-11-17,2026-11-17,1,9,ya
 yale,1,pop,2026-11-17,2026-11-17,1,10,ya
@@ -7046,7 +7046,7 @@ ya ali,2,pop,2026-11-17,2026-11-17,1,13,ya
 kimetsu no yaiba,3,pop,2026-11-17,2026-11-17,1,14,ya
 weird al yankovic,3,pop,2026-11-17,2026-11-19,2,15,ya
 can yaman,2,pop,2026-11-17,2026-11-17,1,16,ya
-dorian yates,2,pop,2026-11-17,2026-11-17,1,17,ya
+dorian yates,2,pop,2026-11-17,2026-11-23,2,17,ya
 yandere simulator,2,pop,2026-11-17,2026-11-17,1,18,ya
 yarn,1,pop,2026-11-17,2026-11-21,2,19,ya
 yay,1,trend,2026-11-17,2026-11-17,1,4,ya
@@ -7078,7 +7078,7 @@ glee,1,pop,2026-11-17,2026-11-22,2,2,gl
 stained glass,2,pop,2026-11-17,2026-11-17,1,3,gl
 glitter,1,pop,2026-11-17,2026-11-17,1,4,gl
 glossier,1,pop,2026-11-17,2026-11-17,1,5,gl
-thai gl,2,pop,2026-11-17,2026-11-17,1,6,gl
+thai gl,2,pop,2026-11-17,2026-11-23,2,6,gl
 glass animals,2,pop,2026-11-17,2026-11-19,2,7,gl
 gluten free,2,pop,2026-11-17,2026-11-17,1,8,gl
 gladiator,1,pop,2026-11-17,2026-11-17,1,9,gl
@@ -7102,28 +7102,28 @@ sugar glider,2,trend,2026-11-17,2026-11-17,1,9,gl
 perth glory,2,trend,2026-11-17,2026-11-18,2,10,gl
 black girl with glasses,4,trend,2026-11-17,2026-11-17,1,11,gl
 little miss gluten free,4,trend,2026-11-17,2026-11-17,1,13,gl
-lmk,1,pop,2026-11-17,2026-11-17,1,0,lm
+lmk,1,pop,2026-11-17,2026-11-23,2,0,lm
 lmsy,1,pop,2026-11-17,2026-11-17,1,1,lm
 lmu,1,pop,2026-11-17,2026-11-17,1,2,lm
 lmanburg,1,pop,2026-11-17,2026-11-17,1,3,lm
 lmt,1,pop,2026-11-17,2026-11-22,2,4,lm
-lmp2,1,pop,2026-11-17,2026-11-17,1,5,lm
+lmp2,1,pop,2026-11-17,2026-11-23,2,5,lm
 lms,1,pop,2026-11-17,2026-11-17,1,6,lm
 lmanberg,1,pop,2026-11-17,2026-11-17,1,7,lm
-lmk macaque,2,pop,2026-11-17,2026-11-17,1,8,lm
+lmk macaque,2,pop,2026-11-17,2026-11-23,2,8,lm
 lmgtfy,1,pop,2026-11-17,2026-11-17,1,9,lm
 lmsw,1,pop,2026-11-17,2026-11-17,1,10,lm
 lmanburg flag,2,pop,2026-11-17,2026-11-17,1,11,lm
-lmp1,1,pop,2026-11-17,2026-11-17,1,12,lm
+lmp1,1,pop,2026-11-17,2026-11-23,2,12,lm
 lmhc,1,pop,2026-11-17,2026-11-17,1,13,lm
 lmft,1,pop,2026-11-17,2026-11-17,1,14,lm
 lmf,1,pop,2026-11-17,2026-11-17,1,15,lm
-lmp3,1,pop,2026-11-17,2026-11-17,1,16,lm
+lmp3,1,pop,2026-11-17,2026-11-23,2,16,lm
 lmb,1,pop,2026-11-17,2026-11-17,1,17,lm
 lm montgomery,2,pop,2026-11-17,2026-11-17,1,18,lm
 lmdh,1,pop,2026-11-17,2026-11-17,1,19,lm
 uae,1,pop,2026-11-17,2026-11-19,2,0,ua
-uap,1,pop,2026-11-17,2026-11-17,1,1,ua
+uap,1,pop,2026-11-17,2026-11-23,2,1,ua
 uab,1,pop,2026-11-17,2026-11-17,1,2,ua
 tigres uanl,2,pop,2026-11-17,2026-11-17,1,3,ua
 uarts,1,pop,2026-11-17,2026-11-17,1,4,ua
@@ -7203,7 +7203,7 @@ dhalsim,1,pop,2026-11-17,2026-11-17,1,10,dh
 dharma wheel,2,pop,2026-11-17,2026-11-17,1,11,dh
 seaworld abu dhabi,3,pop,2026-11-17,2026-11-17,1,12,dh
 dhaka bangladesh,2,pop,2026-11-17,2026-11-17,1,13,dh
-slay dhd,2,pop,2026-11-17,2026-11-17,1,14,dh
+slay dhd,2,pop,2026-11-17,2026-11-23,2,14,dh
 ap dhillon,2,pop,2026-11-17,2026-11-22,2,15,dh
 abu dhabi grand prix,4,pop,2026-11-17,2026-11-17,1,16,dh
 dhol,1,pop,2026-11-17,2026-11-17,1,17,dh
@@ -7259,9 +7259,9 @@ nmr,1,pop,2026-11-17,2026-11-17,1,1,nm
 nmap,1,pop,2026-11-17,2026-11-17,1,2,nm
 nmh,1,pop,2026-11-17,2026-11-20,2,3,nm
 nmbs,1,pop,2026-11-17,2026-11-17,1,4,nm
-nms,1,pop,2026-11-17,2026-11-17,1,5,nm
+nms,1,pop,2026-11-17,2026-11-23,2,5,nm
 nme,1,pop,2026-11-17,2026-11-17,1,6,nm
-nmsu,1,pop,2026-11-17,2026-11-17,1,7,nm
+nmsu,1,pop,2026-11-17,2026-11-23,2,7,nm
 nmixx sullyoon,2,pop,2026-11-17,2026-11-17,1,8,nm
 nmixx lily,2,pop,2026-11-17,2026-11-17,1,9,nm
 nmixx bae,2,pop,2026-11-17,2026-11-17,1,10,nm
@@ -7298,7 +7298,7 @@ carl,1,trend,2026-11-17,2026-11-18,2,17,ca
 cancer sucks,2,trend,2026-11-17,2026-11-17,1,18,ca
 cape breton highlands,3,trend,2026-11-17,2026-11-18,2,19,ca
 eat the rich,3,pop,2026-11-17,2026-11-18,2,8,ri
-kamen rider,2,pop,2026-11-17,2026-11-18,2,9,ri
+kamen rider,2,pop,2026-11-17,2026-11-23,3,9,ri
 rhea ripley,2,pop,2026-11-17,2026-11-18,2,10,ri
 richard scarry,2,pop,2026-11-17,2026-11-18,2,12,ri
 rilakkuma,1,pop,2026-11-17,2026-11-17,1,13,ri
@@ -7631,17 +7631,17 @@ fiona apple,2,pop,2026-11-17,2026-11-18,2,2,ap
 appa,1,pop,2026-11-17,2026-11-17,1,3,ap
 aphmau,1,pop,2026-11-17,2026-11-17,1,4,ap
 the apothecary diaries,3,pop,2026-11-17,2026-11-18,2,5,ap
-aperture science,2,pop,2026-11-17,2026-11-19,2,6,ap
+aperture science,2,pop,2026-11-17,2026-11-23,3,6,ap
 apocalypse now,2,pop,2026-11-17,2026-11-17,1,7,ap
-aperol spritz,2,pop,2026-11-17,2026-11-17,1,8,ap
-apex legends,2,pop,2026-11-17,2026-11-17,1,9,ap
-aperol,1,pop,2026-11-17,2026-11-17,1,10,ap
+aperol spritz,2,pop,2026-11-17,2026-11-23,2,8,ap
+apex legends,2,pop,2026-11-17,2026-11-23,2,9,ap
+aperol,1,pop,2026-11-17,2026-11-23,2,10,ap
 apple logo,2,pop,2026-11-17,2026-11-17,1,11,ap
 apollo,1,pop,2026-11-17,2026-11-17,1,13,ap
 your lie in april,4,pop,2026-11-17,2026-11-20,3,14,ap
 aphrodite,1,pop,2026-11-17,2026-11-17,1,15,ap
 mongo is appalled,3,pop,2026-11-17,2026-11-17,2,16,ap
-a bathing ape,3,pop,2026-11-17,2026-11-17,1,17,ap
+a bathing ape,3,pop,2026-11-17,2026-11-23,2,17,ap
 keeping up appearances,3,pop,2026-11-17,2026-11-18,2,18,ap
 apres ski,2,pop,2026-11-17,2026-11-19,2,19,ap
 apple watch,2,trend,2026-11-17,2026-11-17,1,0,ap
@@ -7751,13 +7751,13 @@ skunk,1,trend,2026-11-17,2026-11-17,1,6,sk
 skiathos,1,trend,2026-11-17,2026-11-17,1,7,sk
 ski like a girl,4,trend,2026-11-17,2026-11-21,3,8,sk
 skinwalker,1,trend,2026-11-17,2026-11-17,1,10,sk
-skeletor live laugh love,4,trend,2026-11-17,2026-11-21,3,12,sk
+skeletor live laugh love,4,trend,2026-11-17,2026-11-23,4,12,sk
 ska skinheads,2,trend,2026-11-17,2026-11-20,2,13,sk
 skibidi,1,trend,2026-11-17,2026-11-17,1,14,sk
 skull and flowers,3,trend,2026-11-17,2026-11-19,4,15,sk
 escher,1,pop,2026-11-17,2026-11-17,1,1,es
 esdeekid,1,pop,2026-11-17,2026-11-22,2,2,es
-pablo escobar,2,pop,2026-11-17,2026-11-17,1,3,es
+pablo escobar,2,pop,2026-11-17,2026-11-23,2,3,es
 esri,1,pop,2026-11-17,2026-11-17,1,4,es
 espresso,1,pop,2026-11-17,2026-11-17,1,5,es
 espeon,1,pop,2026-11-17,2026-11-17,1,7,es
@@ -7795,20 +7795,20 @@ uzaki chan lewd,3,pop,2026-11-17,2026-11-17,1,17,uz
 demon slayer tengen uzui,4,pop,2026-11-17,2026-11-17,1,18,uz
 kyouka uzen,2,pop,2026-11-17,2026-11-17,1,19,uz
 dying light,2,pop,2026-11-17,2026-11-17,1,1,dy
-dying fetus,2,pop,2026-11-17,2026-11-18,3,4,dy
+dying fetus,2,pop,2026-11-17,2026-11-23,5,4,dy
 dystopia,1,pop,2026-11-17,2026-11-17,1,5,dy
 general dynamics,2,pop,2026-11-17,2026-11-17,1,6,dy
 dying light game,3,pop,2026-11-17,2026-11-17,1,7,dy
 dyslexia,1,pop,2026-11-17,2026-11-17,1,8,dy
-dylan,1,pop,2026-11-17,2026-11-17,1,9,dy
+dylan,1,pop,2026-11-17,2026-11-23,2,9,dy
 dystopian,1,pop,2026-11-17,2026-11-17,1,10,dy
 black dynamite,2,pop,2026-11-17,2026-11-17,1,12,dy
-dylan harper,2,pop,2026-11-17,2026-11-17,1,13,dy
+dylan harper,2,pop,2026-11-17,2026-11-23,2,13,dy
 dyson,1,pop,2026-11-17,2026-11-17,1,14,dy
 as i lay dying,4,pop,2026-11-17,2026-11-17,1,15,dy
 duck dynasty,2,pop,2026-11-17,2026-11-17,1,16,dy
 donna and the dynamos,4,pop,2026-11-17,2026-11-17,1,17,dy
-dylan o brien,3,pop,2026-11-17,2026-11-17,1,18,dy
+dylan o brien,3,pop,2026-11-17,2026-11-23,2,18,dy
 dybala,1,pop,2026-11-17,2026-11-17,1,19,dy
 eevee,1,pop,2026-11-17,2026-11-17,1,0,ee
 eeveelution,1,pop,2026-11-17,2026-11-17,1,1,ee
@@ -8104,7 +8104,7 @@ home is where the dog is,6,trend,2026-11-17,2026-11-18,2,14,is
 daddy is a state of mind,6,trend,2026-11-17,2026-11-17,1,15,is
 this is england,3,trend,2026-11-17,2026-11-21,3,18,is
 wunderhorse,1,pop,2026-11-17,2026-11-17,1,2,wu
-wuwa,1,pop,2026-11-17,2026-11-17,1,3,wu
+wuwa,1,pop,2026-11-17,2026-11-23,2,3,wu
 huggy wuggy,2,pop,2026-11-17,2026-11-21,2,4,wu
 wug,1,pop,2026-11-17,2026-11-21,2,5,wu
 wei wuxian,2,pop,2026-11-17,2026-11-19,2,7,wu
@@ -8136,7 +8136,7 @@ phasmophobia,1,pop,2026-11-17,2026-11-17,1,16,ph
 phoenix,1,pop,2026-11-17,2026-11-17,1,17,ph
 physical therapy,2,pop,2026-11-17,2026-11-19,2,18,ph
 phd,1,pop,2026-11-17,2026-11-17,1,19,ph
-phuket thailand,2,trend,2026-11-17,2026-11-20,3,2,ph
+phuket thailand,2,trend,2026-11-17,2026-11-23,4,2,ph
 phoenix nights,2,trend,2026-11-17,2026-11-17,1,3,ph
 pharcyde,1,trend,2026-11-17,2026-11-17,1,4,ph
 phantasm,1,trend,2026-11-17,2026-11-17,1,5,ph
@@ -8289,9 +8289,9 @@ kukoshibo demon slayer,3,trend,2026-11-17,2026-11-19,4,1,ku
 kurosawa,1,trend,2026-11-17,2026-11-17,1,2,ku
 kuja,1,trend,2026-11-17,2026-11-21,3,3,ku
 kung pow enter the fist,5,trend,2026-11-17,2026-11-17,1,4,ku
-pnw,1,pop,2026-11-17,2026-11-17,1,0,pn
+pnw,1,pop,2026-11-17,2026-11-23,2,0,pn
 png,1,pop,2026-11-17,2026-11-17,1,1,pn
-kit cocomelon looloo kids zigalucocomelon 01 png,7,pop,2026-11-17,2026-11-19,4,2,pn
+kit cocomelon looloo kids zigalucocomelon 01 png,7,pop,2026-11-17,2026-11-23,5,2,pn
 pnd,1,pop,2026-11-17,2026-11-17,1,3,pn
 pnb rock,2,pop,2026-11-17,2026-11-19,2,4,pn
 troll face png,3,pop,2026-11-17,2026-11-17,1,5,pn
@@ -8428,7 +8428,7 @@ tvd,1,pop,2026-11-18,2026-11-18,1,18,tv
 dropout tv,2,pop,2026-11-18,2026-11-18,1,19,tv
 the boys tv series,4,trend,2026-11-18,2026-11-18,1,1,tv
 longmire tv show,3,trend,2026-11-18,2026-11-19,3,2,tv
-the end tv,3,trend,2026-11-18,2026-11-18,2,3,tv
+the end tv,3,trend,2026-11-18,2026-11-23,3,3,tv
 roswell tv show,3,trend,2026-11-18,2026-11-19,3,4,tv
 jxdn,1,pop,2026-11-18,2026-11-18,1,0,jx
 jxt,1,pop,2026-11-18,2026-11-18,1,1,jx
@@ -8492,7 +8492,7 @@ smosh,1,pop,2026-11-18,2026-11-18,1,3,sm
 smallville,1,pop,2026-11-18,2026-11-18,1,5,sm
 smiley face,2,pop,2026-11-18,2026-11-18,2,7,sm
 patti smith,2,pop,2026-11-18,2026-11-22,2,8,sm
-smokey and the bandit,4,pop,2026-11-18,2026-11-19,2,9,sm
+smokey and the bandit,4,pop,2026-11-18,2026-11-23,3,9,sm
 smokey the bear,3,pop,2026-11-18,2026-11-18,1,10,sm
 super smash bros,3,pop,2026-11-18,2026-11-18,1,11,sm
 smg4,1,pop,2026-11-18,2026-11-18,1,12,sm
@@ -8592,15 +8592,15 @@ mike faist,2,trend,2026-11-18,2026-11-20,2,11,mi
 mi corazon,2,trend,2026-11-18,2026-11-18,1,12,mi
 miniature pinscher,2,trend,2026-11-18,2026-11-18,1,14,mi
 mico,1,trend,2026-11-18,2026-11-18,1,15,mi
-miffy fake nails,3,trend,2026-11-18,2026-11-18,3,16,mi
+miffy fake nails,3,trend,2026-11-18,2026-11-23,4,16,mi
 minnesota state fair,3,trend,2026-11-18,2026-11-20,2,17,mi
 miffy cute set,3,trend,2026-11-18,2026-11-18,4,18,mi
 mississippi palisades state park,4,trend,2026-11-18,2026-11-18,1,19,mi
-dpr ian,2,pop,2026-11-18,2026-11-18,2,0,ia
+dpr ian,2,pop,2026-11-18,2026-11-23,3,0,ia
 ian somerhalder,2,pop,2026-11-18,2026-11-18,1,1,ia
 iasip,1,pop,2026-11-18,2026-11-18,1,2,ia
 ian dury,2,pop,2026-11-18,2026-11-18,1,3,ia
-iatse,1,pop,2026-11-18,2026-11-18,1,4,ia
+iatse,1,pop,2026-11-18,2026-11-23,2,4,ia
 ian curtis,2,pop,2026-11-18,2026-11-18,2,5,ia
 iamsanna,1,pop,2026-11-18,2026-11-18,1,6,ia
 ian connor,2,pop,2026-11-18,2026-11-18,1,7,ia
@@ -8653,21 +8653,21 @@ uow,1,pop,2026-11-18,2026-11-18,1,13,uo
 yiff,1,pop,2026-11-18,2026-11-18,1,0,yi
 you do not yield,4,pop,2026-11-18,2026-11-18,1,2,yi
 yippee ki yay,3,pop,2026-11-18,2026-11-18,1,3,yi
-ying yang,2,pop,2026-11-18,2026-11-18,1,4,yi
+ying yang,2,pop,2026-11-18,2026-11-23,2,4,yi
 yiddish,1,pop,2026-11-18,2026-11-18,1,5,yi
 yikes,1,pop,2026-11-18,2026-11-18,1,6,yi
-yin and yang,3,pop,2026-11-18,2026-11-18,1,7,yi
+yin and yang,3,pop,2026-11-18,2026-11-23,2,7,yi
 yip yip,2,pop,2026-11-18,2026-11-18,1,8,yi
 am yisrael chai,3,pop,2026-11-18,2026-11-18,1,9,yi
 yippee,1,pop,2026-11-18,2026-11-18,1,11,yi
-yinz,1,pop,2026-11-18,2026-11-18,1,12,yi
+yinz,1,pop,2026-11-18,2026-11-23,2,12,yi
 yik yak,2,pop,2026-11-18,2026-11-18,1,13,yi
 yixuan,1,pop,2026-11-18,2026-11-18,1,14,yi
 yidhari,1,pop,2026-11-18,2026-11-18,1,15,yi
-quan yin,2,pop,2026-11-18,2026-11-18,1,16,yi
-yin,1,pop,2026-11-18,2026-11-18,1,17,yi
+quan yin,2,pop,2026-11-18,2026-11-23,2,16,yi
+yin,1,pop,2026-11-18,2026-11-23,2,17,yi
 yimby,1,pop,2026-11-18,2026-11-18,1,18,yi
-yinzer,1,pop,2026-11-18,2026-11-18,1,19,yi
+yinzer,1,pop,2026-11-18,2026-11-23,2,19,yi
 ux designer,2,pop,2026-11-18,2026-11-18,1,0,ux
 ux research,2,pop,2026-11-18,2026-11-18,1,2,ux
 uxmal,1,pop,2026-11-18,2026-11-18,1,4,ux
@@ -8897,7 +8897,7 @@ cybersigilism,1,pop,2026-11-18,2026-11-18,1,14,cy
 the raven cycle,3,pop,2026-11-18,2026-11-18,1,15,cy
 rebecca cyberpunk,2,pop,2026-11-18,2026-11-18,2,17,cy
 cyber punk,2,pop,2026-11-18,2026-11-18,2,18,cy
-cyndi lauper,2,pop,2026-11-18,2026-11-18,1,19,cy
+cyndi lauper,2,pop,2026-11-18,2026-11-23,2,19,cy
 cymru,1,trend,2026-11-18,2026-11-22,3,2,cy
 cynical,1,trend,2026-11-18,2026-11-18,1,4,cy
 yttd,1,pop,2026-11-18,2026-11-18,1,0,yt
@@ -8960,7 +8960,7 @@ ford,1,pop,2026-11-18,2026-11-18,1,12,fo
 forest,1,pop,2026-11-18,2026-11-18,1,13,fo
 football soccer,2,pop,2026-11-18,2026-11-18,3,15,fo
 fox racing,2,pop,2026-11-18,2026-11-18,1,17,fo
-foot fetish,2,pop,2026-11-18,2026-11-18,2,19,fo
+foot fetish,2,pop,2026-11-18,2026-11-23,3,19,fo
 forza ferrari,2,trend,2026-11-18,2026-11-18,2,2,fo
 forsaken roblox,2,trend,2026-11-18,2026-11-19,3,3,fo
 ford anglia,2,trend,2026-11-18,2026-11-18,1,5,fo
@@ -9001,7 +9001,7 @@ okc thunder,2,pop,2026-11-18,2026-11-19,2,4,ok
 oklahoma,1,pop,2026-11-18,2026-11-18,1,6,ok
 okinawa,1,pop,2026-11-18,2026-11-18,1,7,ok
 one ok rock,3,pop,2026-11-18,2026-11-18,1,8,ok
-oklahoma city thunder,3,pop,2026-11-18,2026-11-18,1,9,ok
+oklahoma city thunder,3,pop,2026-11-18,2026-11-23,2,9,ok
 oktoberfest,1,pop,2026-11-18,2026-11-18,1,10,ok
 oklahoma state university,3,pop,2026-11-18,2026-11-18,2,11,ok
 oklahoma state,2,pop,2026-11-18,2026-11-18,1,12,ok
@@ -9058,7 +9058,7 @@ iphone 15 pro max cases,5,pop,2026-11-18,2026-11-18,1,12,ip
 iphone 15 pro cases,4,pop,2026-11-18,2026-11-18,1,13,ip
 iphone 12 cases,3,pop,2026-11-18,2026-11-18,1,14,ip
 iphone 16 plus cases,4,pop,2026-11-18,2026-11-18,1,15,ip
-ipswich town,2,pop,2026-11-18,2026-11-18,1,16,ip
+ipswich town,2,pop,2026-11-18,2026-11-23,2,16,ip
 ipod,1,pop,2026-11-18,2026-11-18,2,17,ip
 iphone 14 pro cases,4,pop,2026-11-18,2026-11-18,1,18,ip
 ipl,1,pop,2026-11-18,2026-11-18,1,19,ip
@@ -9068,7 +9068,7 @@ yvl,1,pop,2026-11-18,2026-11-18,1,1,yv
 yves klein blue,3,pop,2026-11-18,2026-11-18,1,2,yv
 yves tumor,2,pop,2026-11-18,2026-11-19,2,3,yv
 loona yves,2,pop,2026-11-18,2026-11-18,1,4,yv
-yvie oddly,2,pop,2026-11-18,2026-11-18,1,5,yv
+yvie oddly,2,pop,2026-11-18,2026-11-23,2,5,yv
 yveltal,1,pop,2026-11-18,2026-11-18,1,6,yv
 yvonne,1,pop,2026-11-18,2026-11-18,1,7,yv
 yvr,1,pop,2026-11-18,2026-11-21,2,8,yv
@@ -9253,17 +9253,17 @@ uhhhh,1,pop,2026-11-18,2026-11-18,1,0,uh
 uhhh,1,pop,2026-11-18,2026-11-18,1,1,uh
 uhf,1,pop,2026-11-18,2026-11-18,1,2,uh
 uhhh meme,2,pop,2026-11-18,2026-11-18,1,3,uh
-uhaul,1,pop,2026-11-18,2026-11-18,2,4,uh
+uhaul,1,pop,2026-11-18,2026-11-23,4,4,uh
 uhtred,1,pop,2026-11-18,2026-11-18,1,5,uh
 black uhuru,2,pop,2026-11-18,2026-11-22,2,6,uh
 uh oh stinky,3,pop,2026-11-18,2026-11-18,1,7,uh
 uh oh,2,pop,2026-11-18,2026-11-18,1,8,uh
 uhh,1,pop,2026-11-18,2026-11-18,1,9,uh
 uh 60,2,pop,2026-11-18,2026-11-18,1,10,uh
-uhaul lesbian,2,pop,2026-11-18,2026-11-18,1,11,uh
+uhaul lesbian,2,pop,2026-11-18,2026-11-23,2,11,uh
 nuh uh,2,pop,2026-11-18,2026-11-18,1,13,uh
 uh 1 huey,3,pop,2026-11-18,2026-11-18,1,14,uh
-uhaul truck,2,pop,2026-11-18,2026-11-18,1,15,uh
+uhaul truck,2,pop,2026-11-18,2026-11-23,2,15,uh
 uhn,1,pop,2026-11-18,2026-11-18,1,16,uh
 uhtred of bebbanburg,3,pop,2026-11-18,2026-11-18,1,17,uh
 uh 60 black hawk,4,pop,2026-11-18,2026-11-18,1,18,uh
@@ -9287,7 +9287,7 @@ donut county,2,trend,2026-11-18,2026-11-21,2,5,do
 doors,1,trend,2026-11-18,2026-11-18,1,6,do
 donna,1,trend,2026-11-18,2026-11-18,1,8,do
 dolls,1,trend,2026-11-18,2026-11-18,1,10,do
-does this make me look professionally developed,7,trend,2026-11-18,2026-11-21,3,11,do
+does this make me look professionally developed,7,trend,2026-11-18,2026-11-23,4,11,do
 dollhouse,1,trend,2026-11-18,2026-11-18,1,12,do
 dog in board,3,trend,2026-11-18,2026-11-18,2,13,do
 dog balloon,2,trend,2026-11-18,2026-11-18,2,14,do
@@ -9439,14 +9439,14 @@ wcth,1,pop,2026-11-18,2026-11-18,1,10,wc
 wcc,1,pop,2026-11-18,2026-11-18,1,11,wc
 wc 2026,2,pop,2026-11-18,2026-11-18,1,12,wc
 uga,1,pop,2026-11-18,2026-11-22,2,0,ug
-ugk,1,pop,2026-11-18,2026-11-18,1,1,ug
+ugk,1,pop,2026-11-18,2026-11-23,2,1,ug
 uganda,1,pop,2026-11-18,2026-11-22,2,2,ug
 ugliest,1,pop,2026-11-18,2026-11-18,1,3,ug
 anko uguisu,2,pop,2026-11-18,2026-11-18,1,4,ug
 uga dawgs,2,pop,2026-11-18,2026-11-22,3,5,ug
 howl no ugoku shiro,4,pop,2026-11-18,2026-11-20,2,6,ug
 ugg,1,pop,2026-11-18,2026-11-19,2,7,ug
-ugh,1,pop,2026-11-18,2026-11-18,2,8,ug
+ugh,1,pop,2026-11-18,2026-11-23,4,8,ug
 uggs,1,pop,2026-11-18,2026-11-19,2,9,ug
 uglydolls,1,pop,2026-11-18,2026-11-18,1,10,ug
 uga football,2,pop,2026-11-18,2026-11-22,2,11,ug
@@ -9454,10 +9454,10 @@ uglydoll,1,pop,2026-11-18,2026-11-18,1,12,ug
 uga arch,2,pop,2026-11-18,2026-11-22,2,13,ug
 uga gameday,2,pop,2026-11-18,2026-11-22,2,14,ug
 euan uglow,2,pop,2026-11-18,2026-11-18,1,15,ug
-boys ugh,2,pop,2026-11-18,2026-11-18,1,16,ug
+boys ugh,2,pop,2026-11-18,2026-11-23,2,16,ug
 uganda flag,2,pop,2026-11-18,2026-11-22,2,17,ug
 uganda funny,2,pop,2026-11-18,2026-11-22,2,18,ug
-ugk underground kingz,3,pop,2026-11-18,2026-11-18,2,19,ug
+ugk underground kingz,3,pop,2026-11-18,2026-11-23,4,19,ug
 cky,1,pop,2026-11-18,2026-11-18,1,0,ck
 louis ck,2,pop,2026-11-18,2026-11-18,1,1,ck
 f ck thats delicious,4,pop,2026-11-18,2026-11-18,1,2,ck
@@ -9588,15 +9588,15 @@ hvac funny,2,pop,2026-11-18,2026-11-18,1,10,hv
 hvala,1,pop,2026-11-18,2026-11-18,1,11,hv
 croatia hvar,2,pop,2026-11-18,2026-11-18,1,12,hv
 hvacr,1,pop,2026-11-18,2026-11-18,1,13,hv
-dprk,1,pop,2026-11-18,2026-11-18,1,1,dp
+dprk,1,pop,2026-11-18,2026-11-23,2,1,dp
 dpd,1,pop,2026-11-18,2026-11-18,1,2,dp
 dphie,1,pop,2026-11-18,2026-11-18,1,3,dp
-dpr,1,pop,2026-11-18,2026-11-18,1,4,dp
+dpr,1,pop,2026-11-18,2026-11-23,2,4,dp
 dpt,1,pop,2026-11-18,2026-11-18,1,5,dp
 dps,1,pop,2026-11-18,2026-11-18,1,6,dp
 girls attitude dp,3,pop,2026-11-18,2026-11-18,1,7,dp
 ramadan mubarak dp,3,pop,2026-11-18,2026-11-18,1,8,dp
-dpr live,2,pop,2026-11-18,2026-11-18,1,9,dp
+dpr live,2,pop,2026-11-18,2026-11-23,2,9,dp
 dpg,1,pop,2026-11-18,2026-11-18,1,10,dp
 dp world,2,pop,2026-11-18,2026-11-18,1,11,dp
 dpa,1,pop,2026-11-18,2026-11-18,1,12,dp
@@ -9604,21 +9604,21 @@ dplyr,1,pop,2026-11-18,2026-11-18,1,13,dp
 girl cartoon dp,3,pop,2026-11-18,2026-11-18,1,14,dp
 i love dp,3,pop,2026-11-18,2026-11-18,1,15,dp
 jul dp,2,pop,2026-11-18,2026-11-18,1,16,dp
-dpr ian mito,3,pop,2026-11-18,2026-11-18,1,17,dp
+dpr ian mito,3,pop,2026-11-18,2026-11-23,2,17,dp
 dpdr,1,pop,2026-11-18,2026-11-18,1,18,dp
 dpm,1,pop,2026-11-18,2026-11-18,1,19,dp
 bmo,1,pop,2026-11-18,2026-11-18,1,0,bm
 bmx,1,pop,2026-11-18,2026-11-19,2,1,bm
 old school bmx,3,pop,2026-11-18,2026-11-19,2,2,bm
 adventure time bmo,3,pop,2026-11-18,2026-11-18,2,3,bm
-bmx bandits,2,pop,2026-11-18,2026-11-19,2,5,bm
+bmx bandits,2,pop,2026-11-18,2026-11-23,3,5,bm
 bmc,1,pop,2026-11-18,2026-11-18,1,6,bm
 bms,1,pop,2026-11-18,2026-11-20,2,7,bm
 hutch bmx,2,pop,2026-11-18,2026-11-19,2,8,bm
 bmfs,1,pop,2026-11-18,2026-11-18,1,9,bm
 haro bmx,2,pop,2026-11-18,2026-11-19,2,10,bm
 mongoose bmx,2,pop,2026-11-18,2026-11-19,2,11,bm
-redline bmx,2,pop,2026-11-18,2026-11-19,2,12,bm
+redline bmx,2,pop,2026-11-18,2026-11-23,3,12,bm
 vintage bmx,2,pop,2026-11-18,2026-11-19,2,13,bm
 bmf,1,pop,2026-11-18,2026-11-18,1,14,bm
 dyno bmx,2,pop,2026-11-18,2026-11-19,2,15,bm
@@ -9683,7 +9683,7 @@ mtv downtown,2,pop,2026-11-18,2026-11-18,1,5,mt
 mt fuji,2,pop,2026-11-18,2026-11-18,1,6,mt
 mt rainier,2,pop,2026-11-18,2026-11-18,1,7,mt
 mt hood,2,pop,2026-11-18,2026-11-18,1,8,mt
-mtex oil,2,pop,2026-11-18,2026-11-18,2,9,mt
+mtex oil,2,pop,2026-11-18,2026-11-23,3,9,mt
 mta maps,2,pop,2026-11-18,2026-11-18,1,10,mt
 mt hutt,2,pop,2026-11-18,2026-11-18,1,11,mt
 mtf,1,pop,2026-11-18,2026-11-18,1,12,mt
@@ -9788,7 +9788,7 @@ kim kardashian,2,pop,2026-11-18,2026-11-18,1,16,ka
 cobra kai,2,pop,2026-11-18,2026-11-22,2,17,ka
 karl marx,2,pop,2026-11-18,2026-11-18,1,19,ka
 kaidan alenko,2,trend,2026-11-18,2026-11-18,1,9,ka
-kamon,1,trend,2026-11-18,2026-11-18,1,10,ka
+kamon,1,trend,2026-11-18,2026-11-23,3,10,ka
 katz,1,trend,2026-11-18,2026-11-18,1,11,ka
 kappa yokai,2,trend,2026-11-18,2026-11-18,1,13,ka
 kakamora,1,trend,2026-11-18,2026-11-18,1,14,ka
@@ -9822,7 +9822,7 @@ negative xp,2,pop,2026-11-18,2026-11-18,1,2,xp
 xpeng,1,pop,2026-11-18,2026-11-18,1,3,xp
 sam and colby xplr,4,pop,2026-11-18,2026-11-18,1,4,xp
 xplr sam colby,3,pop,2026-11-18,2026-11-18,1,5,xp
-xpt,1,pop,2026-11-18,2026-11-18,1,6,xp
+xpt,1,pop,2026-11-18,2026-11-23,2,6,xp
 xplr sam and colby,4,pop,2026-11-18,2026-11-18,1,7,xp
 microsoft windows xp,3,pop,2026-11-18,2026-11-18,1,8,xp
 negative xp lyrics,3,pop,2026-11-18,2026-11-18,1,9,xp
@@ -9975,7 +9975,7 @@ mba,1,pop,2026-11-18,2026-11-18,1,7,mb
 dictator mbappe,2,pop,2026-11-18,2026-11-18,1,8,mb
 mbv,1,pop,2026-11-18,2026-11-18,1,9,mb
 mbun,1,pop,2026-11-18,2026-11-18,1,10,mb
-bryan mbeumo,2,pop,2026-11-18,2026-11-18,1,11,mb
+bryan mbeumo,2,pop,2026-11-18,2026-11-23,2,11,mb
 mbs saudi arabia mohammed bin salman,6,pop,2026-11-18,2026-11-18,1,12,mb
 real madrid mbappe,3,pop,2026-11-18,2026-11-18,1,13,mb
 kylian mbappe the dictator,4,pop,2026-11-18,2026-11-18,1,14,mb
@@ -9983,7 +9983,7 @@ kylian mbappe real madrid,4,pop,2026-11-18,2026-11-18,1,15,mb
 mbahdarmo,1,pop,2026-11-18,2026-11-18,1,16,mb
 mbaku,1,pop,2026-11-18,2026-11-18,1,17,mb
 mbappe france wallpaper,3,pop,2026-11-18,2026-11-18,1,18,mb
-mbeumo,1,pop,2026-11-18,2026-11-18,1,19,mb
+mbeumo,1,pop,2026-11-18,2026-11-23,2,19,mb
 ywam,1,pop,2026-11-18,2026-11-18,1,0,yw
 ywca,1,pop,2026-11-18,2026-11-18,1,1,yw
 ksubi,1,pop,2026-11-18,2026-11-18,1,0,ks
@@ -10193,7 +10193,7 @@ ever after high,3,pop,2026-11-18,2026-11-18,3,2,af
 positive affirmations,2,pop,2026-11-18,2026-11-18,1,3,af
 afi,1,pop,2026-11-18,2026-11-18,1,4,af
 africa,1,pop,2026-11-18,2026-11-18,1,5,af
-one battle after another,4,pop,2026-11-18,2026-11-18,1,7,af
+one battle after another,4,pop,2026-11-18,2026-11-23,2,7,af
 aftg,1,pop,2026-11-18,2026-11-18,1,8,af
 afroman,1,pop,2026-11-18,2026-11-18,1,9,af
 aftersun,1,pop,2026-11-18,2026-11-18,1,10,af
@@ -10242,7 +10242,7 @@ aol,1,pop,2026-11-18,2026-11-18,1,6,ao
 aoii,1,pop,2026-11-18,2026-11-18,1,7,ao
 ao ashi,2,pop,2026-11-18,2026-11-18,1,8,ao
 steve aoki,2,pop,2026-11-18,2026-11-20,2,9,ao
-ao oni,2,pop,2026-11-18,2026-11-18,1,10,ao
+ao oni,2,pop,2026-11-18,2026-11-23,2,10,ao
 jujutsu kaisen aoi todo,4,pop,2026-11-18,2026-11-19,2,11,ao
 aoa,1,pop,2026-11-18,2026-11-18,1,12,ao
 aouboom,1,pop,2026-11-18,2026-11-21,2,13,ao
@@ -10296,7 +10296,7 @@ inspirational sports quotes,3,trend,2026-11-18,2026-11-19,9,16,in
 intelligence,1,trend,2026-11-18,2026-11-18,1,17,in
 in flames band,3,trend,2026-11-18,2026-11-18,1,18,in
 vlad the impaler,3,pop,2026-11-18,2026-11-21,3,0,vl
-vlone,1,pop,2026-11-18,2026-11-18,1,1,vl
+vlone,1,pop,2026-11-18,2026-11-23,2,1,vl
 vline,1,pop,2026-11-18,2026-11-18,1,2,vl
 ronde van vlaanderen,3,pop,2026-11-18,2026-11-18,1,3,vl
 vlad tepes,2,pop,2026-11-18,2026-11-18,1,4,vl
@@ -10307,13 +10307,13 @@ vladilena milize,2,pop,2026-11-18,2026-11-18,1,8,vl
 vlad,1,pop,2026-11-18,2026-11-18,1,9,vl
 vl turbo,2,pop,2026-11-18,2026-11-18,1,10,vl
 vladdy,1,pop,2026-11-18,2026-11-18,1,11,vl
-beauty vlogger,2,pop,2026-11-18,2026-11-18,1,12,vl
+beauty vlogger,2,pop,2026-11-18,2026-11-23,2,12,vl
 vladdy born ready,3,pop,2026-11-18,2026-11-18,1,13,vl
 born ready vladdy,3,pop,2026-11-18,2026-11-18,1,14,vl
 vlan,1,pop,2026-11-18,2026-11-18,1,15,vl
 vlc,1,pop,2026-11-18,2026-11-18,1,16,vl
 vlaanderen,1,pop,2026-11-18,2026-11-18,1,17,vl
-beauty vlogs,2,pop,2026-11-18,2026-11-18,1,18,vl
+beauty vlogs,2,pop,2026-11-18,2026-11-23,2,18,vl
 vlans,1,pop,2026-11-18,2026-11-18,1,19,vl
 gdragon,1,pop,2026-11-18,2026-11-22,2,0,gd
 gdansk,1,pop,2026-11-18,2026-11-18,1,1,gd
@@ -10353,7 +10353,7 @@ evil eye,2,pop,2026-11-18,2026-11-18,2,0,ey
 eyes,1,pop,2026-11-18,2026-11-18,1,1,ey
 eye,1,pop,2026-11-18,2026-11-18,1,2,ey
 jane eyre,2,pop,2026-11-18,2026-11-20,2,3,ey
-third eye blind,3,pop,2026-11-18,2026-11-21,2,5,ey
+third eye blind,3,pop,2026-11-18,2026-11-23,3,5,ey
 eyehategod,1,pop,2026-11-18,2026-11-18,1,7,ey
 bright eyes,2,pop,2026-11-18,2026-11-18,1,8,ey
 blue eye samurai,3,pop,2026-11-18,2026-11-18,1,9,ey
@@ -10466,7 +10466,7 @@ dr wilson,2,trend,2026-11-18,2026-11-18,1,13,dr
 driftless area,2,trend,2026-11-18,2026-11-19,3,14,dr
 dry cleaning band,3,trend,2026-11-18,2026-11-18,1,15,dr
 dreckly,1,trend,2026-11-18,2026-11-18,1,16,dr
-driver picks the music shotgun shuts his cakehole,8,trend,2026-11-18,2026-11-19,5,17,dr
+driver picks the music shotgun shuts his cakehole,8,trend,2026-11-18,2026-11-23,6,17,dr
 dr doofenshmirtz,2,trend,2026-11-18,2026-11-18,1,18,dr
 drifting,1,trend,2026-11-18,2026-11-19,2,19,dr
 jstor,1,pop,2026-11-18,2026-11-18,1,0,js
@@ -10479,12 +10479,12 @@ more jstu,2,pop,2026-11-18,2026-11-18,1,6,js
 next js,2,pop,2026-11-18,2026-11-18,1,7,js
 react js,2,pop,2026-11-18,2026-11-18,1,8,js
 jsrf,1,pop,2026-11-18,2026-11-18,1,9,js
-json,1,pop,2026-11-18,2026-11-18,1,10,js
+json,1,pop,2026-11-18,2026-11-23,2,10,js
 jsa,1,pop,2026-11-18,2026-11-20,2,11,js
 jsk,1,pop,2026-11-18,2026-11-18,1,12,js
 js bach,2,pop,2026-11-18,2026-11-18,1,13,js
 jstor and chill,3,pop,2026-11-18,2026-11-18,1,14,js
-jsoc,1,pop,2026-11-18,2026-11-18,1,15,js
+jsoc,1,pop,2026-11-18,2026-11-23,2,15,js
 jsu,1,pop,2026-11-18,2026-11-18,1,16,js
 node js,2,pop,2026-11-18,2026-11-18,1,17,js
 vue js,2,pop,2026-11-18,2026-11-21,2,18,js
@@ -10507,7 +10507,7 @@ white river national forest,4,trend,2026-11-18,2026-11-18,1,4,wh
 what a time to be alive grim reaper,8,trend,2026-11-18,2026-11-18,1,6,wh
 whitewater kayaking,2,trend,2026-11-18,2026-11-18,1,7,wh
 wheres wally,2,trend,2026-11-18,2026-11-20,2,8,wh
-whats meant to be will find a way,8,trend,2026-11-18,2026-11-22,2,10,wh
+whats meant to be will find a way,8,trend,2026-11-18,2026-11-23,3,10,wh
 what a difference a dave makes,6,trend,2026-11-18,2026-11-19,2,11,wh
 carl wheezer,2,trend,2026-11-18,2026-11-18,2,18,wh
 eternal sunshine,2,pop,2026-11-18,2026-11-18,1,2,et
@@ -10544,7 +10544,7 @@ school social work,3,trend,2026-11-18,2026-11-18,1,7,sc
 scrum,1,trend,2026-11-18,2026-11-18,1,8,sc
 school house rock,3,trend,2026-11-18,2026-11-20,2,9,sc
 scouts,1,trend,2026-11-18,2026-11-18,1,10,sc
-scrap mechanic,2,trend,2026-11-18,2026-11-18,1,11,sc
+scrap mechanic,2,trend,2026-11-18,2026-11-23,3,11,sc
 scenic route,2,trend,2026-11-18,2026-11-18,1,12,sc
 scotch whisky,2,trend,2026-11-18,2026-11-18,1,13,sc
 scheveningen,1,trend,2026-11-18,2026-11-18,1,14,sc
@@ -10606,11 +10606,11 @@ uenoyama,1,pop,2026-11-18,2026-11-18,1,16,ue
 uesugi clan,2,pop,2026-11-18,2026-11-18,1,17,ue
 uesc marathon,2,pop,2026-11-18,2026-11-18,1,18,ue
 uesugi,1,pop,2026-11-18,2026-11-18,1,19,ue
-eowyn,1,pop,2026-11-18,2026-11-18,1,0,eo
+eowyn,1,pop,2026-11-18,2026-11-23,2,0,eo
 captain eo,2,pop,2026-11-18,2026-11-18,1,1,eo
 eod,1,pop,2026-11-18,2026-11-22,2,2,eo
 eotech,1,pop,2026-11-18,2026-11-18,1,3,eo
-eomer,1,pop,2026-11-18,2026-11-18,1,4,eo
+eomer,1,pop,2026-11-18,2026-11-23,2,4,eo
 eos,1,pop,2026-11-18,2026-11-18,1,5,eo
 maigh eo,2,pop,2026-11-18,2026-11-18,1,6,eo
 eotech optics sights,3,pop,2026-11-18,2026-11-18,1,7,eo
@@ -10637,7 +10637,7 @@ ynw melly rapper,3,pop,2026-11-18,2026-11-18,1,6,yn
 ynw,1,pop,2026-11-18,2026-11-18,1,7,yn
 liverpool ynwa,2,pop,2026-11-18,2026-11-18,1,8,yn
 ynw melly masks,3,pop,2026-11-18,2026-11-18,1,9,yn
-laufey,1,pop,2026-11-18,2026-11-18,1,6,la
+laufey,1,pop,2026-11-18,2026-11-23,2,6,la
 labyrinth,1,pop,2026-11-18,2026-11-18,1,7,la
 labubu,1,pop,2026-11-18,2026-11-18,1,8,la
 lana rhoades,2,pop,2026-11-18,2026-11-18,2,12,la
@@ -10648,15 +10648,15 @@ laptop,1,pop,2026-11-18,2026-11-18,1,19,la
 lachimolala,1,trend,2026-11-18,2026-11-18,1,6,la
 larp,1,trend,2026-11-18,2026-11-22,3,7,la
 landscapes,1,trend,2026-11-18,2026-11-18,1,8,la
-lands end,2,trend,2026-11-18,2026-11-18,2,9,la
+lands end,2,trend,2026-11-18,2026-11-23,3,9,la
 lancia,1,trend,2026-11-18,2026-11-18,1,10,la
 lapfox trax,2,trend,2026-11-18,2026-11-18,1,11,la
 lawn bowls,2,trend,2026-11-18,2026-11-18,1,12,la
-laughing,1,trend,2026-11-18,2026-11-18,1,13,la
+laughing,1,trend,2026-11-18,2026-11-23,2,13,la
 lawren harris,2,trend,2026-11-18,2026-11-18,1,14,la
 latino heat,2,trend,2026-11-18,2026-11-18,1,15,la
 lazy,1,trend,2026-11-18,2026-11-18,1,16,la
-laurie strode,2,trend,2026-11-18,2026-11-18,1,17,la
+laurie strode,2,trend,2026-11-18,2026-11-23,2,17,la
 ladiescampingaustralia,1,trend,2026-11-18,2026-11-20,2,18,la
 lallybroch,1,trend,2026-11-18,2026-11-18,1,19,la
 pxg,1,pop,2026-11-18,2026-11-18,1,0,px
@@ -10707,7 +10707,7 @@ yung lean,2,pop,2026-11-18,2026-11-18,1,2,yu
 yu gi oh,3,pop,2026-11-18,2026-11-18,2,3,yu
 yu yu hakusho,3,pop,2026-11-18,2026-11-18,1,4,yu
 yugoslavia,1,pop,2026-11-18,2026-11-18,1,5,yu
-yuyu hakusho,2,pop,2026-11-18,2026-11-18,1,8,yu
+yuyu hakusho,2,pop,2026-11-18,2026-11-23,2,8,yu
 yume nikki,2,pop,2026-11-18,2026-11-18,1,9,yu
 yuru camp,2,pop,2026-11-18,2026-11-18,1,10,yu
 yule cat,2,pop,2026-11-18,2026-11-18,1,11,yu
@@ -10863,7 +10863,7 @@ lestat,1,pop,2026-11-18,2026-11-18,1,18,le
 lewd anime,2,pop,2026-11-18,2026-11-18,3,19,le
 lethal company,2,trend,2026-11-18,2026-11-18,1,2,le
 les mis,2,trend,2026-11-18,2026-11-18,1,3,le
-less than jake,3,trend,2026-11-18,2026-11-18,1,4,le
+less than jake,3,trend,2026-11-18,2026-11-23,3,4,le
 lee morgan,2,trend,2026-11-18,2026-11-18,1,5,le
 lee scratch perry,3,trend,2026-11-18,2026-11-18,1,6,le
 leo leclerc,2,trend,2026-11-18,2026-11-18,1,7,le
@@ -10932,10 +10932,10 @@ entombed band,2,trend,2026-11-18,2026-11-19,2,2,en
 enhypen memes,2,trend,2026-11-18,2026-11-18,5,3,en
 england legend of robin hood,5,trend,2026-11-18,2026-11-18,1,5,en
 england thomas a becket,4,trend,2026-11-18,2026-11-18,1,6,en
-england battle of hastings,4,trend,2026-11-18,2026-11-18,1,7,en
-endor national park,3,trend,2026-11-18,2026-11-18,1,8,en
-the never ending story,4,trend,2026-11-18,2026-11-18,1,14,en
-mechanical engineer,2,trend,2026-11-18,2026-11-18,1,19,en
+england battle of hastings,4,trend,2026-11-18,2026-11-23,2,7,en
+endor national park,3,trend,2026-11-18,2026-11-23,2,8,en
+the never ending story,4,trend,2026-11-18,2026-11-23,3,14,en
+mechanical engineer,2,trend,2026-11-18,2026-11-23,3,19,en
 qc quality control,3,pop,2026-11-18,2026-11-18,1,0,qc
 bose qc ultra headphones,4,pop,2026-11-18,2026-11-18,1,1,qc
 rowley birkin qc,3,pop,2026-11-18,2026-11-18,1,2,qc
@@ -11071,19 +11071,19 @@ honey dukes,2,trend,2026-11-18,2026-11-18,1,13,du
 realistic clouds duo,3,trend,2026-11-18,2026-11-18,1,14,du
 door of durin,3,trend,2026-11-18,2026-11-18,1,15,du
 zion national park,3,pop,2026-11-18,2026-11-18,1,1,zi
-ziggy stardust,2,pop,2026-11-18,2026-11-18,1,2,zi
+ziggy stardust,2,pop,2026-11-18,2026-11-23,2,2,zi
 zip,1,pop,2026-11-18,2026-11-18,1,3,zi
 zildjian,1,pop,2026-11-18,2026-11-18,1,4,zi
 zipper,1,pop,2026-11-18,2026-11-18,1,5,zi
 zidane,1,pop,2026-11-18,2026-11-18,1,7,zi
-zig zag,2,pop,2026-11-18,2026-11-18,2,8,zi
+zig zag,2,pop,2026-11-18,2026-11-23,3,8,zi
 zimbabwe,1,pop,2026-11-18,2026-11-18,1,9,zi
 zion,1,pop,2026-11-18,2026-11-18,1,10,zi
 slavoj zizek,2,pop,2026-11-18,2026-11-18,1,11,zi
 bailey zimmerman,2,pop,2026-11-18,2026-11-18,1,12,zi
 zima blue,2,pop,2026-11-18,2026-11-18,1,13,zi
 zizek,1,pop,2026-11-18,2026-11-18,1,14,zi
-ziggy,1,pop,2026-11-18,2026-11-18,1,16,zi
+ziggy,1,pop,2026-11-18,2026-11-23,2,16,zi
 zippo,1,pop,2026-11-18,2026-11-18,1,17,zi
 ziferblat,1,pop,2026-11-18,2026-11-18,1,19,zi
 maximillian kolbe zippered,3,trend,2026-11-18,2026-11-18,2,3,zi
@@ -11158,7 +11158,7 @@ rust,1,pop,2026-11-18,2026-11-18,1,15,ru
 rust game,2,pop,2026-11-18,2026-11-18,1,16,ru
 rude offensive,2,pop,2026-11-18,2026-11-19,2,17,ru
 big time rush,3,pop,2026-11-18,2026-11-18,1,18,ru
-rui kamishiro,2,trend,2026-11-18,2026-11-18,1,1,ru
+rui kamishiro,2,trend,2026-11-18,2026-11-23,3,1,ru
 rubiks cube,2,trend,2026-11-18,2026-11-18,1,2,ru
 rusty lake,2,trend,2026-11-18,2026-11-21,3,3,ru
 ruby cruz,2,trend,2026-11-18,2026-11-18,1,4,ru
@@ -11179,7 +11179,7 @@ yyy,1,pop,2026-11-18,2026-11-18,1,7,yy
 yyc airport,2,pop,2026-11-18,2026-11-18,1,8,yy
 loona yyxy,2,pop,2026-11-18,2026-11-18,1,9,yy
 njpw,1,pop,2026-11-18,2026-11-18,1,0,nj
-nj devils,2,pop,2026-11-18,2026-11-18,1,1,nj
+nj devils,2,pop,2026-11-18,2026-11-23,2,1,nj
 jaxon smith njigba,3,pop,2026-11-18,2026-11-22,2,2,nj
 ocean city nj,3,pop,2026-11-18,2026-11-19,2,3,nj
 nj transit,2,pop,2026-11-18,2026-11-18,1,4,nj
@@ -11195,7 +11195,7 @@ newark nj,2,pop,2026-11-18,2026-11-18,1,13,nj
 point pleasant nj,3,pop,2026-11-18,2026-11-18,1,14,nj
 nj exit,2,pop,2026-11-18,2026-11-18,1,15,nj
 sea isle city nj,4,pop,2026-11-18,2026-11-18,1,16,nj
-njcl,1,pop,2026-11-18,2026-11-18,1,17,nj
+njcl,1,pop,2026-11-18,2026-11-23,2,17,nj
 stone harbor nj,3,pop,2026-11-18,2026-11-18,1,18,nj
 asbury park nj,3,pop,2026-11-18,2026-11-18,1,19,nj
 persona,1,pop,2026-11-18,2026-11-18,1,2,pe
@@ -11495,21 +11495,21 @@ kwebbelkop,1,pop,2026-11-18,2026-11-18,1,9,kw
 kwaidan,1,pop,2026-11-18,2026-11-20,2,10,kw
 tae kwon do,3,pop,2026-11-18,2026-11-18,1,11,kw
 alfred j kwak,3,pop,2026-11-18,2026-11-20,2,12,kw
-kwan yin,2,pop,2026-11-18,2026-11-20,2,13,kw
+kwan yin,2,pop,2026-11-18,2026-11-23,3,13,kw
 kwazii,1,pop,2026-11-18,2026-11-20,2,14,kw
 mrs kwan,2,pop,2026-11-18,2026-11-20,2,15,kw
 talib kweli,2,pop,2026-11-18,2026-11-18,1,16,kw
 kwon jiyong,2,pop,2026-11-18,2026-11-18,1,17,kw
 kwajalein,1,pop,2026-11-18,2026-11-20,2,18,kw
 kwek kwek,2,pop,2026-11-18,2026-11-18,1,19,kw
-history,1,pop,2026-11-18,2026-11-18,1,2,hi
+history,1,pop,2026-11-18,2026-11-23,2,2,hi
 hiking,1,pop,2026-11-18,2026-11-18,1,3,hi
 monster high,2,pop,2026-11-18,2026-11-18,1,5,hi
 hippie,1,pop,2026-11-18,2026-11-18,1,11,hi
 hirono,1,pop,2026-11-18,2026-11-18,1,12,hi
 hibiscus,1,pop,2026-11-18,2026-11-18,1,15,hi
 the summer hikaru died,4,pop,2026-11-18,2026-11-19,3,17,hi
-lauryn hill,2,pop,2026-11-18,2026-11-18,1,18,hi
+lauryn hill,2,pop,2026-11-18,2026-11-23,2,18,hi
 paris hilton,2,pop,2026-11-18,2026-11-19,2,19,hi
 hilarious,1,trend,2026-11-18,2026-11-18,1,2,hi
 hildibrand,1,trend,2026-11-18,2026-11-18,1,3,hi
@@ -11520,14 +11520,14 @@ hildesheim,1,trend,2026-11-18,2026-11-18,1,7,hi
 hilltop hoods,2,trend,2026-11-18,2026-11-18,1,8,hi
 hip hop dancers,3,trend,2026-11-18,2026-11-18,1,9,hi
 hiking boot,2,trend,2026-11-18,2026-11-18,1,10,hi
-hissing cat,2,trend,2026-11-18,2026-11-18,1,11,hi
+hissing cat,2,trend,2026-11-18,2026-11-23,2,11,hi
 lloyds,1,pop,2026-11-18,2026-11-18,1,0,ll
 lloyds banking group,3,pop,2026-11-18,2026-11-18,1,1,ll
 llama,1,pop,2026-11-18,2026-11-18,1,2,ll
 lloyds bank,2,pop,2026-11-18,2026-11-18,1,3,ll
 lloyd frontera,2,pop,2026-11-18,2026-11-18,1,4,ll
 ll bean,2,pop,2026-11-18,2026-11-18,1,5,ll
-lloyds development capital,3,pop,2026-11-18,2026-11-18,1,6,ll
+lloyds development capital,3,pop,2026-11-18,2026-11-23,2,6,ll
 llbean,1,pop,2026-11-18,2026-11-19,2,7,ll
 ninjago lloyd,2,pop,2026-11-18,2026-11-19,2,8,ll
 ll cool j,3,pop,2026-11-18,2026-11-18,2,9,ll
@@ -11593,7 +11593,7 @@ uf gators,2,pop,2026-11-18,2026-11-18,1,8,uf
 ufc logo,2,pop,2026-11-18,2026-11-18,2,9,uf
 uf vet med,3,pop,2026-11-18,2026-11-18,1,10,uf
 ufl,1,pop,2026-11-18,2026-11-18,1,11,uf
-ufotable,1,pop,2026-11-18,2026-11-19,2,12,uf
+ufotable,1,pop,2026-11-18,2026-11-23,3,12,uf
 cat ufo,2,pop,2026-11-18,2026-11-19,2,13,uf
 ufc freedom 250,3,pop,2026-11-18,2026-11-18,2,14,uf
 ufo abduction,2,pop,2026-11-18,2026-11-19,2,15,uf
@@ -11602,15 +11602,15 @@ ufo cat,2,pop,2026-11-18,2026-11-19,2,17,uf
 ufo robot grendizer,3,pop,2026-11-18,2026-11-19,2,18,uf
 ufology,1,pop,2026-11-18,2026-11-19,2,19,uf
 gengar,1,pop,2026-11-18,2026-11-18,1,5,ge
-geese band,2,pop,2026-11-18,2026-11-19,2,8,ge
+geese band,2,pop,2026-11-18,2026-11-23,3,8,ge
 geometric,1,pop,2026-11-18,2026-11-18,1,10,ge
 germany,1,pop,2026-11-18,2026-11-18,1,11,ge
-geek,1,pop,2026-11-18,2026-11-18,1,13,ge
-geese,1,pop,2026-11-18,2026-11-18,1,14,ge
+geek,1,pop,2026-11-18,2026-11-23,2,13,ge
+geese,1,pop,2026-11-18,2026-11-23,2,14,ge
 geology,1,pop,2026-11-18,2026-11-18,1,16,ge
 genshin,1,pop,2026-11-18,2026-11-18,1,17,ge
 code geass,2,pop,2026-11-18,2026-11-19,2,18,ge
-gerard way,2,pop,2026-11-18,2026-11-18,1,19,ge
+gerard way,2,pop,2026-11-18,2026-11-23,2,19,ge
 gentoo,1,trend,2026-11-18,2026-11-18,1,3,ge
 gene vincent,2,trend,2026-11-18,2026-11-18,1,4,ge
 gemma collins,2,trend,2026-11-18,2026-11-18,1,6,ge
@@ -11883,10 +11883,10 @@ granit xhaka,2,pop,2026-11-18,2026-11-18,1,3,xh
 xhaka,1,pop,2026-11-18,2026-11-18,1,4,xh
 xherdan shaqiri,2,pop,2026-11-18,2026-11-18,1,5,xh
 surf,1,pop,2026-11-18,2026-11-18,1,4,su
-subnautica,1,pop,2026-11-18,2026-11-18,1,5,su
+subnautica,1,pop,2026-11-18,2026-11-23,2,5,su
 sun,1,pop,2026-11-18,2026-11-18,1,6,su
 suicideboys,1,pop,2026-11-18,2026-11-18,1,7,su
-subaru,1,pop,2026-11-18,2026-11-18,1,8,su
+subaru,1,pop,2026-11-18,2026-11-23,2,8,su
 sunflower,1,pop,2026-11-18,2026-11-18,1,9,su
 surfing,1,pop,2026-11-18,2026-11-18,1,10,su
 sushi,1,pop,2026-11-18,2026-11-18,1,11,su
@@ -11911,7 +11911,7 @@ susie wolff,2,trend,2026-11-18,2026-11-20,3,14,su
 support science,2,trend,2026-11-18,2026-11-19,2,15,su
 suny cobleskill,2,trend,2026-11-18,2026-11-22,2,16,su
 summerween party,2,trend,2026-11-18,2026-11-19,5,17,su
-sub pop,2,trend,2026-11-18,2026-11-18,1,18,su
+sub pop,2,trend,2026-11-18,2026-11-23,3,18,su
 summerween striped spooky summer,4,trend,2026-11-18,2026-11-19,6,19,su
 zcash,1,pop,2026-11-18,2026-11-18,1,0,zc
 vdma,1,pop,2026-11-18,2026-11-18,1,0,vd
@@ -11946,7 +11946,7 @@ omar rudberg,2,pop,2026-11-18,2026-11-18,1,5,om
 bad omens band,3,pop,2026-11-18,2026-11-19,2,6,om
 omegaverse,1,pop,2026-11-18,2026-11-19,2,7,om
 omni auto scoring,3,pop,2026-11-18,2026-11-18,1,8,om
-omd,1,pop,2026-11-18,2026-11-18,1,9,om
+omd,1,pop,2026-11-18,2026-11-23,2,9,om
 chi omega,2,pop,2026-11-18,2026-11-19,2,10,om
 crowley good omens,3,pop,2026-11-18,2026-11-19,2,11,om
 omniscient readers viewpoint,3,pop,2026-11-18,2026-11-18,1,12,om
@@ -11998,7 +11998,7 @@ gs300,1,pop,2026-11-18,2026-11-18,1,14,gs
 suzuki gsx,2,pop,2026-11-18,2026-11-18,1,15,gs
 buick gs,2,pop,2026-11-18,2026-11-18,1,16,gs
 gsa,1,pop,2026-11-18,2026-11-18,1,17,gs
-gsu,1,pop,2026-11-18,2026-11-18,1,18,gs
+gsu,1,pop,2026-11-18,2026-11-23,2,18,gs
 lexus gs300,2,pop,2026-11-18,2026-11-18,1,19,gs
 im coming to the cottage,5,pop,2026-11-18,2026-11-18,1,4,im
 impractical jokers,2,pop,2026-11-18,2026-11-21,3,5,im
@@ -12204,7 +12204,7 @@ gfriend,1,pop,2026-11-18,2026-11-18,2,3,gf
 fnf gf,2,pop,2026-11-18,2026-11-18,1,4,gf
 gfl,1,pop,2026-11-18,2026-11-18,1,5,gf
 gfty,1,pop,2026-11-18,2026-11-18,1,6,gf
-gfb,1,pop,2026-11-18,2026-11-18,1,7,gf
+gfb,1,pop,2026-11-18,2026-11-23,2,7,gf
 goth gf,2,pop,2026-11-18,2026-11-18,1,8,gf
 buying gf,2,pop,2026-11-18,2026-11-18,1,9,gf
 gforce,1,pop,2026-11-18,2026-11-18,2,10,gf
@@ -12243,7 +12243,7 @@ jean michel basquiat,3,pop,2026-11-18,2026-11-20,2,11,je
 tom and jerry,3,pop,2026-11-18,2026-11-18,1,12,je
 jeff the landshark,3,pop,2026-11-18,2026-11-18,1,13,je
 jem and the holograms,4,pop,2026-11-18,2026-11-22,2,15,je
-waylon jennings,2,pop,2026-11-18,2026-11-20,2,17,je
+waylon jennings,2,pop,2026-11-18,2026-11-23,3,17,je
 jersey mikes,2,pop,2026-11-18,2026-11-18,1,18,je
 jerry garcia,2,pop,2026-11-18,2026-11-18,1,19,je
 jet ski,2,trend,2026-11-18,2026-11-20,3,7,je
@@ -12265,7 +12265,7 @@ adam sandler,2,pop,2026-11-18,2026-11-18,1,11,ad
 ado,1,pop,2026-11-18,2026-11-18,1,12,ad
 ada wong,2,pop,2026-11-18,2026-11-21,2,13,ad
 addams family,2,pop,2026-11-18,2026-11-21,2,14,ad
-adeptus mechanicus,2,pop,2026-11-18,2026-11-18,1,15,ad
+adeptus mechanicus,2,pop,2026-11-18,2026-11-23,2,15,ad
 adriana chechik,2,pop,2026-11-18,2026-11-18,1,19,ad
 adored,1,trend,2026-11-18,2026-11-18,1,2,ad
 adventure time lemongrab,3,trend,2026-11-18,2026-11-22,5,3,ad
@@ -12498,7 +12498,7 @@ r34 anime,2,pop,2026-11-18,2026-11-18,1,5,anime
 anime girls,2,pop,2026-11-18,2026-11-19,2,8,anime
 anime feet,2,pop,2026-11-18,2026-11-18,1,9,anime
 2020s anime,2,pop,2026-11-18,2026-11-18,1,12,anime
-subtle anime,2,pop,2026-11-18,2026-11-18,1,13,anime
+subtle anime,2,pop,2026-11-18,2026-11-23,2,13,anime
 lewd anime girl,3,pop,2026-11-18,2026-11-19,3,14,anime
 black clover anime,3,pop,2026-11-18,2026-11-18,1,15,anime
 monster anime,2,pop,2026-11-18,2026-11-18,1,16,anime
@@ -12751,7 +12751,7 @@ summer heights high,3,pop,2026-11-18,2026-11-21,3,9,summer
 summer walker,2,pop,2026-11-18,2026-11-19,2,11,summer
 summer vibes,2,pop,2026-11-18,2026-11-21,3,12,summer
 5 second of summer,4,pop,2026-11-18,2026-11-19,2,13,summer
-endless summer,2,pop,2026-11-18,2026-11-19,2,14,summer
+endless summer,2,pop,2026-11-18,2026-11-23,3,14,summer
 last of the summer wine,5,pop,2026-11-18,2026-11-18,1,15,summer
 i know what you did last summer,7,pop,2026-11-18,2026-11-18,1,16,summer
 summer vibe,2,pop,2026-11-18,2026-11-21,2,17,summer
@@ -13186,7 +13186,7 @@ pink and green,3,pop,2026-11-18,2026-11-19,2,9,green
 green arrow,2,pop,2026-11-18,2026-11-18,1,10,green
 green goblin,2,pop,2026-11-18,2026-11-18,1,11,green
 sage green,2,pop,2026-11-18,2026-11-18,1,12,green
-big city greens,3,pop,2026-11-18,2026-11-18,1,13,green
+big city greens,3,pop,2026-11-18,2026-11-23,2,13,green
 green ranger,2,pop,2026-11-18,2026-11-18,1,16,green
 soylent green,2,pop,2026-11-18,2026-11-22,2,17,green
 green party,2,pop,2026-11-18,2026-11-18,1,18,green
@@ -13317,7 +13317,7 @@ zoro jolly roger,3,pop,2026-11-18,2026-11-18,1,16,zoro
 roronoa zoro logo,3,pop,2026-11-18,2026-11-18,1,17,zoro
 luffy and zoro,3,pop,2026-11-18,2026-11-18,1,18,zoro
 sanji and zoro,3,pop,2026-11-18,2026-11-18,1,19,zoro
-end of evangelion,3,pop,2026-11-18,2026-11-18,1,2,evangelion
+end of evangelion,3,pop,2026-11-18,2026-11-23,2,2,evangelion
 neon genesis evangelion garfield,4,pop,2026-11-18,2026-11-19,3,3,evangelion
 asuka evangelion,2,pop,2026-11-18,2026-11-18,1,4,evangelion
 the end of evangelion,4,pop,2026-11-18,2026-11-18,1,5,evangelion
@@ -13365,7 +13365,7 @@ australian music,2,pop,2026-11-18,2026-11-19,2,19,music
 the lost boys musical,4,trend,2026-11-18,2026-11-18,1,8,music
 blues musician,2,trend,2026-11-18,2026-11-19,3,12,music
 funny teacher,2,pop,2026-11-18,2026-11-21,2,2,teacher
-history teacher,2,pop,2026-11-18,2026-11-21,2,3,teacher
+history teacher,2,pop,2026-11-18,2026-11-23,3,3,teacher
 art teacher,2,pop,2026-11-18,2026-11-21,2,4,teacher
 science teacher,2,pop,2026-11-18,2026-11-21,3,5,teacher
 math teacher,2,pop,2026-11-18,2026-11-21,2,6,teacher
@@ -13818,7 +13818,7 @@ sunghoon enhypen,2,pop,2026-11-18,2026-11-18,1,16,enhypen
 ni ki enhypen,3,pop,2026-11-18,2026-11-18,1,17,enhypen
 enhypen ni ki,3,pop,2026-11-18,2026-11-18,1,18,enhypen
 enhypen cute,2,pop,2026-11-18,2026-11-18,1,19,enhypen
-subtle pride,2,pop,2026-11-18,2026-11-18,1,2,pride
+subtle pride,2,pop,2026-11-18,2026-11-23,2,2,pride
 pride flag,2,pop,2026-11-18,2026-11-18,1,3,pride
 lesbian pride,2,pop,2026-11-18,2026-11-19,2,4,pride
 bi pride,2,pop,2026-11-18,2026-11-18,1,5,pride
@@ -13826,7 +13826,7 @@ trans pride,2,pop,2026-11-18,2026-11-18,1,6,pride
 disability pride,2,pop,2026-11-18,2026-11-18,1,7,pride
 pride month,2,pop,2026-11-18,2026-11-18,1,8,pride
 more pride less prejudice,4,pop,2026-11-18,2026-11-18,1,9,pride
-asexual pride,2,pop,2026-11-18,2026-11-18,1,11,pride
+asexual pride,2,pop,2026-11-18,2026-11-23,2,11,pride
 pride and predjudice,3,pop,2026-11-18,2026-11-18,1,12,pride
 name pride,2,pop,2026-11-18,2026-11-18,1,14,pride
 pride fighting championships,3,pop,2026-11-18,2026-11-18,1,15,pride
@@ -14205,7 +14205,7 @@ i want to sell a website,6,pop,2026-11-18,2026-11-19,2,13,website sell
 website for sell,3,pop,2026-11-18,2026-11-19,2,14,website sell
 sell the website,3,pop,2026-11-18,2026-11-19,2,15,website sell
 i sell my website,4,pop,2026-11-18,2026-11-19,2,16,website sell
-directed by david lynch,4,pop,2026-11-18,2026-11-18,1,1,david lynch
+directed by david lynch,4,pop,2026-11-18,2026-11-23,2,1,david lynch
 david lynch blue velvet,4,pop,2026-11-18,2026-11-18,1,2,david lynch
 david lynch lost highway,4,pop,2026-11-18,2026-11-18,1,3,david lynch
 bumper david lynch,3,pop,2026-11-18,2026-11-18,1,4,david lynch
@@ -14305,7 +14305,7 @@ friends the show,3,pop,2026-11-18,2026-11-19,2,2,friends
 happy tree friends,3,pop,2026-11-18,2026-11-18,1,3,friends
 thomas and friends,3,pop,2026-11-18,2026-11-18,2,4,friends
 friendship,1,pop,2026-11-18,2026-11-18,1,5,friends
-spidey and his amazing friends,5,pop,2026-11-18,2026-11-18,1,6,friends
+spidey and his amazing friends,5,pop,2026-11-18,2026-11-23,2,6,friends
 bad friends,2,pop,2026-11-18,2026-11-18,1,7,friends
 i have friends everywhere,4,pop,2026-11-18,2026-11-18,1,8,friends
 rainbow friends,2,pop,2026-11-18,2026-11-18,1,9,friends
@@ -14380,7 +14380,7 @@ supernatural quotes,2,pop,2026-11-18,2026-11-18,1,18,supernatural
 supernatural scooby doo,3,pop,2026-11-18,2026-11-18,1,19,supernatural
 demon slayer anime,3,pop,2026-11-18,2026-11-19,2,1,demon slayer
 demon slayer inosuke,3,pop,2026-11-18,2026-11-18,1,2,demon slayer
-demon slayer nezuko,3,pop,2026-11-18,2026-11-18,1,3,demon slayer
+demon slayer nezuko,3,pop,2026-11-18,2026-11-23,2,3,demon slayer
 demon slayer tanjiro,3,pop,2026-11-18,2026-11-18,1,4,demon slayer
 demon slayer rengoku,3,pop,2026-11-18,2026-11-18,1,5,demon slayer
 doma demon slayer,3,pop,2026-11-18,2026-11-21,2,6,demon slayer
@@ -14490,7 +14490,7 @@ juice wrld cartoon,3,pop,2026-11-18,2026-11-18,1,7,juice wrld
 juice wrld tattoo,3,pop,2026-11-18,2026-11-18,1,8,juice wrld
 juice wrld album,3,pop,2026-11-18,2026-11-18,1,9,juice wrld
 juice wrld 999 shoes,4,pop,2026-11-18,2026-11-18,1,10,juice wrld
-juice wrld vlone,3,pop,2026-11-18,2026-11-18,1,11,juice wrld
+juice wrld vlone,3,pop,2026-11-18,2026-11-23,2,11,juice wrld
 juice wrld case,3,pop,2026-11-18,2026-11-18,1,12,juice wrld
 juice wrld mystery box,4,pop,2026-11-18,2026-11-18,1,13,juice wrld
 juice wrld all girls are the same,7,pop,2026-11-18,2026-11-18,1,14,juice wrld
@@ -14521,7 +14521,7 @@ final fantasy vi,3,pop,2026-11-18,2026-11-18,1,6,final fantasy
 final fantasy viii,3,pop,2026-11-18,2026-11-18,1,7,final fantasy
 final fantasy 14,3,pop,2026-11-18,2026-11-18,1,8,final fantasy
 final fantasy 6,3,pop,2026-11-18,2026-11-18,1,9,final fantasy
-final fantasy tactics,3,pop,2026-11-18,2026-11-18,1,11,final fantasy
+final fantasy tactics,3,pop,2026-11-18,2026-11-23,2,11,final fantasy
 final fantasy 9,3,pop,2026-11-18,2026-11-18,1,14,final fantasy
 final fantasy 8,3,pop,2026-11-18,2026-11-18,1,15,final fantasy
 final fantasy 16,3,pop,2026-11-18,2026-11-18,1,16,final fantasy
@@ -14549,7 +14549,7 @@ queensland australia,2,pop,2026-11-18,2026-11-18,1,15,queensland
 queensland state of origin,4,pop,2026-11-18,2026-11-18,1,16,queensland
 queensland flag,2,pop,2026-11-18,2026-11-18,1,17,queensland
 yeppoon queensland,2,pop,2026-11-18,2026-11-21,2,18,queensland
-ipswich queensland,2,pop,2026-11-18,2026-11-18,1,19,queensland
+ipswich queensland,2,pop,2026-11-18,2026-11-23,2,19,queensland
 dinamo zagreb naljepnice,3,pop,2026-11-18,2026-11-18,1,1,dinamo zagreb
 dinamo zagreb fans,3,pop,2026-11-18,2026-11-18,1,3,dinamo zagreb
 dinamo zagreb majice,3,pop,2026-11-18,2026-11-18,1,4,dinamo zagreb
@@ -14950,7 +14950,7 @@ new orleans jazz,3,pop,2026-11-18,2026-11-18,1,17,jazz
 jazzy star,2,pop,2026-11-18,2026-11-18,1,18,jazz
 montreux jazz festival,3,pop,2026-11-18,2026-11-18,1,19,jazz
 jazz giants,2,trend,2026-11-18,2026-11-21,2,1,jazz
-all that jazz movie,4,trend,2026-11-18,2026-11-18,1,3,jazz
+all that jazz movie,4,trend,2026-11-18,2026-11-23,2,3,jazz
 quirky frog knight,3,pop,2026-11-18,2026-11-18,1,1,quirky
 quirky art,2,pop,2026-11-18,2026-11-18,1,2,quirky
 quirky cat,2,pop,2026-11-18,2026-11-18,1,3,quirky
@@ -15403,7 +15403,7 @@ the witcher,2,pop,2026-11-18,2026-11-18,1,4,witch
 witches,1,pop,2026-11-18,2026-11-18,1,6,witch
 witchcraft,1,pop,2026-11-18,2026-11-18,1,7,witch
 all them witches,3,pop,2026-11-18,2026-11-18,1,8,witch
-sabrina the teenage witch,4,pop,2026-11-18,2026-11-18,1,10,witch
+sabrina the teenage witch,4,pop,2026-11-18,2026-11-23,2,10,witch
 witcher 3,2,pop,2026-11-18,2026-11-18,1,12,witch
 the witcher 3,3,pop,2026-11-18,2026-11-18,1,13,witch
 little witch academia,3,pop,2026-11-18,2026-11-18,1,14,witch
@@ -15488,7 +15488,7 @@ soccer player lamine yamal,4,pop,2026-11-18,2026-11-18,1,3,lamine yamal
 lamine yamal spain,3,pop,2026-11-18,2026-11-18,1,4,lamine yamal
 90s movies,2,pop,2026-11-18,2026-11-19,2,4,movies
 sci fi movies,3,pop,2026-11-18,2026-11-18,1,9,movies
-better than the movies,4,pop,2026-11-18,2026-11-18,1,11,movies
+better than the movies,4,pop,2026-11-18,2026-11-23,2,11,movies
 2023 movies,2,pop,2026-11-18,2026-11-18,1,12,movies
 gangster movies,2,pop,2026-11-18,2026-11-18,1,15,movies
 2020s movies,2,pop,2026-11-18,2026-11-18,1,16,movies
@@ -15585,7 +15585,7 @@ memento mori,2,pop,2026-11-18,2026-11-18,1,6,meme
 spongebob meme,2,pop,2026-11-18,2026-11-19,2,8,meme
 barry wood meme,3,pop,2026-11-18,2026-11-18,1,10,meme
 f1 meme,2,pop,2026-11-18,2026-11-18,1,13,meme
-baby laughing meme,3,pop,2026-11-18,2026-11-18,1,15,meme
+baby laughing meme,3,pop,2026-11-18,2026-11-23,2,15,meme
 lizard meme,2,pop,2026-11-18,2026-11-18,1,16,meme
 dog meme,2,pop,2026-11-18,2026-11-18,1,17,meme
 black guy meme,3,pop,2026-11-18,2026-11-20,2,18,meme
@@ -15612,7 +15612,7 @@ bon jovi tour 2026,4,pop,2026-11-18,2026-11-18,1,16,bon jovi
 bon jovi lyrics,3,pop,2026-11-18,2026-11-18,1,17,bon jovi
 bon jovi ladies,3,pop,2026-11-18,2026-11-18,1,18,bon jovi
 bon jovi always,3,pop,2026-11-18,2026-11-18,1,19,bon jovi
-kamogawa boxing gym,3,pop,2026-11-18,2026-11-18,1,14,gym
+kamogawa boxing gym,3,pop,2026-11-18,2026-11-23,2,14,gym
 gym funny,2,pop,2026-11-18,2026-11-18,1,15,gym
 gymnast,1,pop,2026-11-18,2026-11-18,1,16,gym
 gym shark,2,pop,2026-11-18,2026-11-18,1,17,gym
@@ -15827,7 +15827,7 @@ fallout 1,2,pop,2026-11-19,2026-11-19,1,17,fallout
 fallout 4 minutemen,3,pop,2026-11-19,2026-11-19,1,18,fallout
 enclave fallout,2,pop,2026-11-19,2026-11-19,1,19,fallout
 beachy,1,pop,2026-11-19,2026-11-19,1,1,beach
-teen beach movie,3,pop,2026-11-19,2026-11-19,1,2,beach
+teen beach movie,3,pop,2026-11-19,2026-11-23,2,2,beach
 the beaches,2,pop,2026-11-19,2026-11-19,1,3,beach
 bondi beach,2,pop,2026-11-19,2026-11-19,1,4,beach
 beach vibes,2,pop,2026-11-19,2026-11-21,4,5,beach
@@ -16017,7 +16017,7 @@ fine art,2,pop,2026-11-19,2026-11-22,2,11,art
 artemis,1,pop,2026-11-19,2026-11-19,1,13,art
 arthur,1,pop,2026-11-19,2026-11-19,1,16,art
 artificial intelligence,2,pop,2026-11-19,2026-11-19,1,17,art
-art history,2,pop,2026-11-19,2026-11-19,1,18,art
+art history,2,pop,2026-11-19,2026-11-23,2,18,art
 artic monkeys,2,pop,2026-11-19,2026-11-19,1,19,art
 black artists,2,trend,2026-11-19,2026-11-19,1,15,art
 chinese art,2,trend,2026-11-19,2026-11-19,1,16,art
@@ -16430,7 +16430,7 @@ ufo alien,2,pop,2026-11-19,2026-11-19,1,17,ufo
 ufo 361,2,pop,2026-11-19,2026-11-19,1,18,ufo
 bigfoot ufo,2,pop,2026-11-19,2026-11-19,1,19,ufo
 sousou no frieren,3,pop,2026-11-19,2026-11-19,1,1,frieren
-frieren beyond journeys end,4,pop,2026-11-19,2026-11-19,1,2,frieren
+frieren beyond journeys end,4,pop,2026-11-19,2026-11-23,2,2,frieren
 frieren anime,2,pop,2026-11-19,2026-11-19,1,4,frieren
 fern frieren,2,pop,2026-11-19,2026-11-19,1,5,frieren
 frieren fern,2,pop,2026-11-19,2026-11-19,1,6,frieren
@@ -16461,13 +16461,13 @@ custom red,2,pop,2026-11-19,2026-11-19,1,13,custom
 custom embroidered patches,3,pop,2026-11-19,2026-11-19,1,14,custom
 custom image,2,pop,2026-11-19,2026-11-19,1,15,custom
 custom flag,2,pop,2026-11-19,2026-11-19,1,16,custom
-moet custom label,3,pop,2026-11-19,2026-11-19,1,17,custom
+moet custom label,3,pop,2026-11-19,2026-11-23,2,17,custom
 champagne custom label,3,pop,2026-11-19,2026-11-19,1,18,custom
 customise,1,pop,2026-11-19,2026-11-19,1,19,custom
-the expanse opa,3,pop,2026-11-19,2026-11-19,1,2,the expanse
+the expanse opa,3,pop,2026-11-19,2026-11-23,2,2,the expanse
 the expanse series,3,pop,2026-11-19,2026-11-19,1,3,the expanse
 the expanse mcrn,3,pop,2026-11-19,2026-11-19,1,4,the expanse
-opa the expanse,3,pop,2026-11-19,2026-11-19,1,5,the expanse
+opa the expanse,3,pop,2026-11-19,2026-11-23,2,5,the expanse
 the expanse rocinante ship,4,pop,2026-11-19,2026-11-19,1,6,the expanse
 the expanse tycho,3,pop,2026-11-19,2026-11-19,1,7,the expanse
 the expanse amos,3,pop,2026-11-19,2026-11-19,1,8,the expanse
@@ -16527,13 +16527,13 @@ alpha wolf,2,pop,2026-11-19,2026-11-20,2,4,wolf
 wolf of wall street,4,pop,2026-11-19,2026-11-20,3,5,wolf
 wolfenstein,1,pop,2026-11-19,2026-11-20,2,6,wolf
 great wolf lodge,3,pop,2026-11-19,2026-11-20,2,7,wolf
-wolfstar,1,pop,2026-11-19,2026-11-20,2,8,wolf
+wolfstar,1,pop,2026-11-19,2026-11-23,3,8,wolf
 wolfwalkers,1,pop,2026-11-19,2026-11-20,2,10,wolf
 remi wolf,2,pop,2026-11-19,2026-11-20,2,11,wolf
 the wolf among us,4,pop,2026-11-19,2026-11-20,2,12,wolf
 julia wolf,2,pop,2026-11-19,2026-11-20,3,13,wolf
 chelsea wolfe,2,pop,2026-11-19,2026-11-20,2,15,wolf
-wolfs rain,2,pop,2026-11-19,2026-11-19,1,16,wolf
+wolfs rain,2,pop,2026-11-19,2026-11-23,2,16,wolf
 wolf ripping,2,pop,2026-11-19,2026-11-19,1,17,wolf
 wolf meme,2,pop,2026-11-19,2026-11-19,1,18,wolf
 irish wolfhound,2,pop,2026-11-19,2026-11-19,1,19,wolf
@@ -16625,7 +16625,7 @@ monster energy can,3,pop,2026-11-19,2026-11-19,1,13,monster energy
 monster energy honda,3,pop,2026-11-19,2026-11-19,1,14,monster energy
 monster energy online shopping,4,pop,2026-11-19,2026-11-19,1,15,monster energy
 energy drink monster,3,pop,2026-11-19,2026-11-19,1,16,monster energy
-subtle lesbian,2,pop,2026-11-19,2026-11-19,1,1,lesbian
+subtle lesbian,2,pop,2026-11-19,2026-11-23,2,1,lesbian
 lesbian flag,2,pop,2026-11-19,2026-11-19,1,3,lesbian
 funny lesbian,2,pop,2026-11-19,2026-11-19,1,4,lesbian
 lesbians eat what,3,pop,2026-11-19,2026-11-19,1,5,lesbian
@@ -16840,7 +16840,7 @@ mclaren lando norris,3,pop,2026-11-19,2026-11-19,1,17,lando norris
 lando norris f1 helmet,4,pop,2026-11-19,2026-11-19,1,18,lando norris
 lando norris ipad cases skins,5,pop,2026-11-19,2026-11-19,1,19,lando norris
 bands,1,pop,2026-11-19,2026-11-20,2,8,band
-crash bandicoot,2,pop,2026-11-19,2026-11-19,1,9,band
+crash bandicoot,2,pop,2026-11-19,2026-11-23,2,9,band
 kiss the band,3,pop,2026-11-19,2026-11-19,1,11,band
 70s rock band,3,pop,2026-11-19,2026-11-20,2,12,band
 hole band,2,pop,2026-11-19,2026-11-19,1,13,band
@@ -16961,16 +16961,16 @@ great sand dunes,3,pop,2026-11-19,2026-11-19,1,15,dune
 dune sandworm,2,pop,2026-11-19,2026-11-19,1,17,dune
 dune fremen,2,pop,2026-11-19,2026-11-19,1,18,dune
 dune sea,2,pop,2026-11-19,2026-11-19,1,19,dune
-jude bellingham and erling haaland,5,pop,2026-11-19,2026-11-19,1,1,erling haaland
-erling braut haaland,3,pop,2026-11-19,2026-11-19,1,2,erling haaland
-erling haaland funny,3,pop,2026-11-19,2026-11-19,1,3,erling haaland
-meditation erling haaland,3,pop,2026-11-19,2026-11-19,1,4,erling haaland
-erling haaland cartoon,3,pop,2026-11-19,2026-11-19,1,5,erling haaland
-erling haaland celebration,3,pop,2026-11-19,2026-11-19,1,6,erling haaland
-erling haaland norway,3,pop,2026-11-19,2026-11-19,1,7,erling haaland
-erling haaland new,3,pop,2026-11-19,2026-11-19,1,8,erling haaland
-erling haaland soccer,3,pop,2026-11-19,2026-11-19,1,9,erling haaland
-haaland erling,2,pop,2026-11-19,2026-11-19,1,10,erling haaland
+jude bellingham and erling haaland,5,pop,2026-11-19,2026-11-23,2,1,erling haaland
+erling braut haaland,3,pop,2026-11-19,2026-11-23,2,2,erling haaland
+erling haaland funny,3,pop,2026-11-19,2026-11-23,2,3,erling haaland
+meditation erling haaland,3,pop,2026-11-19,2026-11-23,2,4,erling haaland
+erling haaland cartoon,3,pop,2026-11-19,2026-11-23,2,5,erling haaland
+erling haaland celebration,3,pop,2026-11-19,2026-11-23,2,6,erling haaland
+erling haaland norway,3,pop,2026-11-19,2026-11-23,2,7,erling haaland
+erling haaland new,3,pop,2026-11-19,2026-11-23,2,8,erling haaland
+erling haaland soccer,3,pop,2026-11-19,2026-11-23,2,9,erling haaland
+haaland erling,2,pop,2026-11-19,2026-11-23,2,10,erling haaland
 erling haaland viking,3,pop,2026-11-19,2026-11-19,1,11,erling haaland
 porsche logo,2,pop,2026-11-19,2026-11-19,1,2,porsche
 porsche 944,2,pop,2026-11-19,2026-11-19,1,4,porsche
@@ -17136,10 +17136,10 @@ bluey cartoon,2,pop,2026-11-19,2026-11-19,1,5,bluey
 bluey mum,2,pop,2026-11-19,2026-11-19,1,6,bluey
 bluey muffin,2,pop,2026-11-19,2026-11-20,2,7,bluey
 bluey christmas,2,pop,2026-11-19,2026-11-19,1,9,bluey
-bandit bluey,2,pop,2026-11-19,2026-11-19,1,10,bluey
+bandit bluey,2,pop,2026-11-19,2026-11-23,2,10,bluey
 bingo bluey,2,pop,2026-11-19,2026-11-19,1,11,bluey
 bluey bingo,2,pop,2026-11-19,2026-11-19,1,12,bluey
-bluey bandit,2,pop,2026-11-19,2026-11-19,1,13,bluey
+bluey bandit,2,pop,2026-11-19,2026-11-23,2,13,bluey
 bluey christmas family,3,pop,2026-11-19,2026-11-19,1,14,bluey
 bluey anyall bbc priority platformsblueybluey,5,pop,2026-11-19,2026-11-19,1,15,bluey
 blueycapsules,1,pop,2026-11-19,2026-11-19,1,16,bluey
@@ -17254,14 +17254,14 @@ women want me fish fear me,6,pop,2026-11-19,2026-11-19,1,10,fish
 betta fish,2,pop,2026-11-19,2026-11-19,1,11,fish
 fishing brands,2,pop,2026-11-19,2026-11-19,1,12,fish
 gone fishing,2,pop,2026-11-19,2026-11-19,1,14,fish
-fishbone,1,pop,2026-11-19,2026-11-19,1,15,fish
+fishbone,1,pop,2026-11-19,2026-11-23,2,15,fish
 fisher price,2,pop,2026-11-19,2026-11-19,1,16,fish
 rainbow fish,2,pop,2026-11-19,2026-11-19,1,17,fish
 fisherman,1,pop,2026-11-19,2026-11-19,1,18,fish
 a woman needs a man like a fish needs a bicycle,11,trend,2026-11-19,2026-11-21,4,8,fish
-avatar way of water,4,pop,2026-11-19,2026-11-19,1,10,avatar
+avatar way of water,4,pop,2026-11-19,2026-11-23,2,10,avatar
 avatar fire and ash,4,pop,2026-11-19,2026-11-19,1,11,avatar
-avatar the way of water,5,pop,2026-11-19,2026-11-19,1,12,avatar
+avatar the way of water,5,pop,2026-11-19,2026-11-23,2,12,avatar
 avatar the last airbender iroh,5,pop,2026-11-19,2026-11-19,2,17,avatar
 avatar seven havens,3,pop,2026-11-19,2026-11-19,1,18,avatar
 roblox avatar,2,pop,2026-11-19,2026-11-19,1,19,avatar
@@ -17465,7 +17465,7 @@ elder emo,2,pop,2026-11-19,2026-11-19,1,9,emo
 begging emoji,2,pop,2026-11-19,2026-11-20,2,10,emo
 slay emoji,2,pop,2026-11-19,2026-11-20,2,11,emo
 naughty emoji,2,pop,2026-11-19,2026-11-20,2,13,emo
-emoji nails,2,pop,2026-11-19,2026-11-20,2,14,emo
+emoji nails,2,pop,2026-11-19,2026-11-23,3,14,emo
 emory university,2,pop,2026-11-19,2026-11-19,1,16,emo
 emo spongebob,2,pop,2026-11-19,2026-11-19,1,17,emo
 crying emoji,2,pop,2026-11-19,2026-11-20,2,18,emo
@@ -17502,7 +17502,7 @@ funny jesus,2,pop,2026-11-19,2026-11-19,1,3,jesus
 jesus and mary chain,4,pop,2026-11-19,2026-11-19,1,4,jesus
 jesus is king,3,pop,2026-11-19,2026-11-19,1,5,jesus
 jesus saves,2,pop,2026-11-19,2026-11-19,1,6,jesus
-jesus i saw that,4,pop,2026-11-19,2026-11-19,1,7,jesus
+jesus i saw that,4,pop,2026-11-19,2026-11-23,2,7,jesus
 jesus meme,2,pop,2026-11-19,2026-11-19,1,8,jesus
 black jesus,2,pop,2026-11-19,2026-11-19,1,9,jesus
 the jesus and mary chain,5,pop,2026-11-19,2026-11-19,1,10,jesus
@@ -17995,7 +17995,7 @@ avatar koi fish,3,pop,2026-11-19,2026-11-19,1,12,koi
 koi carp,2,pop,2026-11-19,2026-11-19,1,13,koi
 koine greek,2,pop,2026-11-19,2026-11-19,1,14,koi
 koi mom,2,pop,2026-11-19,2026-11-19,1,15,koi
-yin yang koi,3,pop,2026-11-19,2026-11-19,1,16,koi
+yin yang koi,3,pop,2026-11-19,2026-11-23,2,16,koi
 koishi,1,pop,2026-11-19,2026-11-19,1,17,koi
 tsuchiya koitsu,2,pop,2026-11-19,2026-11-19,1,18,koi
 koinobori,1,pop,2026-11-19,2026-11-19,1,19,koi
@@ -18097,7 +18097,7 @@ csu fullerton,2,pop,2026-11-19,2026-11-19,1,13,csu
 csu ram,2,pop,2026-11-19,2026-11-19,1,14,csu
 bees,1,pop,2026-11-19,2026-11-19,1,3,bee
 beetle,1,pop,2026-11-19,2026-11-19,1,5,bee
-bee gees,2,pop,2026-11-19,2026-11-19,1,6,bee
+bee gees,2,pop,2026-11-19,2026-11-23,2,6,bee
 beethoven,1,pop,2026-11-19,2026-11-19,1,7,bee
 captain beefheart,2,pop,2026-11-19,2026-11-19,1,8,bee
 bee swarm simulator,3,pop,2026-11-19,2026-11-19,1,9,bee
@@ -18183,7 +18183,7 @@ samara weaving,2,pop,2026-11-19,2026-11-19,1,16,wea
 weaving,1,pop,2026-11-19,2026-11-19,1,17,wea
 weak hero class,3,pop,2026-11-19,2026-11-19,1,18,wea
 the weather channel,3,pop,2026-11-19,2026-11-19,1,19,wea
-devil may cry weapons,4,trend,2026-11-19,2026-11-19,1,1,wea
+devil may cry weapons,4,trend,2026-11-19,2026-11-23,2,1,wea
 zubr,1,pop,2026-11-19,2026-11-19,1,2,zub
 alice zuberg,2,pop,2026-11-19,2026-11-19,1,3,zub
 zubrowka,1,pop,2026-11-19,2026-11-19,1,4,zub
@@ -19179,7 +19179,7 @@ moonwalk,1,pop,2026-11-19,2026-11-19,1,3,moonw
 wof moonwatcher,2,pop,2026-11-19,2026-11-19,1,4,moonw
 moonwatch,1,pop,2026-11-19,2026-11-19,1,5,moonw
 sutton foster,2,pop,2026-11-19,2026-11-19,1,0,sut
-kama sutra,2,pop,2026-11-19,2026-11-19,1,1,sut
+kama sutra,2,pop,2026-11-19,2026-11-23,2,1,sut
 kiefer sutherland,2,pop,2026-11-19,2026-11-19,1,2,sut
 sutton hoo,2,pop,2026-11-19,2026-11-19,1,3,sut
 sutter cane,2,pop,2026-11-19,2026-11-19,1,4,sut
@@ -19459,7 +19459,7 @@ tax the poor,3,pop,2026-11-19,2026-11-19,1,8,tax
 tax,1,pop,2026-11-19,2026-11-19,1,9,tax
 taxidermy,1,pop,2026-11-19,2026-11-19,1,10,tax
 tax evasion,2,pop,2026-11-19,2026-11-19,1,11,tax
-odd taxi,2,pop,2026-11-19,2026-11-19,1,13,tax
+odd taxi,2,pop,2026-11-19,2026-11-23,2,13,tax
 tax fraud,2,pop,2026-11-19,2026-11-19,1,14,tax
 crazy taxi,2,pop,2026-11-19,2026-11-19,1,15,tax
 taxes,1,pop,2026-11-19,2026-11-19,1,16,tax
@@ -19485,7 +19485,7 @@ hospital records,2,pop,2026-11-19,2026-11-19,2,6,hos
 ai hoshino,2,pop,2026-11-19,2026-11-19,1,7,hos
 die toten hosen,3,pop,2026-11-19,2026-11-19,1,8,hos
 rubber hose,2,pop,2026-11-19,2026-11-19,1,9,hos
-cincinnati children s hospital,4,pop,2026-11-19,2026-11-19,1,10,hos
+cincinnati children s hospital,4,pop,2026-11-19,2026-11-23,2,10,hos
 hoshoryu,1,pop,2026-11-19,2026-11-19,1,11,hos
 riley childrens hospital,3,pop,2026-11-19,2026-11-19,1,12,hos
 hospital playlist,2,pop,2026-11-19,2026-11-19,1,13,hos
@@ -19814,7 +19814,7 @@ redzendesignz,1,pop,2026-11-19,2026-11-19,1,3,redz
 uvas,1,pop,2026-11-19,2026-11-19,1,10,uva
 uva academy,2,pop,2026-11-19,2026-11-19,1,11,uva
 bay area,2,pop,2026-11-19,2026-11-19,1,2,are
-mech arena,2,pop,2026-11-19,2026-11-19,1,3,are
+mech arena,2,pop,2026-11-19,2026-11-23,2,3,are
 birds arent real,3,pop,2026-11-19,2026-11-19,1,4,are
 area 51,2,pop,2026-11-19,2026-11-19,1,5,are
 not all who wander are lost,6,pop,2026-11-19,2026-11-19,1,6,are
@@ -20396,7 +20396,7 @@ human error,2,pop,2026-11-20,2026-11-20,1,16,err
 404 error brain not found,5,pop,2026-11-20,2026-11-20,1,17,err
 windows error meme,3,pop,2026-11-20,2026-11-20,1,18,err
 fatal error,2,pop,2026-11-20,2026-11-20,1,19,err
-nails emoji,2,pop,2026-11-20,2026-11-20,1,10,emoj
+nails emoji,2,pop,2026-11-20,2026-11-23,2,10,emoj
 thumbs up emoji,3,pop,2026-11-20,2026-11-20,1,11,emoj
 emoji skull,2,pop,2026-11-20,2026-11-20,1,12,emoj
 emo emoji,2,pop,2026-11-20,2026-11-20,1,13,emoj
@@ -21034,7 +21034,7 @@ blood incantation,2,pop,2026-11-20,2026-11-20,1,2,inc
 the incredibles,2,pop,2026-11-20,2026-11-20,1,3,inc
 inclusion,1,pop,2026-11-20,2026-11-20,1,4,inc
 hedwig and the angry inch,5,pop,2026-11-20,2026-11-20,1,5,inc
-nine inch nail,3,pop,2026-11-20,2026-11-20,1,6,inc
+nine inch nail,3,pop,2026-11-20,2026-11-23,2,6,inc
 inclusive,1,pop,2026-11-20,2026-11-20,1,7,inc
 incredibles,1,pop,2026-11-20,2026-11-20,1,9,inc
 incineroar,1,pop,2026-11-20,2026-11-20,1,10,inc
@@ -21109,11 +21109,11 @@ mspaint,1,pop,2026-11-20,2026-11-20,1,2,msp
 msport,1,pop,2026-11-20,2026-11-20,1,3,msp
 msp airport,2,pop,2026-11-20,2026-11-20,1,4,msp
 toad,1,pop,2026-11-20,2026-11-20,1,1,toa
-live laugh toaster bath,4,pop,2026-11-20,2026-11-20,1,2,toa
+live laugh toaster bath,4,pop,2026-11-20,2026-11-23,2,2,toa
 brave little toaster,3,pop,2026-11-20,2026-11-20,1,3,toa
 toast,1,pop,2026-11-20,2026-11-20,1,4,toa
 mr toad,2,pop,2026-11-20,2026-11-20,1,6,toa
-cinnamon toast crunch,3,pop,2026-11-20,2026-11-20,1,7,toa
+cinnamon toast crunch,3,pop,2026-11-20,2026-11-23,2,7,toa
 toadette,1,pop,2026-11-20,2026-11-20,1,9,toa
 toaster bath,2,pop,2026-11-20,2026-11-20,1,10,toa
 toad mario,2,pop,2026-11-20,2026-11-20,1,11,toa
@@ -21138,7 +21138,7 @@ wendys fast food,3,pop,2026-11-20,2026-11-20,1,9,wen
 wendell,1,pop,2026-11-20,2026-11-20,1,10,wen
 port wenn,2,pop,2026-11-20,2026-11-20,1,11,wen
 wendy cope,2,pop,2026-11-20,2026-11-20,1,12,wen
-wim wenders,2,pop,2026-11-20,2026-11-20,1,13,wen
+wim wenders,2,pop,2026-11-20,2026-11-23,2,13,wen
 wengen,1,pop,2026-11-20,2026-11-20,1,14,wen
 wendy james,2,pop,2026-11-20,2026-11-20,1,15,wen
 wendy o williams,3,pop,2026-11-20,2026-11-20,1,16,wen
@@ -21158,8 +21158,8 @@ roller derby,2,pop,2026-11-20,2026-11-20,1,5,rol
 rock n roll,3,pop,2026-11-20,2026-11-20,1,6,rol
 roland,1,pop,2026-11-20,2026-11-20,1,7,rol
 roller,1,pop,2026-11-20,2026-11-20,1,8,rol
-cinnamon roll,2,pop,2026-11-20,2026-11-20,1,9,rol
-bay city rollers,3,pop,2026-11-20,2026-11-20,1,11,rol
+cinnamon roll,2,pop,2026-11-20,2026-11-23,2,9,rol
+bay city rollers,3,pop,2026-11-20,2026-11-23,2,11,rol
 roller rabbit,2,pop,2026-11-20,2026-11-20,1,12,rol
 roller skate,2,pop,2026-11-20,2026-11-20,2,13,rol
 roland garros,2,pop,2026-11-20,2026-11-20,1,14,rol
@@ -21478,7 +21478,7 @@ wisconsin dells,2,pop,2026-11-20,2026-11-20,1,17,wis
 wistoria wand and sword,4,pop,2026-11-20,2026-11-20,1,18,wis
 dying wish,2,pop,2026-11-20,2026-11-20,1,19,wis
 morecambe and wise,3,trend,2026-11-20,2026-11-20,1,2,wis
-devils lake wisconsin,3,trend,2026-11-20,2026-11-21,2,3,wis
+devils lake wisconsin,3,trend,2026-11-20,2026-11-23,3,3,wis
 lluvia,1,pop,2026-11-20,2026-11-20,1,0,llu
 how to lose a guy in 10 days,8,pop,2026-11-20,2026-11-20,1,3,guy
 guy fieri,2,pop,2026-11-20,2026-11-20,1,4,guy
@@ -21787,7 +21787,7 @@ melvins,1,pop,2026-11-20,2026-11-20,1,2,mel
 melody marks,2,pop,2026-11-20,2026-11-20,1,3,mel
 co co melon,3,pop,2026-11-20,2026-11-20,1,6,mel
 mel brooks,2,pop,2026-11-20,2026-11-20,1,7,mel
-blind melon,2,pop,2026-11-20,2026-11-20,1,8,mel
+blind melon,2,pop,2026-11-20,2026-11-23,2,8,mel
 cocos melon,2,pop,2026-11-20,2026-11-20,1,9,mel
 projekt melody,2,pop,2026-11-20,2026-11-20,1,12,mel
 mel robbins,2,pop,2026-11-20,2026-11-20,1,13,mel
@@ -22081,7 +22081,7 @@ jean cocteau,2,pop,2026-11-20,2026-11-20,1,8,jea
 jean luc godard,3,pop,2026-11-20,2026-11-21,2,9,jea
 jean giraud,2,pop,2026-11-20,2026-11-20,1,10,jea
 jean michel jarre,3,pop,2026-11-20,2026-11-20,1,11,jea
-jean giraud moebius,3,pop,2026-11-20,2026-11-20,1,12,jea
+jean giraud moebius,3,pop,2026-11-20,2026-11-23,2,12,jea
 billie jean,2,pop,2026-11-20,2026-11-20,1,13,jea
 jean,1,pop,2026-11-20,2026-11-20,1,14,jea
 jean dawson,2,pop,2026-11-20,2026-11-21,2,15,jea
@@ -22742,7 +22742,7 @@ original artwork,2,pop,2026-11-21,2026-11-21,1,5,artw
 r34 artwork,2,pop,2026-11-21,2026-11-21,1,6,artw
 artworks,1,pop,2026-11-21,2026-11-21,1,7,artw
 disney artwork,2,pop,2026-11-21,2026-11-21,1,8,artw
-pablo picasso artwork,3,pop,2026-11-21,2026-11-21,1,9,artw
+pablo picasso artwork,3,pop,2026-11-21,2026-11-23,2,9,artw
 framed artwork,2,pop,2026-11-21,2026-11-21,1,10,artw
 ai artwork,2,pop,2026-11-21,2026-11-21,1,11,artw
 david hockney artwork,3,pop,2026-11-21,2026-11-21,1,12,artw
@@ -23036,7 +23036,7 @@ deora,1,pop,2026-11-21,2026-11-21,1,13,deo
 dominican republic,2,pop,2026-11-21,2026-11-21,1,2,dom
 dom dolla,2,pop,2026-11-21,2026-11-21,1,3,dom
 molchat doma,2,pop,2026-11-21,2026-11-21,1,5,dom
-dominos pizza,2,pop,2026-11-21,2026-11-21,1,6,dom
+dominos pizza,2,pop,2026-11-21,2026-11-23,2,6,dom
 domain expansion,2,pop,2026-11-21,2026-11-21,1,7,dom
 old dominion university,3,pop,2026-11-21,2026-11-21,1,8,dom
 dominican,1,pop,2026-11-21,2026-11-21,1,9,dom
@@ -23373,7 +23373,7 @@ art attack,2,pop,2026-11-21,2026-11-21,1,19,att
 tsn,1,pop,2026-11-21,2026-11-21,1,0,tsn
 cuh,1,pop,2026-11-21,2026-11-21,1,0,cuh
 no quema cuh,3,pop,2026-11-21,2026-11-21,1,1,cuh
-tumbado cuh trokiando ss clone silverado super sport chevy lsx,10,pop,2026-11-21,2026-11-21,1,2,cuh
+tumbado cuh trokiando ss clone silverado super sport chevy lsx,10,pop,2026-11-21,2026-11-23,2,2,cuh
 forget about it cuh,4,pop,2026-11-21,2026-11-21,1,3,cuh
 takuache cuh,2,pop,2026-11-21,2026-11-21,1,4,cuh
 cuh meme,2,pop,2026-11-21,2026-11-21,1,5,cuh
@@ -23884,7 +23884,7 @@ fullmetal alchemist brotherhood,3,pop,2026-11-21,2026-11-21,1,2,alc
 fusion fullmetal alchemist,3,pop,2026-11-21,2026-11-21,1,4,alc
 alchemy,1,pop,2026-11-21,2026-11-21,1,5,alc
 alchemised,1,pop,2026-11-21,2026-11-21,1,6,alc
-alcoholics anonymous,2,pop,2026-11-21,2026-11-21,1,7,alc
+alcoholics anonymous,2,pop,2026-11-21,2026-11-23,2,7,alc
 alchemy of souls,3,pop,2026-11-21,2026-11-21,1,8,alc
 the alchemist,2,pop,2026-11-21,2026-11-21,1,9,alc
 alchemist,1,pop,2026-11-21,2026-11-21,1,10,alc
@@ -24222,7 +24222,7 @@ light yagami,2,pop,2026-11-21,2026-11-21,1,1,yag
 yaga,1,pop,2026-11-21,2026-11-21,1,3,yag
 baba yaga house,3,pop,2026-11-21,2026-11-21,1,4,yag
 yagami,1,pop,2026-11-21,2026-11-21,1,6,yag
-yatora yaguchi,2,pop,2026-11-21,2026-11-21,1,7,yag
+yatora yaguchi,2,pop,2026-11-21,2026-11-23,2,7,yag
 hololive yagoo masks,3,pop,2026-11-21,2026-11-21,1,8,yag
 baba yaga hut,3,pop,2026-11-21,2026-11-21,1,9,yag
 toshinori yagi,2,pop,2026-11-21,2026-11-21,1,11,yag
@@ -24250,7 +24250,7 @@ silly bandz,2,pop,2026-11-21,2026-11-21,1,0,bandz
 yacht rock,2,pop,2026-11-21,2026-11-21,1,0,yac
 lil yachty,2,pop,2026-11-21,2026-11-21,1,1,yac
 yacht,1,pop,2026-11-21,2026-11-21,1,2,yac
-bored ape yacht club,4,pop,2026-11-21,2026-11-21,1,4,yac
+bored ape yacht club,4,pop,2026-11-21,2026-11-23,2,4,yac
 yacht club,2,pop,2026-11-21,2026-11-21,1,5,yac
 sydney to hobart yacht race,5,pop,2026-11-21,2026-11-21,1,6,yac
 new york yacht club,4,pop,2026-11-21,2026-11-21,1,7,yac
@@ -24529,7 +24529,7 @@ guam,1,pop,2026-11-22,2026-11-22,1,5,gua
 virgen de guadalupe,3,pop,2026-11-22,2026-11-22,1,7,gua
 pep guardiola,2,pop,2026-11-22,2026-11-22,1,8,gua
 guarana,1,pop,2026-11-22,2026-11-22,1,9,gua
-blind guardian,2,pop,2026-11-22,2026-11-22,1,10,gua
+blind guardian,2,pop,2026-11-22,2026-11-23,2,10,gua
 raven guard,2,pop,2026-11-22,2026-11-22,1,12,gua
 color guard,2,pop,2026-11-22,2026-11-22,1,13,gua
 rise of the guardians,4,pop,2026-11-22,2026-11-22,1,15,gua
@@ -24949,7 +24949,7 @@ iglesias,1,pop,2026-11-22,2026-11-22,1,7,igl
 memes de julio iglesia,4,pop,2026-11-22,2026-11-22,1,8,igl
 ryuko matoi,2,pop,2026-11-22,2026-11-22,1,3,ryu
 shidou ryusei,2,pop,2026-11-22,2026-11-22,1,4,ryu
-kamen rider ryuki,3,pop,2026-11-22,2026-11-22,1,5,ryu
+kamen rider ryuki,3,pop,2026-11-22,2026-11-23,2,5,ryu
 ryu street fighter,3,pop,2026-11-22,2026-11-22,1,6,ryu
 ryujin,1,pop,2026-11-22,2026-11-22,1,7,ryu
 ryu ga gotoku,3,pop,2026-11-22,2026-11-22,1,9,ryu
@@ -25148,7 +25148,7 @@ dyfi,1,pop,2026-11-22,2026-11-22,1,0,dyf
 matt gourley,2,pop,2026-11-22,2026-11-22,2,0,gou
 gough whitlam,2,pop,2026-11-22,2026-11-22,1,1,gou
 glenn gould,2,pop,2026-11-22,2026-11-22,2,2,gou
-peggy gou,2,pop,2026-11-22,2026-11-22,1,3,gou
+peggy gou,2,pop,2026-11-22,2026-11-23,2,3,gou
 gout,1,pop,2026-11-22,2026-11-22,1,4,gou
 van gough,2,pop,2026-11-22,2026-11-22,1,5,gou
 with gourley and rust,4,pop,2026-11-22,2026-11-22,1,6,gou
@@ -25299,7 +25299,7 @@ finance,1,pop,2026-11-22,2026-11-22,1,7,fin
 intelligent finance,2,pop,2026-11-22,2026-11-22,1,9,fin
 rat fink,2,pop,2026-11-22,2026-11-22,1,11,fin
 finland,1,pop,2026-11-22,2026-11-22,1,12,fin
-finding nemo,2,pop,2026-11-22,2026-11-22,1,13,fin
+finding nemo,2,pop,2026-11-22,2026-11-23,2,13,fin
 five finger death punch,4,pop,2026-11-22,2026-11-22,1,14,fin
 the finals,2,pop,2026-11-22,2026-11-22,1,15,fin
 stiff little fingers,3,pop,2026-11-22,2026-11-22,1,19,fin
@@ -25489,7 +25489,7 @@ mazzy star fade into you,5,pop,2026-11-22,2026-11-22,2,7,fad
 fade valorant,2,pop,2026-11-22,2026-11-22,1,8,fad
 fade,1,pop,2026-11-22,2026-11-22,1,9,fad
 fade to black,3,pop,2026-11-22,2026-11-22,1,10,fad
-dylan faden,2,pop,2026-11-22,2026-11-22,1,11,fad
+dylan faden,2,pop,2026-11-22,2026-11-23,2,11,fad
 alan walker faded,3,pop,2026-11-22,2026-11-22,1,12,fad
 fade to grey,3,pop,2026-11-22,2026-11-22,1,13,fad
 purple to black fade,4,pop,2026-11-22,2026-11-22,1,14,fad
@@ -25936,7 +25936,7 @@ patriot front,2,pop,2026-11-22,2026-11-22,2,17,pat
 nissan patrol,2,pop,2026-11-22,2026-11-22,1,18,pat
 patrick vieira,2,trend,2026-11-22,2026-11-22,1,3,pat
 patty mayo,2,trend,2026-11-22,2026-11-22,1,4,pat
-patrick nail,2,trend,2026-11-22,2026-11-22,1,5,pat
+patrick nail,2,trend,2026-11-22,2026-11-23,2,5,pat
 mama patrol,2,trend,2026-11-22,2026-11-22,1,13,pat
 dad patrol,2,trend,2026-11-22,2026-11-22,1,19,pat
 nsslha,1,pop,2026-11-22,2026-11-22,1,0,nss
@@ -26007,3 +26007,907 @@ japanese onomatopoeia,2,pop,2026-11-22,2026-11-22,1,14,ono
 onondaga,1,pop,2026-11-22,2026-11-22,1,15,ono
 ononoki,1,pop,2026-11-22,2026-11-22,1,16,ono
 usaid,1,pop,2026-11-22,2026-11-22,1,1,usai
+bboy,1,pop,2026-11-23,2026-11-23,1,1,bbo
+skzoo bbokari,2,pop,2026-11-23,2026-11-23,1,2,bbo
+bbot,1,pop,2026-11-23,2026-11-23,1,3,bbo
+skz skzoo straykids felix bbokari,5,pop,2026-11-23,2026-11-23,1,4,bbo
+bbokari skzoo,2,pop,2026-11-23,2026-11-23,1,5,bbo
+bbokkari,1,pop,2026-11-23,2026-11-23,1,6,bbo
+jhene aiko lyrics,3,pop,2026-11-23,2026-11-23,1,2,jhe
+jhene aiko album,3,pop,2026-11-23,2026-11-23,1,3,jhe
+nyy,1,pop,2026-11-23,2026-11-23,1,0,nyy
+taco,1,pop,2026-11-23,2026-11-23,1,2,tac
+toyota tacoma,2,pop,2026-11-23,2026-11-23,1,4,tac
+tacoma,1,pop,2026-11-23,2026-11-23,1,5,tac
+tacos,1,pop,2026-11-23,2026-11-23,1,6,tac
+teamfight tactics,2,pop,2026-11-23,2026-11-23,1,8,tac
+tacoma rainiers,2,pop,2026-11-23,2026-11-23,1,9,tac
+tachikoma,1,pop,2026-11-23,2026-11-23,1,11,tac
+tachyon,1,pop,2026-11-23,2026-11-23,1,12,tac
+tactical girls,2,pop,2026-11-23,2026-11-23,1,13,tac
+taco johns,2,pop,2026-11-23,2026-11-23,1,14,tac
+tactical anime,2,pop,2026-11-23,2026-11-23,1,15,tac
+tacticool,1,pop,2026-11-23,2026-11-23,1,16,tac
+cafe tacvba,2,pop,2026-11-23,2026-11-23,1,17,tac
+tacks hockey sticks,3,pop,2026-11-23,2026-11-23,1,18,tac
+tactical girl,2,pop,2026-11-23,2026-11-23,1,19,tac
+wolfsong,1,pop,2026-11-23,2026-11-23,1,2,wolfs
+wolfsburg,1,pop,2026-11-23,2026-11-23,1,3,wolfs
+jack wolfskin,2,pop,2026-11-23,2026-11-23,1,4,wolfs
+wolfsbane,1,pop,2026-11-23,2026-11-23,1,5,wolfs
+wolfs,1,pop,2026-11-23,2026-11-23,1,6,wolfs
+jack wolfskin logo,3,pop,2026-11-23,2026-11-23,1,7,wolfs
+wolfs rain anime,3,pop,2026-11-23,2026-11-23,1,8,wolfs
+wolfs tooth dog food,4,pop,2026-11-23,2026-11-23,1,9,wolfs
+audaces fortuna iuvat,3,pop,2026-11-23,2026-11-23,1,1,iuv
+pnw bigfoot,2,pop,2026-11-23,2026-11-23,1,1,pnw
+nfkrz,1,pop,2026-11-23,2026-11-23,1,0,nfk
+fishbone band,2,pop,2026-11-23,2026-11-23,1,1,fishb
+fishbowl,1,pop,2026-11-23,2026-11-23,1,2,fishb
+fishball,1,pop,2026-11-23,2026-11-23,1,3,fishb
+fishboy,1,pop,2026-11-23,2026-11-23,1,4,fishb
+sike ops,2,pop,2026-11-23,2026-11-23,1,0,ops
+special ops lioness,3,pop,2026-11-23,2026-11-23,1,1,ops
+opsec,1,pop,2026-11-23,2026-11-23,1,2,ops
+spec ops the line,4,pop,2026-11-23,2026-11-23,1,3,ops
+special ops,2,pop,2026-11-23,2026-11-23,1,4,ops
+dev ops,2,pop,2026-11-23,2026-11-23,1,5,ops
+spec ops,2,pop,2026-11-23,2026-11-23,1,6,ops
+ops,1,pop,2026-11-23,2026-11-23,1,7,ops
+ops core helmet,3,pop,2026-11-23,2026-11-23,1,8,ops
+ops core,2,pop,2026-11-23,2026-11-23,1,9,ops
+ducks unlimited,2,pop,2026-11-23,2026-11-23,1,0,unl
+undead unluck,2,pop,2026-11-23,2026-11-23,1,1,unl
+love the unloved,3,pop,2026-11-23,2026-11-23,1,2,unl
+unlucky morpheus,2,pop,2026-11-23,2026-11-23,1,3,unl
+unlv,1,pop,2026-11-23,2026-11-23,1,4,unl
+achievement unlocked,2,pop,2026-11-23,2026-11-23,1,5,unl
+2 unlimited,2,pop,2026-11-23,2026-11-23,1,6,unl
+dead by daylight unlocked,4,pop,2026-11-23,2026-11-23,1,7,unl
+unless,1,pop,2026-11-23,2026-11-23,1,8,unl
+dead by daylight unlocker,4,pop,2026-11-23,2026-11-23,1,9,unl
+unlucky,1,pop,2026-11-23,2026-11-23,1,10,unl
+unleashed,1,pop,2026-11-23,2026-11-23,1,11,unl
+dead by daylight unlock,4,pop,2026-11-23,2026-11-23,1,12,unl
+i may be wrong but its highly unlikely,8,pop,2026-11-23,2026-11-23,1,13,unl
+force unleashed,2,pop,2026-11-23,2026-11-23,1,14,unl
+unladylike,1,pop,2026-11-23,2026-11-23,1,15,unl
+lorax unless,2,pop,2026-11-23,2026-11-23,1,16,unl
+unleash the archers,3,pop,2026-11-23,2026-11-23,1,17,unl
+level 40 unlocked,3,pop,2026-11-23,2026-11-23,1,18,unl
+fate unlimited blade works,4,pop,2026-11-23,2026-11-23,1,19,unl
+amanda bynes,2,pop,2026-11-23,2026-11-23,1,0,byn
+kansas city,2,pop,2026-11-23,2026-11-23,1,7,cit
+star citizen,2,pop,2026-11-23,2026-11-23,1,8,cit
+mexico city,2,pop,2026-11-23,2026-11-23,1,9,cit
+man city,2,pop,2026-11-23,2026-11-23,1,12,cit
+coventry city,2,pop,2026-11-23,2026-11-23,1,14,cit
+torn city,2,pop,2026-11-23,2026-11-23,1,16,cit
+city pop,2,pop,2026-11-23,2026-11-23,1,17,cit
+cities,1,pop,2026-11-23,2026-11-23,1,18,cit
+erlenmeyer flask,2,pop,2026-11-23,2026-11-23,1,8,erl
+erlenmeyer bouquet,2,pop,2026-11-23,2026-11-23,1,10,erl
+erlang,1,pop,2026-11-23,2026-11-23,1,11,erl
+erlangen,1,pop,2026-11-23,2026-11-23,1,12,erl
+erlich,1,pop,2026-11-23,2026-11-23,1,13,erl
+erlich bachman,2,pop,2026-11-23,2026-11-23,1,14,erl
+erling,1,pop,2026-11-23,2026-11-23,1,15,erl
+erlc chrch logo,3,pop,2026-11-23,2026-11-23,1,16,erl
+erlenmeyer,1,pop,2026-11-23,2026-11-23,1,17,erl
+makoto nanaya,2,pop,2026-11-23,2026-11-23,1,0,nanay
+nanay,1,pop,2026-11-23,2026-11-23,1,1,nanay
+artlovers,1,pop,2026-11-23,2026-11-23,1,0,artl
+pheobe bridgers,2,pop,2026-11-23,2026-11-23,1,0,phe
+pheasant,1,pop,2026-11-23,2026-11-23,1,1,phe
+michael phelps,2,pop,2026-11-23,2026-11-23,1,2,phe
+pheonix,1,pop,2026-11-23,2026-11-23,1,3,phe
+pheasant hunting,2,pop,2026-11-23,2026-11-23,1,4,phe
+hera pheri,2,pop,2026-11-23,2026-11-23,1,5,phe
+phenomena,1,pop,2026-11-23,2026-11-23,1,6,phe
+phenix,1,pop,2026-11-23,2026-11-23,1,7,phe
+travis phelps,2,pop,2026-11-23,2026-11-23,1,8,phe
+phenomenon,1,pop,2026-11-23,2026-11-23,1,9,phe
+mephisto pheles,2,pop,2026-11-23,2026-11-23,1,10,phe
+michael phelps quotes,3,pop,2026-11-23,2026-11-23,1,11,phe
+robert phelps,2,pop,2026-11-23,2026-11-23,1,12,phe
+phenomenology,1,pop,2026-11-23,2026-11-23,1,13,phe
+alice pheobe lou,3,pop,2026-11-23,2026-11-23,1,14,phe
+pheasants forever,2,pop,2026-11-23,2026-11-23,1,15,phe
+phenomaman,1,pop,2026-11-23,2026-11-23,1,16,phe
+pheasants,1,pop,2026-11-23,2026-11-23,1,17,phe
+phelps,1,pop,2026-11-23,2026-11-23,1,18,phe
+phenomenology of spirit,3,pop,2026-11-23,2026-11-23,1,19,phe
+zani wuwa,2,pop,2026-11-23,2026-11-23,1,1,wuw
+chisa wuwa,2,pop,2026-11-23,2026-11-23,1,2,wuw
+phrolova wuwa,2,pop,2026-11-23,2026-11-23,1,3,wuw
+carlotta wuwa,2,pop,2026-11-23,2026-11-23,1,4,wuw
+homer muumuu,2,pop,2026-11-23,2026-11-23,1,0,muu
+muumuu homer,2,pop,2026-11-23,2026-11-23,1,1,muu
+muumuu,1,pop,2026-11-23,2026-11-23,1,2,muu
+muu,1,pop,2026-11-23,2026-11-23,1,3,muu
+opa,1,pop,2026-11-23,2026-11-23,1,1,opa
+opal,1,pop,2026-11-23,2026-11-23,1,2,opa
+pink opaque,2,pop,2026-11-23,2026-11-23,1,4,opa
+the pink opaque,3,pop,2026-11-23,2026-11-23,1,5,opa
+opaline,1,pop,2026-11-23,2026-11-23,1,6,opa
+opabinia,1,pop,2026-11-23,2026-11-23,1,7,opa
+jack stauber opal,3,pop,2026-11-23,2026-11-23,1,8,opa
+opalescent,1,pop,2026-11-23,2026-11-23,1,10,opa
+steven universe opal,3,pop,2026-11-23,2026-11-23,1,11,opa
+opala,1,pop,2026-11-23,2026-11-23,1,12,opa
+opal fruits,2,pop,2026-11-23,2026-11-23,1,13,opa
+opal lee juneteenth,3,pop,2026-11-23,2026-11-23,1,14,opa
+opart,1,pop,2026-11-23,2026-11-23,1,15,opa
+now the sky is opalite,5,pop,2026-11-23,2026-11-23,1,16,opa
+opa expanse,2,pop,2026-11-23,2026-11-23,1,17,opa
+opatija,1,pop,2026-11-23,2026-11-23,1,18,opa
+opal 98,2,pop,2026-11-23,2026-11-23,1,19,opa
+yatta,1,pop,2026-11-23,2026-11-23,1,2,yat
+yatagarasu,1,pop,2026-11-23,2026-11-23,1,3,yat
+noragami yato,2,pop,2026-11-23,2026-11-23,1,4,yat
+sebastian yatra,2,pop,2026-11-23,2026-11-23,1,5,yat
+yato,1,pop,2026-11-23,2026-11-23,1,6,yat
+tohka yatogami,2,pop,2026-11-23,2026-11-23,1,7,yat
+sun yat sen,3,pop,2026-11-23,2026-11-23,1,8,yat
+yattaman,1,pop,2026-11-23,2026-11-23,1,10,yat
+urusei yatsura lum,3,pop,2026-11-23,2026-11-23,1,11,yat
+yates,1,pop,2026-11-23,2026-11-23,1,12,yat
+yatta dandys world,3,pop,2026-11-23,2026-11-23,1,13,yat
+dandys world yatta,3,pop,2026-11-23,2026-11-23,1,14,yat
+lil yatchy,2,pop,2026-11-23,2026-11-23,1,15,yat
+yatoro,1,pop,2026-11-23,2026-11-23,1,16,yat
+yato noragami,2,pop,2026-11-23,2026-11-23,1,17,yat
+rath yatra,2,pop,2026-11-23,2026-11-23,1,18,yat
+yatterman,1,pop,2026-11-23,2026-11-23,1,19,yat
+pizza planet,2,pop,2026-11-23,2026-11-23,1,1,piz
+pizza tower,2,pop,2026-11-23,2026-11-23,1,2,piz
+pizza hut,2,pop,2026-11-23,2026-11-23,1,3,piz
+mod pizza,2,pop,2026-11-23,2026-11-23,1,5,piz
+little caesars pizza,3,pop,2026-11-23,2026-11-23,1,6,piz
+showbiz pizza,2,pop,2026-11-23,2026-11-23,1,7,piz
+roblox pizza,2,pop,2026-11-23,2026-11-23,1,9,piz
+surfer boy pizza,3,pop,2026-11-23,2026-11-23,1,10,piz
+papas pizzeria,2,pop,2026-11-23,2026-11-23,1,11,piz
+miguels pizza,2,pop,2026-11-23,2026-11-23,1,12,piz
+freddy fazbears pizza,3,pop,2026-11-23,2026-11-23,1,13,piz
+mystic pizza,2,pop,2026-11-23,2026-11-23,1,14,piz
+panuccis pizza,2,pop,2026-11-23,2026-11-23,1,15,piz
+little neros pizza,3,pop,2026-11-23,2026-11-23,1,16,piz
+papa johns pizza,3,pop,2026-11-23,2026-11-23,1,17,piz
+pizza ranch,2,pop,2026-11-23,2026-11-23,1,18,piz
+pizza time,2,pop,2026-11-23,2026-11-23,1,19,piz
+pepperoni pizza,2,trend,2026-11-23,2026-11-23,1,1,piz
+spx,1,pop,2026-11-23,2026-11-23,1,0,spx
+spx sp index,3,pop,2026-11-23,2026-11-23,1,1,spx
+mazel tov,2,pop,2026-11-23,2026-11-23,1,0,tov
+shana tova,2,pop,2026-11-23,2026-11-23,1,1,tov
+tovino thomas,2,pop,2026-11-23,2026-11-23,1,2,tov
+toverland,1,pop,2026-11-23,2026-11-23,1,3,tov
+mazal tov,2,pop,2026-11-23,2026-11-23,1,4,tov
+russell tovey,2,pop,2026-11-23,2026-11-23,1,5,tov
+upitt,1,pop,2026-11-23,2026-11-23,1,0,upi
+idpa,1,pop,2026-11-23,2026-11-23,1,0,idp
+vlogbrothers,1,pop,2026-11-23,2026-11-23,1,3,vlo
+vlog,1,pop,2026-11-23,2026-11-23,1,4,vlo
+vlogger,1,pop,2026-11-23,2026-11-23,1,5,vlo
+vlone logo,2,pop,2026-11-23,2026-11-23,1,6,vlo
+vlookup,1,pop,2026-11-23,2026-11-23,1,7,vlo
+vlogging,1,pop,2026-11-23,2026-11-23,1,9,vlo
+vlog squad,2,pop,2026-11-23,2026-11-23,1,10,vlo
+vlocity,1,pop,2026-11-23,2026-11-23,1,11,vlo
+davids vlogs,2,pop,2026-11-23,2026-11-23,1,12,vlo
+vlore,1,pop,2026-11-23,2026-11-23,1,13,vlo
+vlogsquad,1,pop,2026-11-23,2026-11-23,1,14,vlo
+the vlog squad,3,pop,2026-11-23,2026-11-23,1,15,vlo
+juice wrld x vlone,4,pop,2026-11-23,2026-11-23,1,16,vlo
+vlog brothers,2,pop,2026-11-23,2026-11-23,1,17,vlo
+vlone v,2,pop,2026-11-23,2026-11-23,1,18,vlo
+vlora,1,pop,2026-11-23,2026-11-23,1,19,vlo
+kruk kuip,2,pop,2026-11-23,2026-11-23,1,0,kui
+kuina,1,pop,2026-11-23,2026-11-23,1,1,kui
+de kuip,2,pop,2026-11-23,2026-11-23,1,2,kui
+kuih,1,pop,2026-11-23,2026-11-23,1,3,kui
+arkhip kuindzhi,2,pop,2026-11-23,2026-11-23,1,4,kui
+kruk and kuip,3,pop,2026-11-23,2026-11-23,1,5,kui
+cincinnati bengals,2,pop,2026-11-23,2026-11-23,1,3,cin
+cincinnati,1,pop,2026-11-23,2026-11-23,1,4,cin
+university of cincinnati,3,pop,2026-11-23,2026-11-23,1,5,cin
+cinephile,1,pop,2026-11-23,2026-11-23,1,7,cin
+cincy,1,pop,2026-11-23,2026-11-23,1,8,cin
+cinque terre,2,pop,2026-11-23,2026-11-23,1,9,cin
+cindy crawford,2,pop,2026-11-23,2026-11-23,1,10,cin
+cinema paradiso,2,pop,2026-11-23,2026-11-23,1,11,cin
+absolute cinema,2,pop,2026-11-23,2026-11-23,1,12,cin
+cinco de mayo,3,pop,2026-11-23,2026-11-23,1,13,cin
+cincinnati bearcats,2,pop,2026-11-23,2026-11-23,1,14,cin
+gerry cinnamon,2,pop,2026-11-23,2026-11-23,1,15,cin
+cindy lou who,3,pop,2026-11-23,2026-11-23,1,16,cin
+cinnabon,1,pop,2026-11-23,2026-11-23,1,19,cin
+passive aggressive,2,pop,2026-11-23,2026-11-23,1,2,agg
+ski aggu,2,pop,2026-11-23,2026-11-23,1,4,agg
+aggies,1,pop,2026-11-23,2026-11-23,1,5,agg
+tamu aggies,2,pop,2026-11-23,2026-11-23,1,7,agg
+aggressive,1,pop,2026-11-23,2026-11-23,1,8,agg
+texas am aggies,3,pop,2026-11-23,2026-11-23,1,9,agg
+aggie,1,pop,2026-11-23,2026-11-23,1,10,agg
+texas aggie,2,pop,2026-11-23,2026-11-23,1,11,agg
+gig em aggies,3,pop,2026-11-23,2026-11-23,1,12,agg
+aggressive inline,2,pop,2026-11-23,2026-11-23,1,13,agg
+aggressive inline skating,3,pop,2026-11-23,2026-11-23,1,14,agg
+rainbow aggressive,2,pop,2026-11-23,2026-11-23,1,15,agg
+utah state aggies,3,pop,2026-11-23,2026-11-23,1,16,agg
+aggie ring,2,pop,2026-11-23,2026-11-23,1,17,agg
+aggie cromwell,2,pop,2026-11-23,2026-11-23,1,18,agg
+cute aggression,2,pop,2026-11-23,2026-11-23,1,19,agg
+gastric bypass,2,pop,2026-11-23,2026-11-23,1,0,byp
+bypass,1,pop,2026-11-23,2026-11-23,1,1,byp
+triple bypass,2,pop,2026-11-23,2026-11-23,1,2,byp
+bypass surgery,2,pop,2026-11-23,2026-11-23,1,3,byp
+henry cejudo,2,pop,2026-11-23,2026-11-23,1,0,cej
+deadliest catch time bandit,4,pop,2026-11-23,2026-11-23,1,2,bandi
+bandidos,1,pop,2026-11-23,2026-11-23,1,3,bandi
+bandit,1,pop,2026-11-23,2026-11-23,1,4,bandi
+bandit heeler,2,pop,2026-11-23,2026-11-23,1,5,bandi
+wet bandits,2,pop,2026-11-23,2026-11-23,1,6,bandi
+buffalo bandits,2,pop,2026-11-23,2026-11-23,1,7,bandi
+becky bandini,2,pop,2026-11-23,2026-11-23,1,8,bandi
+time bandits,2,pop,2026-11-23,2026-11-23,1,10,bandi
+support your local bandidos,4,pop,2026-11-23,2026-11-23,1,12,bandi
+time bandit,2,pop,2026-11-23,2026-11-23,1,13,bandi
+bandicoot,1,pop,2026-11-23,2026-11-23,1,15,bandi
+bandit racing,2,pop,2026-11-23,2026-11-23,1,16,bandi
+smoky and the bandit,4,pop,2026-11-23,2026-11-23,1,17,bandi
+bandidos motorcycle club,3,pop,2026-11-23,2026-11-23,1,18,bandi
+banditi curva sud milano,4,pop,2026-11-23,2026-11-23,1,19,bandi
+ftg,1,pop,2026-11-23,2026-11-23,1,0,ftg
+redline,1,pop,2026-11-23,2026-11-23,1,0,redl
+redlettermedia,1,pop,2026-11-23,2026-11-23,1,1,redl
+redline anime,2,pop,2026-11-23,2026-11-23,1,2,redl
+university of redlands,3,pop,2026-11-23,2026-11-23,1,4,redl
+holden commodore ssv redline,4,pop,2026-11-23,2026-11-23,1,5,redl
+redlands,1,pop,2026-11-23,2026-11-23,1,6,redl
+redlight,1,pop,2026-11-23,2026-11-23,1,7,redl
+redlegs,1,pop,2026-11-23,2026-11-23,1,8,redl
+redline tachometer,2,pop,2026-11-23,2026-11-23,1,9,redl
+omd band,2,pop,2026-11-23,2026-11-23,1,1,omd
+ocs,1,pop,2026-11-23,2026-11-23,1,0,ocs
+veronica avluv,2,pop,2026-11-23,2026-11-23,1,0,avl
+avl,1,pop,2026-11-23,2026-11-23,1,1,avl
+atlas nms,2,pop,2026-11-23,2026-11-23,1,2,nms
+cmyk color chart,3,pop,2026-11-23,2026-11-23,1,1,cmy
+dean di laurentis,3,pop,2026-11-23,2026-11-23,1,1,lau
+laurel and hardy,3,pop,2026-11-23,2026-11-23,1,4,lau
+niki lauda,2,pop,2026-11-23,2026-11-23,1,6,lau
+live laugh love,3,pop,2026-11-23,2026-11-23,1,7,lau
+powerless lauren roberts,3,pop,2026-11-23,2026-11-23,1,9,lau
+lauren phillips,2,pop,2026-11-23,2026-11-23,1,10,lau
+laundry,1,pop,2026-11-23,2026-11-23,1,11,lau
+laugh daily,2,pop,2026-11-23,2026-11-23,1,14,lau
+laurenzside,1,pop,2026-11-23,2026-11-23,1,15,lau
+lauterbrunnen,1,pop,2026-11-23,2026-11-23,1,16,lau
+fort lauderdale,2,pop,2026-11-23,2026-11-23,1,17,lau
+lausse the cat,3,pop,2026-11-23,2026-11-23,1,18,lau
+laugh,1,pop,2026-11-23,2026-11-23,1,19,lau
+hasan piker,2,pop,2026-11-23,2026-11-23,1,0,has
+hasbulla,1,pop,2026-11-23,2026-11-23,1,1,has
+david hasselhoff,2,pop,2026-11-23,2026-11-23,1,2,has
+hasselblad,1,pop,2026-11-23,2026-11-23,1,3,has
+hasanabi,1,pop,2026-11-23,2026-11-23,1,4,has
+haskell,1,pop,2026-11-23,2026-11-23,1,5,has
+hashtag,1,pop,2026-11-23,2026-11-23,1,7,has
+kawase hasui,2,pop,2026-11-23,2026-11-23,1,8,has
+hashira,1,pop,2026-11-23,2026-11-23,1,9,has
+hastur,1,pop,2026-11-23,2026-11-23,1,11,has
+hashem,1,pop,2026-11-23,2026-11-23,1,12,has
+hasbin hotel,2,pop,2026-11-23,2026-11-23,1,13,has
+thank you hashem,3,pop,2026-11-23,2026-11-23,1,14,has
+baruch hashem,2,pop,2026-11-23,2026-11-23,1,15,has
+hasbulla magomedov,2,pop,2026-11-23,2026-11-23,1,16,has
+hasan,1,pop,2026-11-23,2026-11-23,1,17,has
+hastings,1,pop,2026-11-23,2026-11-23,1,18,has
+hasui kawase,2,pop,2026-11-23,2026-11-23,1,19,has
+childe hassam south ledges,4,trend,2026-11-23,2026-11-23,1,2,has
+endometriosis,1,pop,2026-11-23,2026-11-23,1,1,end
+enderman,1,pop,2026-11-23,2026-11-23,1,3,end
+endor,1,pop,2026-11-23,2026-11-23,1,5,end
+the world ends with you,5,pop,2026-11-23,2026-11-23,1,6,end
+maybe happy ending,3,pop,2026-11-23,2026-11-23,1,7,end
+seraph of the end,4,pop,2026-11-23,2026-11-23,1,9,end
+never ending story,3,pop,2026-11-23,2026-11-23,1,10,end
+the living end,3,pop,2026-11-23,2026-11-23,1,11,end
+endfield,1,pop,2026-11-23,2026-11-23,1,12,end
+west end,2,pop,2026-11-23,2026-11-23,1,13,end
+endicott college,2,pop,2026-11-23,2026-11-23,1,15,end
+dead end paranormal park,4,pop,2026-11-23,2026-11-23,1,16,end
+endora,1,pop,2026-11-23,2026-11-23,1,17,end
+enduro,1,pop,2026-11-23,2026-11-23,1,18,end
+the endless summer,3,pop,2026-11-23,2026-11-23,1,19,end
+horrible histories,2,pop,2026-11-23,2026-11-23,1,2,his
+the secret history,3,pop,2026-11-23,2026-11-23,1,3,his
+histology,1,pop,2026-11-23,2026-11-23,1,5,his
+funny history,2,pop,2026-11-23,2026-11-23,1,6,his
+hisoka,1,pop,2026-11-23,2026-11-23,1,8,his
+black history,2,pop,2026-11-23,2026-11-23,1,9,his
+his dark materials,3,pop,2026-11-23,2026-11-23,1,10,his
+ancient history,2,pop,2026-11-23,2026-11-23,1,11,his
+black history month,3,pop,2026-11-23,2026-11-23,1,12,his
+historical,1,pop,2026-11-23,2026-11-23,1,13,his
+puppet history,2,pop,2026-11-23,2026-11-23,1,14,his
+american history,2,pop,2026-11-23,2026-11-23,1,15,his
+hispanic,1,pop,2026-11-23,2026-11-23,1,16,his
+saturn devouring his son,4,pop,2026-11-23,2026-11-23,1,17,his
+us history,2,pop,2026-11-23,2026-11-23,1,18,his
+american history x,3,pop,2026-11-23,2026-11-23,1,19,his
+black books dylan moran,4,pop,2026-11-23,2026-11-23,1,4,dyl
+dylan conrique,2,pop,2026-11-23,2026-11-23,1,5,dyl
+dylan dog,2,pop,2026-11-23,2026-11-23,1,6,dyl
+jack dylan grazer,3,pop,2026-11-23,2026-11-23,1,7,dyl
+dylan thomas,2,pop,2026-11-23,2026-11-23,1,8,dyl
+dylan minnette,2,pop,2026-11-23,2026-11-23,1,9,dyl
+dylan scott,2,pop,2026-11-23,2026-11-23,1,10,dyl
+dylan moran,2,pop,2026-11-23,2026-11-23,1,11,dyl
+dylan larkin,2,pop,2026-11-23,2026-11-23,1,12,dyl
+dylan ryder,2,pop,2026-11-23,2026-11-23,1,13,dyl
+dylan sprouse,2,pop,2026-11-23,2026-11-23,1,14,dyl
+dyle,1,pop,2026-11-23,2026-11-23,1,15,dyl
+dylan frost,2,pop,2026-11-23,2026-11-23,1,17,dyl
+dandys world dyle,3,pop,2026-11-23,2026-11-23,1,18,dyl
+dylan gossett,2,pop,2026-11-23,2026-11-23,1,19,dyl
+nemo,1,pop,2026-11-23,2026-11-23,1,1,nem
+nemophila,1,pop,2026-11-23,2026-11-23,1,2,nem
+nemesis,1,pop,2026-11-23,2026-11-23,1,3,nem
+alton towers nemesis,3,pop,2026-11-23,2026-11-23,1,4,nem
+nemona,1,pop,2026-11-23,2026-11-23,1,5,nem
+resident evil 3 nemesis,4,pop,2026-11-23,2026-11-23,1,6,nem
+resident evil nemesis,3,pop,2026-11-23,2026-11-23,1,7,nem
+little nemo,2,pop,2026-11-23,2026-11-23,1,8,nem
+nemik,1,pop,2026-11-23,2026-11-23,1,9,nem
+finding nemo seagull,3,pop,2026-11-23,2026-11-23,1,10,nem
+nematode,1,pop,2026-11-23,2026-11-23,1,11,nem
+nemarluk,1,pop,2026-11-23,2026-11-23,1,12,nem
+nemik manifesto,2,pop,2026-11-23,2026-11-23,1,13,nem
+little nemo in slumberland,4,pop,2026-11-23,2026-11-23,1,14,nem
+nemesis reborn,2,pop,2026-11-23,2026-11-23,1,15,nem
+captain nemo,2,pop,2026-11-23,2026-11-23,1,16,nem
+my royal nemesis,3,pop,2026-11-23,2026-11-23,1,17,nem
+nemophila band,2,pop,2026-11-23,2026-11-23,1,18,nem
+finding nemo bruce,3,pop,2026-11-23,2026-11-23,1,19,nem
+okx,1,pop,2026-11-23,2026-11-23,1,0,okx
+joost,1,pop,2026-11-23,2026-11-23,1,1,joo
+joo jaekyung,2,pop,2026-11-23,2026-11-23,1,3,joo
+park seo joon,3,pop,2026-11-23,2026-11-23,1,4,joo
+joong archen,2,pop,2026-11-23,2026-11-23,1,5,joo
+wi ha joon,3,pop,2026-11-23,2026-11-23,1,6,joo
+jumba jookiba,2,pop,2026-11-23,2026-11-23,1,7,joo
+lee joon gi,3,pop,2026-11-23,2026-11-23,1,8,joo
+yoo joonghyuk,2,pop,2026-11-23,2026-11-23,1,9,joo
+joost klein europapa,3,pop,2026-11-23,2026-11-23,1,10,joo
+joop,1,pop,2026-11-23,2026-11-23,1,11,joo
+weightlifting fairy kim bok joo,5,pop,2026-11-23,2026-11-23,1,12,joo
+nam joo hyuk,3,pop,2026-11-23,2026-11-23,1,13,joo
+joohoney,1,pop,2026-11-23,2026-11-23,1,14,joo
+jools holland,2,pop,2026-11-23,2026-11-23,1,15,joo
+joong dunk,2,pop,2026-11-23,2026-11-23,1,16,joo
+song joong ki,3,pop,2026-11-23,2026-11-23,1,17,joo
+seo kang joon,3,pop,2026-11-23,2026-11-23,1,18,joo
+kim hyun joong,3,pop,2026-11-23,2026-11-23,1,19,joo
+some good news sgn,4,pop,2026-11-23,2026-11-23,1,0,sgn
+oddball,1,pop,2026-11-23,2026-11-23,1,8,odd
+oddities,1,pop,2026-11-23,2026-11-23,1,9,odd
+odd squad,2,pop,2026-11-23,2026-11-23,1,10,odd
+oddity,1,pop,2026-11-23,2026-11-23,1,11,odd
+the odd 1s out,4,pop,2026-11-23,2026-11-23,1,12,odd
+never tell me the odds,5,pop,2026-11-23,2026-11-23,1,13,odd
+abes oddysee,2,pop,2026-11-23,2026-11-23,1,14,odd
+kellys heroes oddball,3,pop,2026-11-23,2026-11-23,1,15,odd
+the odd couple,3,pop,2026-11-23,2026-11-23,1,16,odd
+the fairly oddparents,3,pop,2026-11-23,2026-11-23,1,18,odd
+odd fellows,2,pop,2026-11-23,2026-11-23,1,19,odd
+fetish,1,pop,2026-11-23,2026-11-23,1,1,fet
+fetty wap,2,pop,2026-11-23,2026-11-23,1,3,fet
+feet fetish,2,pop,2026-11-23,2026-11-23,1,4,fet
+fetlife,1,pop,2026-11-23,2026-11-23,1,5,fet
+anime foot fetish,3,pop,2026-11-23,2026-11-23,1,6,fet
+armpit fetish,2,pop,2026-11-23,2026-11-23,1,7,fet
+latex fetish,2,pop,2026-11-23,2026-11-23,1,8,fet
+fets luck,2,pop,2026-11-23,2026-11-23,1,9,fet
+diaper fetish,2,pop,2026-11-23,2026-11-23,1,10,fet
+male foot fetish,3,pop,2026-11-23,2026-11-23,1,11,fet
+fetch this,2,pop,2026-11-23,2026-11-23,1,12,fet
+foot fetish anime,3,pop,2026-11-23,2026-11-23,1,13,fet
+fetish art,2,pop,2026-11-23,2026-11-23,1,14,fet
+tickling fetish,2,pop,2026-11-23,2026-11-23,1,15,fet
+spanking fetish,2,pop,2026-11-23,2026-11-23,1,16,fet
+rubber fetish,2,pop,2026-11-23,2026-11-23,1,17,fet
+sock fetish,2,pop,2026-11-23,2026-11-23,1,18,fet
+foot fetish soles,3,pop,2026-11-23,2026-11-23,1,19,fet
+iata,1,pop,2026-11-23,2026-11-23,1,1,iat
+mtex,1,pop,2026-11-23,2026-11-23,1,1,mte
+freaks and geeks,3,pop,2026-11-23,2026-11-23,1,4,gee
+geelong,1,pop,2026-11-23,2026-11-23,1,5,gee
+wild geese,2,pop,2026-11-23,2026-11-23,1,6,gee
+computer geek,2,pop,2026-11-23,2026-11-23,1,7,gee
+geeky,1,pop,2026-11-23,2026-11-23,1,8,gee
+mary oliver wild geese,4,pop,2026-11-23,2026-11-23,1,10,gee
+geek bar,2,pop,2026-11-23,2026-11-23,1,11,gee
+geelong football club,3,pop,2026-11-23,2026-11-23,1,12,gee
+geese getting killed,3,pop,2026-11-23,2026-11-23,1,13,gee
+board game geek,3,pop,2026-11-23,2026-11-23,1,14,gee
+geek humor,2,pop,2026-11-23,2026-11-23,1,15,gee
+geert wilders,2,pop,2026-11-23,2026-11-23,1,16,gee
+geese the band,3,pop,2026-11-23,2026-11-23,1,17,gee
+the bee gees,3,pop,2026-11-23,2026-11-23,1,18,gee
+geezer,1,pop,2026-11-23,2026-11-23,1,19,gee
+muzan,1,pop,2026-11-23,2026-11-23,1,0,muz
+muzzy,1,pop,2026-11-23,2026-11-23,1,1,muz
+muzan kibutsuji,2,pop,2026-11-23,2026-11-23,1,2,muz
+muzzleloader,1,pop,2026-11-23,2026-11-23,1,3,muz
+muzzle,1,pop,2026-11-23,2026-11-23,1,4,muz
+kibutsuji muzan,2,pop,2026-11-23,2026-11-23,1,5,muz
+demon slayer muzan,3,pop,2026-11-23,2026-11-23,1,6,muz
+muzz,1,pop,2026-11-23,2026-11-23,1,7,muz
+pop muzik,2,pop,2026-11-23,2026-11-23,1,8,muz
+muzak,1,pop,2026-11-23,2026-11-23,1,9,muz
+muzi,1,pop,2026-11-23,2026-11-23,1,10,muz
+dog muzzle,2,pop,2026-11-23,2026-11-23,1,11,muz
+bamboo muzzle,2,pop,2026-11-23,2026-11-23,1,12,muz
+show me your tds,4,pop,2026-11-23,2026-11-23,1,1,tds
+blippi,1,pop,2026-11-23,2026-11-23,1,2,bli
+blip,1,pop,2026-11-23,2026-11-23,1,4,bli
+blippis,1,pop,2026-11-23,2026-11-23,1,5,bli
+alexa bliss,2,pop,2026-11-23,2026-11-23,1,6,bli
+ori and the blind forest,5,pop,2026-11-23,2026-11-23,1,7,bli
+blitzo,1,pop,2026-11-23,2026-11-23,1,9,bli
+blink,1,pop,2026-11-23,2026-11-23,1,11,bli
+blitz,1,pop,2026-11-23,2026-11-23,1,12,bli
+belinda blinked,2,pop,2026-11-23,2026-11-23,1,13,bli
+mary j blige,3,pop,2026-11-23,2026-11-23,1,14,bli
+bling,1,pop,2026-11-23,2026-11-23,1,15,bli
+blindboy,1,pop,2026-11-23,2026-11-23,1,16,bli
+blind,1,pop,2026-11-23,2026-11-23,1,17,bli
+love is blind,3,pop,2026-11-23,2026-11-23,1,18,bli
+blind channel,2,pop,2026-11-23,2026-11-23,1,19,bli
+eden nsw,2,pop,2026-11-23,2026-11-23,1,9,nsw
+nsw swifts netball,3,pop,2026-11-23,2026-11-23,1,10,nsw
+orange nsw,2,pop,2026-11-23,2026-11-23,1,11,nsw
+transport for nsw,3,pop,2026-11-23,2026-11-23,1,12,nsw
+nsw state of origin,4,pop,2026-11-23,2026-11-23,1,13,nsw
+forster nsw australia,3,pop,2026-11-23,2026-11-23,1,14,nsw
+nsw australia,2,pop,2026-11-23,2026-11-23,1,15,nsw
+nsw railway,2,pop,2026-11-23,2026-11-23,1,16,nsw
+central coast nsw,3,pop,2026-11-23,2026-11-23,1,17,nsw
+nswf,1,pop,2026-11-23,2026-11-23,1,18,nsw
+nsw national parks,3,pop,2026-11-23,2026-11-23,1,19,nsw
+kamisama kiss,2,pop,2026-11-23,2026-11-23,1,1,kam
+kamala harris,2,pop,2026-11-23,2026-11-23,1,2,kam
+golden kamuy,2,pop,2026-11-23,2026-11-23,1,3,kam
+sen to chihiro no kamikakushi,5,pop,2026-11-23,2026-11-23,1,5,kam
+kame house,2,pop,2026-11-23,2026-11-23,1,6,kam
+kamala,1,pop,2026-11-23,2026-11-23,1,7,kam
+kamikaze girls,2,pop,2026-11-23,2026-11-23,1,8,kam
+kamikaze,1,pop,2026-11-23,2026-11-23,1,9,kam
+bree van de kamp,4,pop,2026-11-23,2026-11-23,1,12,kam
+nezuko kamado,2,pop,2026-11-23,2026-11-23,2,14,kam
+denki kaminari,2,pop,2026-11-23,2026-11-23,1,15,kam
+kamakura,1,pop,2026-11-23,2026-11-23,1,16,kam
+tanjiro kamado,2,pop,2026-11-23,2026-11-23,1,17,kam
+kamila valieva,2,pop,2026-11-23,2026-11-23,1,19,kam
+gypsies,1,pop,2026-11-23,2026-11-23,1,0,gyp
+gypsophila,1,pop,2026-11-23,2026-11-23,1,1,gyp
+cute shih tzu,3,pop,2026-11-23,2026-11-23,1,13,tzu
+shih tzu mama,3,pop,2026-11-23,2026-11-23,1,14,tzu
+cartoon shih tzu,3,pop,2026-11-23,2026-11-23,1,15,tzu
+i shih tzu not,4,pop,2026-11-23,2026-11-23,1,16,tzu
+technoblade sun tzu,3,pop,2026-11-23,2026-11-23,1,17,tzu
+shih tzus,2,pop,2026-11-23,2026-11-23,1,18,tzu
+pabst blue ribbon,3,pop,2026-11-23,2026-11-23,1,1,pab
+pablo picasso,2,pop,2026-11-23,2026-11-23,1,2,pab
+pabst,1,pop,2026-11-23,2026-11-23,1,3,pab
+pablo,1,pop,2026-11-23,2026-11-23,1,4,pab
+pablo neruda,2,pop,2026-11-23,2026-11-23,1,5,pab
+pablo cruise,2,pop,2026-11-23,2026-11-23,1,6,pab
+augustus pablo,2,pop,2026-11-23,2026-11-23,1,7,pab
+pablo sanchez,2,pop,2026-11-23,2026-11-23,1,8,pab
+juan pablo montoya,3,pop,2026-11-23,2026-11-23,1,9,pab
+pabu,1,pop,2026-11-23,2026-11-23,2,10,pab
+boy pablo,2,pop,2026-11-23,2026-11-23,1,11,pab
+pablo gavi,2,pop,2026-11-23,2026-11-23,1,12,pab
+pablo honey,2,pop,2026-11-23,2026-11-23,1,13,pab
+pabllo vittar,2,pop,2026-11-23,2026-11-23,1,15,pab
+pablo backyardigans,2,pop,2026-11-23,2026-11-23,1,16,pab
+pablo escobar mugshot,3,pop,2026-11-23,2026-11-23,1,17,pab
+pablo picasso art,3,pop,2026-11-23,2026-11-23,1,18,pab
+paboracha,1,pop,2026-11-23,2026-11-23,1,19,pab
+dhd,1,pop,2026-11-23,2026-11-23,1,1,dhd
+ffl,1,pop,2026-11-23,2026-11-23,1,0,ffl
+yuyuko,1,pop,2026-11-23,2026-11-23,1,1,yuy
+yuy,1,pop,2026-11-23,2026-11-23,1,2,yuy
+yuyu,1,pop,2026-11-23,2026-11-23,1,3,yuy
+yuyuhakusho,1,pop,2026-11-23,2026-11-23,1,4,yuy
+yuyuko saigyouji,2,pop,2026-11-23,2026-11-23,1,5,yuy
+yuyu hakusho botan,3,pop,2026-11-23,2026-11-23,1,6,yuy
+heero yuy,2,pop,2026-11-23,2026-11-23,1,7,yuy
+oogie boogie bugs,3,pop,2026-11-23,2026-11-23,1,3,oog
+ooga booga,2,pop,2026-11-23,2026-11-23,1,4,oog
+mr oogie boogie,3,pop,2026-11-23,2026-11-23,1,5,oog
+oogie boogie man,3,pop,2026-11-23,2026-11-23,1,6,oog
+oogie,1,pop,2026-11-23,2026-11-23,1,7,oog
+oogie boogie face,3,pop,2026-11-23,2026-11-23,1,8,oog
+ooglies,1,pop,2026-11-23,2026-11-23,1,9,oog
+ooga booga booga,3,pop,2026-11-23,2026-11-23,1,10,oog
+nezuko,1,pop,2026-11-23,2026-11-23,1,0,nez
+nezha,1,pop,2026-11-23,2026-11-23,1,2,nez
+nezuko chibi,2,pop,2026-11-23,2026-11-23,1,4,nez
+nezuko cute,2,pop,2026-11-23,2026-11-23,1,5,nez
+nez perce,2,pop,2026-11-23,2026-11-23,1,6,nez
+nezuko demon slayer,3,pop,2026-11-23,2026-11-23,1,7,nez
+kamado nezuko,2,pop,2026-11-23,2026-11-23,1,8,nez
+nezuko cute box,3,pop,2026-11-23,2026-11-23,1,9,nez
+nezuko kawaii,2,pop,2026-11-23,2026-11-23,1,10,nez
+nezuko kawaii chibi,3,pop,2026-11-23,2026-11-23,1,11,nez
+nezuko and tanjiro,3,pop,2026-11-23,2026-11-23,1,12,nez
+cute nezuko,2,pop,2026-11-23,2026-11-23,1,13,nez
+tanjiro nezuko anime demon slayer cute kawaii,7,pop,2026-11-23,2026-11-23,1,14,nez
+chibi nezuko,2,pop,2026-11-23,2026-11-23,1,15,nez
+kawaii nezuko,2,pop,2026-11-23,2026-11-23,1,16,nez
+nezuko lewd,2,pop,2026-11-23,2026-11-23,1,17,nez
+nezuko kimono,2,pop,2026-11-23,2026-11-23,1,18,nez
+nezumi,1,pop,2026-11-23,2026-11-23,1,19,nez
+lmp,1,pop,2026-11-23,2026-11-23,1,3,lmp
+hsk,1,pop,2026-11-23,2026-11-23,1,0,hsk
+sbi,1,pop,2026-11-23,2026-11-23,1,0,sbi
+oni,1,pop,2026-11-23,2026-11-23,1,0,oni
+onigiri,1,pop,2026-11-23,2026-11-23,1,1,oni
+apple and onion,3,pop,2026-11-23,2026-11-23,1,2,oni
+onion,1,pop,2026-11-23,2026-11-23,1,3,oni
+onitsuka tiger,2,pop,2026-11-23,2026-11-23,1,5,oni
+onimusha,1,pop,2026-11-23,2026-11-23,1,6,oni
+the onion,2,pop,2026-11-23,2026-11-23,1,8,oni
+glass onion,2,pop,2026-11-23,2026-11-23,1,9,oni
+onibaba,1,pop,2026-11-23,2026-11-23,1,10,oni
+oniisama e,2,pop,2026-11-23,2026-11-23,1,11,oni
+oni girl,2,pop,2026-11-23,2026-11-23,1,12,oni
+uramichi oniisan,2,pop,2026-11-23,2026-11-23,1,13,oni
+onion knight,2,pop,2026-11-23,2026-11-23,1,14,oni
+uta no oniisan,3,pop,2026-11-23,2026-11-23,1,15,oni
+onions,1,pop,2026-11-23,2026-11-23,1,16,oni
+japanese oni,2,pop,2026-11-23,2026-11-23,1,17,oni
+onii chan,2,pop,2026-11-23,2026-11-23,1,18,oni
+onitsuka,1,pop,2026-11-23,2026-11-23,1,19,oni
+narcotics anonymous,2,pop,2026-11-23,2026-11-23,1,1,ano
+anora,1,pop,2026-11-23,2026-11-23,1,3,ano
+anonymous,1,pop,2026-11-23,2026-11-23,1,4,ano
+anomalocaris,1,pop,2026-11-23,2026-11-23,1,5,ano
+al anon,2,pop,2026-11-23,2026-11-23,1,6,ano
+in another world,3,pop,2026-11-23,2026-11-23,1,7,ano
+danganronpa another,2,pop,2026-11-23,2026-11-23,1,8,ano
+another anime,2,pop,2026-11-23,2026-11-23,1,9,ano
+campfire cooking in another world,5,pop,2026-11-23,2026-11-23,1,10,ano
+anorexia,1,pop,2026-11-23,2026-11-23,1,11,ano
+campfire cooking in another world with my absurd skill,9,pop,2026-11-23,2026-11-23,1,12,ano
+stay another day,3,pop,2026-11-23,2026-11-23,1,13,ano
+another day another slay,4,pop,2026-11-23,2026-11-23,1,14,ano
+anohana,1,pop,2026-11-23,2026-11-23,1,15,ano
+another,1,pop,2026-11-23,2026-11-23,1,16,ano
+anos voldigoad,2,pop,2026-11-23,2026-11-23,1,18,ano
+anor londo,2,pop,2026-11-23,2026-11-23,1,19,ano
+stay awhile and listen,4,pop,2026-11-23,2026-11-23,1,0,awh
+stay awhile,2,pop,2026-11-23,2026-11-23,1,1,awh
+awhora,1,pop,2026-11-23,2026-11-23,1,2,awh
+omp,1,pop,2026-11-23,2026-11-23,1,0,omp
+hofstra university,2,pop,2026-11-23,2026-11-23,1,0,hof
+mark hoffman,2,pop,2026-11-23,2026-11-23,1,1,hof
+albert hofmann,2,pop,2026-11-23,2026-11-23,2,2,hof
+hofner,1,pop,2026-11-23,2026-11-23,1,3,hof
+hofstra,1,pop,2026-11-23,2026-11-23,1,4,hof
+philip seymour hoffman,3,pop,2026-11-23,2026-11-23,1,5,hof
+jimmy hoffa,2,pop,2026-11-23,2026-11-23,1,6,hof
+wim hof,2,pop,2026-11-23,2026-11-23,2,7,hof
+susanna hoffs,2,pop,2026-11-23,2026-11-23,1,8,hof
+albert hoffman,2,pop,2026-11-23,2026-11-23,1,9,hof
+abbie hoffman,2,pop,2026-11-23,2026-11-23,1,10,hof
+astrid hofferson,2,pop,2026-11-23,2026-11-23,1,11,hof
+hoffman,1,pop,2026-11-23,2026-11-23,1,12,hof
+dustin hoffman,2,pop,2026-11-23,2026-11-23,1,13,hof
+phillip seymour hoffman,3,pop,2026-11-23,2026-11-23,1,14,hof
+james hoffman,2,pop,2026-11-23,2026-11-23,1,15,hof
+james hoffmann coffee,3,pop,2026-11-23,2026-11-23,1,16,hof
+the hoff,2,pop,2026-11-23,2026-11-23,1,17,hof
+hoffstrahm,1,pop,2026-11-23,2026-11-23,1,18,hof
+hoffmaster state park,3,pop,2026-11-23,2026-11-23,1,19,hof
+ommik,1,pop,2026-11-23,2026-11-23,1,0,omm
+yeh jawaani hai deewani,4,pop,2026-11-23,2026-11-23,1,0,yeh
+moebius,1,pop,2026-11-23,2026-11-23,1,0,moe
+moet resin art,3,pop,2026-11-23,2026-11-23,1,2,moe
+moet,1,pop,2026-11-23,2026-11-23,1,4,moe
+moes tavern,2,pop,2026-11-23,2026-11-23,1,5,moe
+moes,1,pop,2026-11-23,2026-11-23,1,6,moe
+moes southwest grill,3,pop,2026-11-23,2026-11-23,1,7,moe
+moesha,1,pop,2026-11-23,2026-11-23,1,8,moe
+flaming moes,2,pop,2026-11-23,2026-11-23,1,9,moe
+moebius art,2,pop,2026-11-23,2026-11-23,1,10,moe
+moebius jean giraud,3,pop,2026-11-23,2026-11-23,1,11,moe
+welcome to moes,3,pop,2026-11-23,2026-11-23,1,12,moe
+moel famau,2,pop,2026-11-23,2026-11-23,1,13,moe
+moet broken bottle art,4,pop,2026-11-23,2026-11-23,1,14,moe
+devo,1,pop,2026-11-23,2026-11-23,1,2,dev
+developer,1,pop,2026-11-23,2026-11-23,1,3,dev
+devil,1,pop,2026-11-23,2026-11-23,1,4,dev
+new jersey devils,3,pop,2026-11-23,2026-11-23,1,5,dev
+devops,1,pop,2026-11-23,2026-11-23,1,6,dev
+web development,2,pop,2026-11-23,2026-11-23,1,7,dev
+tasmanian devil,2,pop,2026-11-23,2026-11-23,1,8,dev
+devon dream,2,pop,2026-11-23,2026-11-23,1,9,dev
+devilman crybaby,2,pop,2026-11-23,2026-11-23,1,11,dev
+devil fruit,2,pop,2026-11-23,2026-11-23,1,12,dev
+software developer,2,pop,2026-11-23,2026-11-23,1,13,dev
+devilman,1,pop,2026-11-23,2026-11-23,1,14,dev
+devin booker,2,pop,2026-11-23,2026-11-23,1,15,dev
+duke blue devils,3,pop,2026-11-23,2026-11-23,1,16,dev
+devon,1,pop,2026-11-23,2026-11-23,1,17,dev
+devil girl,2,pop,2026-11-23,2026-11-23,1,19,dev
+devops girl,2,trend,2026-11-23,2026-11-23,1,2,dev
+devils night,2,trend,2026-11-23,2026-11-23,1,4,dev
+raven teen titans,3,pop,2026-11-23,2026-11-23,1,4,tee
+teeth,1,pop,2026-11-23,2026-11-23,1,6,tee
+teepublic,1,pop,2026-11-23,2026-11-23,1,7,tee
+teen titans go,3,pop,2026-11-23,2026-11-23,1,8,tee
+teen,1,pop,2026-11-23,2026-11-23,1,9,tee
+dr teeth and the electric mayhem,6,pop,2026-11-23,2026-11-23,1,12,tee
+teenage fanclub,2,pop,2026-11-23,2026-11-23,1,13,tee
+dita von teese,3,pop,2026-11-23,2026-11-23,1,14,tee
+teespring,1,pop,2026-11-23,2026-11-23,1,15,tee
+teenager,1,pop,2026-11-23,2026-11-23,1,16,tee
+teeteepor,1,pop,2026-11-23,2026-11-23,1,17,tee
+rooster teeth,2,pop,2026-11-23,2026-11-23,1,18,tee
+teen titans raven,3,pop,2026-11-23,2026-11-23,1,19,tee
+msy,1,pop,2026-11-23,2026-11-23,1,0,msy
+afd,1,pop,2026-11-23,2026-11-23,1,0,afd
+fck afd,2,pop,2026-11-23,2026-11-23,1,1,afd
+anti afd,2,pop,2026-11-23,2026-11-23,1,2,afd
+afd supporter,2,pop,2026-11-23,2026-11-23,1,3,afd
+gegen afd,2,pop,2026-11-23,2026-11-23,1,4,afd
+afd logo parody,3,pop,2026-11-23,2026-11-23,1,5,afd
+afd germany,2,pop,2026-11-23,2026-11-23,1,6,afd
+jinu,1,pop,2026-11-23,2026-11-23,1,3,jin
+jinshi,1,pop,2026-11-23,2026-11-23,1,5,jin
+jinjer,1,pop,2026-11-23,2026-11-23,1,6,jin
+jinkx monsoon,2,pop,2026-11-23,2026-11-23,1,7,jin
+cody jinks,2,pop,2026-11-23,2026-11-23,1,8,jin
+jingle all the way,4,pop,2026-11-23,2026-11-23,2,9,jin
+jinro,1,pop,2026-11-23,2026-11-23,1,10,jin
+sung jin woo,3,pop,2026-11-23,2026-11-23,1,11,jin
+jin roh,2,pop,2026-11-23,2026-11-23,1,12,jin
+jin sakai,2,pop,2026-11-23,2026-11-23,1,13,jin
+super tuna jin,3,pop,2026-11-23,2026-11-23,1,16,jin
+qui gon jinn,3,pop,2026-11-23,2026-11-23,1,17,jin
+jinbe,1,pop,2026-11-23,2026-11-23,1,18,jin
+jiniret,1,pop,2026-11-23,2026-11-23,1,19,jin
+acg,1,pop,2026-11-23,2026-11-23,1,0,acg
+burak ozcivit,2,pop,2026-11-23,2026-11-23,1,0,ozc
+burak ozcivit fan,3,pop,2026-11-23,2026-11-23,1,1,ozc
+sfi,1,pop,2026-11-23,2026-11-23,1,0,sfi
+ipsc,1,pop,2026-11-23,2026-11-23,1,1,ips
+lorem ipsum,2,pop,2026-11-23,2026-11-23,1,2,ips
+ipswich,1,pop,2026-11-23,2026-11-23,1,3,ips
+retired ips officer,3,pop,2026-11-23,2026-11-23,1,4,ips
+ipswich town fc,3,pop,2026-11-23,2026-11-23,1,5,ips
+quis custodiet ipsos custodes,4,pop,2026-11-23,2026-11-23,1,7,ips
+ips,1,pop,2026-11-23,2026-11-23,1,8,ips
+ipswich ale brewery,3,pop,2026-11-23,2026-11-23,1,9,ips
+ipswich ma,2,pop,2026-11-23,2026-11-23,1,10,ips
+funny ecg quotes,3,pop,2026-11-23,2026-11-23,1,1,ecg
+yinwar,1,pop,2026-11-23,2026-11-23,1,7,yin
+guan yin,2,pop,2026-11-23,2026-11-23,1,8,yin
+wei ying,2,pop,2026-11-23,2026-11-23,1,9,yin
+kuan yin,2,pop,2026-11-23,2026-11-23,1,10,yin
+yinyang,1,pop,2026-11-23,2026-11-23,1,11,yin
+yin yang dragon and phoenix,5,pop,2026-11-23,2026-11-23,1,13,yin
+yin yang fish,3,pop,2026-11-23,2026-11-23,1,14,yin
+yin yang cat,3,pop,2026-11-23,2026-11-23,1,15,yin
+ying and yang,3,pop,2026-11-23,2026-11-23,1,17,yin
+yinlin,1,pop,2026-11-23,2026-11-23,1,18,yin
+yin yang yo,3,pop,2026-11-23,2026-11-23,1,19,yin
+wybie,1,pop,2026-11-23,2026-11-23,1,0,wyb
+coraline wybie,2,pop,2026-11-23,2026-11-23,1,1,wyb
+coraline and wybie,3,pop,2026-11-23,2026-11-23,1,2,wyb
+waynes world,2,pop,2026-11-23,2026-11-23,1,2,way
+john wayne,2,pop,2026-11-23,2026-11-23,1,3,way
+this is the way,4,pop,2026-11-23,2026-11-23,1,4,way
+damian wayne,2,pop,2026-11-23,2026-11-23,1,5,way
+mikey way,2,pop,2026-11-23,2026-11-23,1,7,way
+milky way,2,pop,2026-11-23,2026-11-23,1,8,way
+wayne thiebaud,2,pop,2026-11-23,2026-11-23,1,10,way
+wild atlantic way,3,pop,2026-11-23,2026-11-23,1,11,way
+wayne gretzky,2,pop,2026-11-23,2026-11-23,1,13,way
+way of kings,3,pop,2026-11-23,2026-11-23,1,14,way
+fountains of wayne,3,pop,2026-11-23,2026-11-23,1,15,way
+dumb ways to die,4,pop,2026-11-23,2026-11-23,1,16,way
+wayne rooney,2,pop,2026-11-23,2026-11-23,1,17,way
+wayv,1,pop,2026-11-23,2026-11-23,1,18,way
+rebelde way,2,pop,2026-11-23,2026-11-23,1,19,way
+mgtf,1,pop,2026-11-23,2026-11-23,1,1,mgt
+minnesota lynx,2,pop,2026-11-23,2026-11-23,1,10,lyn
+becky lynch,2,pop,2026-11-23,2026-11-23,1,11,lyn
+merrill lynch,2,pop,2026-11-23,2026-11-23,1,12,lyn
+vesper lynd jewelry,3,pop,2026-11-23,2026-11-23,1,13,lyn
+loretta lynn,2,pop,2026-11-23,2026-11-23,1,14,lyn
+lynda carter,2,pop,2026-11-23,2026-11-23,1,15,lyn
+marshawn lynch,2,pop,2026-11-23,2026-11-23,1,16,lyn
+jennifer lynn barnes,3,pop,2026-11-23,2026-11-23,1,17,lyn
+george lynch,2,pop,2026-11-23,2026-11-23,1,19,lyn
+gsus,1,pop,2026-11-23,2026-11-23,1,1,gsu
+lsx engine,2,pop,2026-11-23,2026-11-23,1,2,lsx
+asexual flag,2,pop,2026-11-23,2026-11-23,1,2,ase
+aromantic asexual,2,pop,2026-11-23,2026-11-23,1,3,ase
+asexuality,1,pop,2026-11-23,2026-11-23,1,4,ase
+marco asensio,2,pop,2026-11-23,2026-11-23,1,5,ase
+subtle asexual,2,pop,2026-11-23,2026-11-23,1,6,ase
+biromantic asexual,2,pop,2026-11-23,2026-11-23,1,7,ase
+asethetic,1,pop,2026-11-23,2026-11-23,1,8,ase
+asexual dragon,2,pop,2026-11-23,2026-11-23,1,9,ase
+aseprite,1,pop,2026-11-23,2026-11-23,1,10,ase
+asean,1,pop,2026-11-23,2026-11-23,1,11,ase
+asexual alastor,2,pop,2026-11-23,2026-11-23,1,12,ase
+ase,1,pop,2026-11-23,2026-11-23,1,13,ase
+asexual pride flag,3,pop,2026-11-23,2026-11-23,1,14,ase
+panromantic asexual,2,pop,2026-11-23,2026-11-23,1,15,ase
+gray asexual,2,pop,2026-11-23,2026-11-23,1,16,ase
+asesino de demonios,3,pop,2026-11-23,2026-11-23,1,17,ase
+asexual lesbian,2,pop,2026-11-23,2026-11-23,1,18,ase
+asesino,1,pop,2026-11-23,2026-11-23,1,19,ase
+mokele mbembe,2,pop,2026-11-23,2026-11-23,1,2,mbe
+mary and the witchs flower,5,pop,2026-11-23,2026-11-23,1,0,witchs
+witchs brew,2,pop,2026-11-23,2026-11-23,1,1,witchs
+witchs knot,2,pop,2026-11-23,2026-11-23,1,2,witchs
+zig and sharko,3,pop,2026-11-23,2026-11-23,1,4,zig
+zigzag,1,pop,2026-11-23,2026-11-23,1,5,zig
+zig zag rolling papers,4,pop,2026-11-23,2026-11-23,1,6,zig
+zig,1,pop,2026-11-23,2026-11-23,1,7,zig
+ziggy cartoon,2,pop,2026-11-23,2026-11-23,1,8,zig
+zig zag man,3,pop,2026-11-23,2026-11-23,1,9,zig
+zigzagoon,1,pop,2026-11-23,2026-11-23,1,10,zig
+zig programming language,3,pop,2026-11-23,2026-11-23,1,11,zig
+emily zigo,2,pop,2026-11-23,2026-11-23,1,12,zig
+ziggy marley,2,pop,2026-11-23,2026-11-23,1,13,zig
+cartoon ziggy,2,pop,2026-11-23,2026-11-23,1,14,zig
+ziggy berman,2,pop,2026-11-23,2026-11-23,1,15,zig
+sebek zigvolt,2,pop,2026-11-23,2026-11-23,1,16,zig
+zig zag papers,3,pop,2026-11-23,2026-11-23,1,17,zig
+ziggy stardust and the spiders from mars,7,pop,2026-11-23,2026-11-23,1,18,zig
+ziggy played guitar,3,pop,2026-11-23,2026-11-23,1,19,zig
+nrw,1,pop,2026-11-23,2026-11-23,1,0,nrw
+thailand,1,pop,2026-11-23,2026-11-23,1,1,tha
+thanksgiving,1,pop,2026-11-23,2026-11-23,1,2,tha
+muay thai,2,pop,2026-11-23,2026-11-23,1,3,tha
+thai bl,2,pop,2026-11-23,2026-11-23,1,5,tha
+i did that,3,pop,2026-11-23,2026-11-23,1,6,tha
+thank you,2,pop,2026-11-23,2026-11-23,1,7,tha
+thalapathy vijay,2,pop,2026-11-23,2026-11-23,1,9,tha
+thai,1,pop,2026-11-23,2026-11-23,1,11,tha
+i saw that,3,pop,2026-11-23,2026-11-23,1,12,tha
+mason thames,2,pop,2026-11-23,2026-11-23,1,15,tha
+thats so raven,3,pop,2026-11-23,2026-11-23,1,16,tha
+sophie thatcher,2,pop,2026-11-23,2026-11-23,1,17,tha
+margaret thatcher,2,pop,2026-11-23,2026-11-23,1,18,tha
+thats what she said,4,pop,2026-11-23,2026-11-23,1,19,tha
+greenville sc,2,pop,2026-11-23,2026-11-23,1,0,greenv
+greenville swamp rabbits,3,pop,2026-11-23,2026-11-23,1,1,greenv
+greenville,1,pop,2026-11-23,2026-11-23,1,2,greenv
+greenville south carolina,3,pop,2026-11-23,2026-11-23,1,3,greenv
+greenville nc,2,pop,2026-11-23,2026-11-23,1,4,greenv
+north greenville university,3,pop,2026-11-23,2026-11-23,1,5,greenv
+dark urge,2,pop,2026-11-23,2026-11-23,1,0,urg
+urgot,1,pop,2026-11-23,2026-11-23,1,1,urg
+the dark urge,3,pop,2026-11-23,2026-11-23,1,2,urg
+urgent,1,pop,2026-11-23,2026-11-23,1,3,urg
+urgent care,2,pop,2026-11-23,2026-11-23,1,4,urg
+urgency,1,pop,2026-11-23,2026-11-23,1,5,urg
+urgent calls only,3,pop,2026-11-23,2026-11-23,1,6,urg
+the irresistible urge to fall for your enemy,8,pop,2026-11-23,2026-11-23,1,7,urg
+the urge,2,pop,2026-11-23,2026-11-23,1,8,urg
+ape escape,2,pop,2026-11-23,2026-11-23,1,5,ape
+ape,1,pop,2026-11-23,2026-11-23,1,6,ape
+aperture laboratories,2,pop,2026-11-23,2026-11-23,1,7,ape
+apex,1,pop,2026-11-23,2026-11-23,1,8,ape
+aperture,1,pop,2026-11-23,2026-11-23,1,9,ape
+apex twin,2,pop,2026-11-23,2026-11-23,1,10,ape
+grape ape,2,pop,2026-11-23,2026-11-23,1,11,ape
+bored ape,2,pop,2026-11-23,2026-11-23,1,12,ape
+apex predator,2,pop,2026-11-23,2026-11-23,1,14,ape
+apes,1,pop,2026-11-23,2026-11-23,1,16,ape
+apes together strong,3,pop,2026-11-23,2026-11-23,1,17,ape
+apeks,1,pop,2026-11-23,2026-11-23,1,18,ape
+apex legends nessie,3,pop,2026-11-23,2026-11-23,1,19,ape
+wimbledon,1,pop,2026-11-23,2026-11-23,1,0,wim
+wimpy kid,2,pop,2026-11-23,2026-11-23,1,1,wim
+diary of a wimpy kid,5,pop,2026-11-23,2026-11-23,1,2,wim
+of a wimpy kid,4,pop,2026-11-23,2026-11-23,1,3,wim
+the championships wimbledon,3,pop,2026-11-23,2026-11-23,1,4,wim
+wimmelbilder,1,pop,2026-11-23,2026-11-23,1,5,wim
+afc wimbledon,2,pop,2026-11-23,2026-11-23,1,7,wim
+wimpy,1,pop,2026-11-23,2026-11-23,1,9,wim
+wimdy,1,pop,2026-11-23,2026-11-23,1,10,wim
+wimmelbild,1,pop,2026-11-23,2026-11-23,1,11,wim
+its fucken wimdy,3,pop,2026-11-23,2026-11-23,1,12,wim
+wimbledon junior champion,3,pop,2026-11-23,2026-11-23,1,13,wim
+wimbledon tennis,2,pop,2026-11-23,2026-11-23,1,14,wim
+burger wimpy,2,pop,2026-11-23,2026-11-23,1,15,wim
+it fucken wimdy,3,pop,2026-11-23,2026-11-23,1,16,wim
+hank j wimbleton,3,pop,2026-11-23,2026-11-23,1,17,wim
+lord peter wimsey,3,pop,2026-11-23,2026-11-23,1,18,wim
+wimsical,1,pop,2026-11-23,2026-11-23,1,19,wim
+subway,1,pop,2026-11-23,2026-11-23,1,3,sub
+submissive,1,pop,2026-11-23,2026-11-23,1,4,sub
+the substance,2,pop,2026-11-23,2026-11-23,1,5,sub
+submarine,1,pop,2026-11-23,2026-11-23,1,6,sub
+subtronics,1,pop,2026-11-23,2026-11-23,1,9,sub
+discord subcription services,3,pop,2026-11-23,2026-11-23,1,12,sub
+sub zero,2,pop,2026-11-23,2026-11-23,1,14,sub
+subway sandwich,2,pop,2026-11-23,2026-11-23,2,15,sub
+subway surfer,2,pop,2026-11-23,2026-11-23,1,16,sub
+submissive male,2,pop,2026-11-23,2026-11-23,1,18,sub
+subtle,1,pop,2026-11-23,2026-11-23,1,19,sub
+beachcombers,1,pop,2026-11-23,2026-11-23,1,0,beachc
+beachcomber,1,pop,2026-11-23,2026-11-23,1,1,beachc
+don the beachcomber,3,pop,2026-11-23,2026-11-23,1,2,beachc
+beachcombing,1,pop,2026-11-23,2026-11-23,1,3,beachc
+zues,1,pop,2026-11-23,2026-11-23,1,0,zue
+ugh emoji,2,pop,2026-11-23,2026-11-23,1,2,ugh
+your behavior is so ugh,5,pop,2026-11-23,2026-11-23,1,3,ugh
+ughh,1,pop,2026-11-23,2026-11-23,1,4,ugh
+nails,1,pop,2026-11-23,2026-11-23,1,0,nai
+nailbomb,1,pop,2026-11-23,2026-11-23,1,1,nai
+nail polish,2,pop,2026-11-23,2026-11-23,1,5,nai
+nails band,2,pop,2026-11-23,2026-11-23,1,6,nai
+nail,1,pop,2026-11-23,2026-11-23,1,7,nai
+nail tech,2,pop,2026-11-23,2026-11-23,1,8,nai
+naive,1,pop,2026-11-23,2026-11-23,1,9,nai
+nairobi,1,pop,2026-11-23,2026-11-23,1,10,nai
+obi wan nairobi,3,pop,2026-11-23,2026-11-23,1,11,nai
+nail art,2,pop,2026-11-23,2026-11-23,1,12,nai
+naive art,2,pop,2026-11-23,2026-11-23,1,13,nai
+nailed it,2,pop,2026-11-23,2026-11-23,1,14,nai
+naish,1,pop,2026-11-23,2026-11-23,1,15,nai
+jimmy nail,2,pop,2026-11-23,2026-11-23,1,16,nai
+press on nails,3,pop,2026-11-23,2026-11-23,1,18,nai
+rusty nail,2,pop,2026-11-23,2026-11-23,1,19,nai
+mechanic,1,pop,2026-11-23,2026-11-23,1,0,mec
+mechwarrior,1,pop,2026-11-23,2026-11-23,1,2,mec
+mechanical engineering,2,pop,2026-11-23,2026-11-23,1,4,mec
+aircraft mechanic,2,pop,2026-11-23,2026-11-23,1,5,mec
+mecha,1,pop,2026-11-23,2026-11-23,1,6,mec
+the mechanisms,2,pop,2026-11-23,2026-11-23,1,7,mec
+mech,1,pop,2026-11-23,2026-11-23,1,9,mec
+mechanicus,1,pop,2026-11-23,2026-11-23,1,10,mec
+mechanisms,1,pop,2026-11-23,2026-11-23,1,11,mec
+funny mechanic,2,pop,2026-11-23,2026-11-23,1,13,mec
+mechanical,1,pop,2026-11-23,2026-11-23,1,15,mec
+diesel mechanic,2,pop,2026-11-23,2026-11-23,1,16,mec
+mechanical keyboard,2,pop,2026-11-23,2026-11-23,1,17,mec
+quantum mechanics,2,pop,2026-11-23,2026-11-23,1,18,mec
+k v mechelen,3,pop,2026-11-23,2026-11-23,1,19,mec
+mechanic mom,2,trend,2026-11-23,2026-11-23,1,2,mec
+karan aujla,2,pop,2026-11-23,2026-11-23,1,0,auj
+karan aujla karan,3,pop,2026-11-23,2026-11-23,1,1,auj
+karan aujla arts,3,pop,2026-11-23,2026-11-23,1,2,auj
+aujla,1,pop,2026-11-23,2026-11-23,1,3,auj
+aujla karan aujla,3,pop,2026-11-23,2026-11-23,1,4,auj
+pegasus,1,pop,2026-11-23,2026-11-23,1,0,peg
+mobil pegasus,2,pop,2026-11-23,2026-11-23,1,2,peg
+peggy hill,2,pop,2026-11-23,2026-11-23,1,3,peg
+peggys cove,2,pop,2026-11-23,2026-11-23,1,4,peg
+peggle,1,pop,2026-11-23,2026-11-23,1,5,peg
+simon pegg,2,pop,2026-11-23,2026-11-23,1,6,peg
+peggy,1,pop,2026-11-23,2026-11-23,1,8,peg
+peggy bundy,2,pop,2026-11-23,2026-11-23,1,9,peg
+peg,1,pop,2026-11-23,2026-11-23,1,10,peg
+pegatinas,1,pop,2026-11-23,2026-11-23,1,11,peg
+peg the patriarchy,3,pop,2026-11-23,2026-11-23,1,12,peg
+peggy olson,2,pop,2026-11-23,2026-11-23,1,13,peg
+peggy lee,2,pop,2026-11-23,2026-11-23,1,14,peg
+me encantan las latinas culonas pegatinas,6,pop,2026-11-23,2026-11-23,1,15,peg
+pegasso,1,pop,2026-11-23,2026-11-23,1,16,peg
+jessica pegula,2,pop,2026-11-23,2026-11-23,1,17,peg
+pegi 18,2,pop,2026-11-23,2026-11-23,1,18,peg
+beggin for a peggin,4,pop,2026-11-23,2026-11-23,1,19,peg
